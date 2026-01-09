@@ -79,6 +79,7 @@ football-data-scraper/
 ├── requirements.txt
 ├── data/
 │   └── la_liga_2024_25_matches.csv
+│   └── la_liga_2024_25.db
 ├── sql/
 │   └── team_matches.sql
 └── README.md
