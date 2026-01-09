@@ -1,50 +1,72 @@
-# La Liga 2024/25 — Match Data Scraper (FBref)
+# La Liga 2024/25 — Match Data Scraper & Analysis (FBref)
 
-This project scrapes match-level data from the 2024/25 La Liga season using FBref as the data source.
+This project collects and models match-level data from the **2024/25 La Liga season**, using FBref as the data source.
 
-The goal was to build a **robust and reproducible data collection pipeline**, producing a clean dataset ready for SQL analysis and visualization tools such as Tableau.
+The goal is to build a **robust, reproducible data pipeline**, transforming raw match data into an **analysis-ready dataset** for SQL-based exploration and visualization (e.g. Tableau).
 
 ---
 
 ## 📌 Data Collected
 
-Each row represents one match. The final dataset includes:
+### Raw dataset (match-level)
 
-- Date
-- Home team
-- Away team
-- Final score
-- Expected Goals (xG) — home and away
-- Attendance
-- Venue
-- Match report URL
+Each row represents **one match**. The scraped dataset includes:
+
+- Date  
+- Home team  
+- Away team  
+- Final score  
+- Expected Goals (xG) — home and away  
+- Attendance  
+- Venue  
+- Match report URL  
 
 Total matches: **380**
 
 ---
 
+### Analytical model (team-level)
+
+To enable team-based analysis, the raw match data is transformed in SQLite into a **team-level analytical view**:
+
+- Each match is represented by **two rows** (one per team)
+- Metrics are derived directly from match data, including:
+  - Goals for / against
+  - Goal difference
+  - xG difference
+  - Match result (W / D / L)
+  - Points earned (3 / 1 / 0)
+  - Home / away flag
+
+This structure allows cumulative, comparative and storytelling-driven analysis at team level.
+
+---
+
 ## 🛠️ Tech Stack
 
-- **Python**
-- **Playwright** — used to bypass Cloudflare protection and load dynamic content
-- **BeautifulSoup** — HTML parsing
-- **CSV** — final dataset output
+- **Python** — data collection and orchestration  
+- **Playwright** — browser automation to bypass Cloudflare and load dynamic content  
+- **BeautifulSoup** — HTML parsing  
+- **CSV** — raw data output  
+- **SQLite** — lightweight analytical database for SQL exploration  
 
 ---
 
 ## 🧠 Key Design Decisions
 
 - **Playwright instead of requests**  
-  FBref uses Cloudflare, which blocks traditional HTTP requests. A real browser session was required.
+  FBref uses Cloudflare protection, which blocks traditional HTTP requests. A real browser session was required to reliably access the data.
 
-- **Semantic filtering**  
-  Only rows containing a "Match Report" link were considered valid matches, avoiding header rows and visual separators.
+- **Semantic filtering of matches**  
+  Only rows containing a *Match Report* link are treated as valid matches, avoiding header rows, separators and incomplete entries.
 
 - **HTML-driven selectors**  
-  Data extraction relies on `data-stat` attributes rather than tag types (`td` / `th`) to ensure robustness.
+  Data extraction relies on `data-stat` attributes rather than tag types (`td` / `th`), making the scraper more resilient to layout changes.
 
-- **Data quality over volume**  
-  Matches without mandatory fields (date, teams, score) are excluded to keep the dataset analysis-ready.
+- **Separation of raw data and analytics**  
+  - Raw match data is stored as-is  
+  - All analytical logic (results, points, differentials) is implemented in SQL views  
+  This keeps the pipeline transparent, reproducible and easy to extend.
 
 ---
 
@@ -57,4 +79,6 @@ football-data-scraper/
 ├── requirements.txt
 ├── data/
 │   └── la_liga_2024_25_matches.csv
+├── sql/
+│   └── team_matches.sql
 └── README.md
