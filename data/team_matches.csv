@@ -1,0 +1,761 @@
+match_id,date,team,opponent,home_away,goals_for,goals_against,xg_for,xg_against,goal_diff,xg_diff,result,points,attendance,venue,match_report_url
+1,2024-08-15,"Athletic Club",Getafe,home,1,1,0.3,0.8,0,-0.5,D,1,47845,"San Mamés",https://fbref.com/en/matches/32bb9a67/Athletic-Club-Getafe-August-15-2024-La-Liga
+2,2024-08-15,Betis,Girona,home,1,1,1.4,1.6,0,-0.2,D,1,54084,"Estadio Benito Villamarín",https://fbref.com/en/matches/f13e982e/Real-Betis-Girona-August-15-2024-La-Liga
+3,2024-08-16,"Celta Vigo","Alavés",home,2,1,0.8,1.6,1,-0.8,W,3,22477,"Estadio Abanca Balaídos",https://fbref.com/en/matches/3c487349/Celta-Vigo-Alaves-August-16-2024-La-Liga
+4,2024-08-16,"Las Palmas",Sevilla,home,2,2,1.4,1.8,0,-0.4,D,1,24843,"Estadio de Gran Canaria",https://fbref.com/en/matches/82605913/Las-Palmas-Sevilla-August-16-2024-La-Liga
+5,2024-08-17,Osasuna,"Leganés",home,1,1,1.7,1.0,0,0.7,D,1,19561,"Estadio El Sadar",https://fbref.com/en/matches/e593cd07/Osasuna-Leganes-August-17-2024-La-Liga
+6,2024-08-17,Valencia,Barcelona,home,1,2,1.0,3.2,-1,-2.2,L,0,46673,"Estadio de Mestalla",https://fbref.com/en/matches/6f0fac43/Valencia-Barcelona-August-17-2024-La-Liga
+7,2024-08-18,"Real Sociedad","Rayo Vallecano",home,1,2,1.1,1.1,-1,0.0,L,0,31763,"Reale Arena",https://fbref.com/en/matches/e826cf9e/Real-Sociedad-Rayo-Vallecano-August-18-2024-La-Liga
+8,2024-08-18,Mallorca,"Real Madrid",home,1,1,1.0,0.6,0,0.4,D,1,23010,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/c6b7a6e0/Mallorca-Real-Madrid-August-18-2024-La-Liga
+9,2024-08-19,Valladolid,Espanyol,home,1,0,0.8,0.7,1,0.1,W,3,22027,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/43c02c2b/Valladolid-Espanyol-August-19-2024-La-Liga
+10,2024-08-19,Villarreal,"Atlético Madrid",home,2,2,0.8,1.1,0,-0.3,D,1,21566,"Estadio de la Cerámica",https://fbref.com/en/matches/2a59dd47/Villarreal-Atletico-Madrid-August-19-2024-La-Liga
+11,2024-08-23,"Celta Vigo",Valencia,home,3,1,1.3,0.9,2,0.4,W,3,23519,"Estadio Abanca Balaídos",https://fbref.com/en/matches/95447cec/Celta-Vigo-Valencia-August-23-2024-La-Liga
+12,2024-08-23,Sevilla,Villarreal,home,1,2,1.0,0.9,-1,0.1,L,0,34004,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/0d54805a/Sevilla-Villarreal-August-23-2024-La-Liga
+13,2024-08-24,Osasuna,Mallorca,home,1,0,0.6,0.6,1,0.0,W,3,19900,"Estadio El Sadar",https://fbref.com/en/matches/384225d1/Osasuna-Mallorca-August-24-2024-La-Liga
+14,2024-08-24,Barcelona,"Athletic Club",home,2,1,1.8,1.0,1,0.8,W,3,46448,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/87bc9bba/Barcelona-Athletic-Club-August-24-2024-La-Liga
+15,2024-08-24,Getafe,"Rayo Vallecano",home,0,0,0.5,0.2,0,0.3,D,1,9529,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/e11566fd/Getafe-Rayo-Vallecano-August-24-2024-La-Liga
+16,2024-08-24,Espanyol,"Real Sociedad",home,0,1,1.6,0.8,-1,0.8,L,0,20900,"RCDE Stadium",https://fbref.com/en/matches/3c8fe9de/Espanyol-Real-Sociedad-August-24-2024-La-Liga
+17,2024-08-25,"Real Madrid",Valladolid,home,3,0,2.1,0.4,3,1.7,W,3,70178,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/3f2f6c96/Real-Madrid-Valladolid-August-25-2024-La-Liga
+18,2024-08-25,"Leganés","Las Palmas",home,2,1,1.5,0.9,1,0.6,W,3,10052,"Estadio Municipal de Butarque",https://fbref.com/en/matches/b1f96209/Leganes-Las-Palmas-August-25-2024-La-Liga
+19,2024-08-25,"Alavés",Betis,home,0,0,0.2,1.5,0,-1.3,D,1,16623,"Estadio de Mendizorroza",https://fbref.com/en/matches/b757e16f/Alaves-Real-Betis-August-25-2024-La-Liga
+20,2024-08-25,"Atlético Madrid",Girona,home,3,0,1.2,0.7,3,0.5,W,3,60414,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/c6c0a3d3/Atletico-Madrid-Girona-August-25-2024-La-Liga
+21,2024-08-26,Villarreal,"Celta Vigo",home,4,3,3.6,2.7,1,0.9,W,3,19651,"Estadio de la Cerámica",https://fbref.com/en/matches/050fe7c2/Villarreal-Celta-Vigo-August-26-2024-La-Liga
+22,2024-08-27,Mallorca,Sevilla,home,0,0,0.9,0.7,0,0.2,D,1,20470,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/6049a447/Mallorca-Sevilla-August-27-2024-La-Liga
+23,2024-08-27,"Rayo Vallecano",Barcelona,home,1,2,0.4,1.4,-1,-1.0,L,0,14031,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/f8fc00c7/Rayo-Vallecano-Barcelona-August-27-2024-La-Liga
+24,2024-08-28,"Athletic Club",Valencia,home,1,0,1.4,0.1,1,1.3,W,3,48644,"San Mamés",https://fbref.com/en/matches/acc2bc45/Athletic-Club-Valencia-August-28-2024-La-Liga
+25,2024-08-28,Valladolid,"Leganés",home,0,0,1.1,0.2,0,0.9,D,1,21764,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/843a0b94/Valladolid-Leganes-August-28-2024-La-Liga
+26,2024-08-28,"Atlético Madrid",Espanyol,home,0,0,2.3,0.6,0,1.7,D,1,56669,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/ef04c85d/Atletico-Madrid-Espanyol-August-28-2024-La-Liga
+27,2024-08-28,"Real Sociedad","Alavés",home,1,2,1.0,1.6,-1,-0.6,L,0,32220,"Reale Arena",https://fbref.com/en/matches/71669703/Real-Sociedad-Alaves-August-28-2024-La-Liga
+28,2024-08-29,Girona,Osasuna,home,4,0,2.4,0.0,4,2.4,W,3,13275,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/6e8b4c78/Girona-Osasuna-August-29-2024-La-Liga
+29,2024-08-29,"Las Palmas","Real Madrid",home,1,1,0.8,2.5,0,-1.7,D,1,31192,"Estadio de Gran Canaria",https://fbref.com/en/matches/173a87bb/Las-Palmas-Real-Madrid-August-29-2024-La-Liga
+30,2024-08-31,Barcelona,Valladolid,home,7,0,4.7,0.5,7,4.2,W,3,44359,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/3ed1b8ff/Barcelona-Valladolid-August-31-2024-La-Liga
+31,2024-08-31,"Athletic Club","Atlético Madrid",home,0,1,0.3,1.7,-1,-1.4,L,0,48617,"San Mamés",https://fbref.com/en/matches/d554e8b9/Athletic-Club-Atletico-Madrid-August-31-2024-La-Liga
+32,2024-08-31,Espanyol,"Rayo Vallecano",home,2,1,1.6,1.3,1,0.3,W,3,22405,"RCDE Stadium",https://fbref.com/en/matches/02bfae4e/Espanyol-Rayo-Vallecano-August-31-2024-La-Liga
+33,2024-08-31,Valencia,Villarreal,home,1,1,1.1,0.5,0,0.6,D,1,43857,"Estadio de Mestalla",https://fbref.com/en/matches/e79d506b/Valencia-Villarreal-August-31-2024-La-Liga
+34,2024-08-31,"Leganés",Mallorca,home,0,1,0.3,1.0,-1,-0.7,L,0,10482,"Estadio Municipal de Butarque",https://fbref.com/en/matches/2053d836/Leganes-Mallorca-August-31-2024-La-Liga
+35,2024-09-01,"Alavés","Las Palmas",home,2,0,2.0,0.7,2,1.3,W,3,16386,"Estadio de Mendizorroza",https://fbref.com/en/matches/572463cb/Alaves-Las-Palmas-September-1-2024-La-Liga
+36,2024-09-01,Osasuna,"Celta Vigo",home,3,2,0.9,1.7,1,-0.8,W,3,19908,"Estadio El Sadar",https://fbref.com/en/matches/7aa26780/Osasuna-Celta-Vigo-September-1-2024-La-Liga
+37,2024-09-01,Sevilla,Girona,home,0,2,0.9,1.9,-2,-1.0,L,0,35735,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/50cdc0c9/Sevilla-Girona-September-1-2024-La-Liga
+38,2024-09-01,Getafe,"Real Sociedad",home,0,0,0.6,0.0,0,0.6,D,1,10929,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/5a140caa/Getafe-Real-Sociedad-September-1-2024-La-Liga
+39,2024-09-01,"Real Madrid",Betis,home,2,0,2.4,0.6,2,1.8,W,3,73072,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/f8b3c447/Real-Madrid-Real-Betis-September-1-2024-La-Liga
+40,2024-09-13,Betis,"Leganés",home,2,0,2.1,0.1,2,2.0,W,3,48089,"Estadio Benito Villamarín",https://fbref.com/en/matches/3c660029/Real-Betis-Leganes-September-13-2024-La-Liga
+41,2024-09-14,Mallorca,Villarreal,home,1,2,0.3,1.8,-1,-1.5,L,0,18303,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/4f2bd132/Mallorca-Villarreal-September-14-2024-La-Liga
+42,2024-09-14,Espanyol,"Alavés",home,3,2,1.6,1.9,1,-0.3,W,3,24238,"RCDE Stadium",https://fbref.com/en/matches/28cd11c2/Espanyol-Alaves-September-14-2024-La-Liga
+43,2024-09-14,Sevilla,Getafe,home,1,0,1.4,1.0,1,0.4,W,3,32643,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/a214487d/Sevilla-Getafe-September-14-2024-La-Liga
+44,2024-09-14,"Real Sociedad","Real Madrid",home,0,2,1.1,2.3,-2,-1.2,L,0,37370,"Reale Arena",https://fbref.com/en/matches/50a17164/Real-Sociedad-Real-Madrid-September-14-2024-La-Liga
+45,2024-09-15,"Celta Vigo",Valladolid,home,3,1,1.8,0.5,2,1.3,W,3,21670,"Estadio Abanca Balaídos",https://fbref.com/en/matches/72aa5092/Celta-Vigo-Valladolid-September-15-2024-La-Liga
+46,2024-09-15,Girona,Barcelona,home,1,4,1.3,1.9,-3,-0.6,L,0,13891,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/f166ffc9/Girona-Barcelona-September-15-2024-La-Liga
+47,2024-09-15,"Las Palmas","Athletic Club",home,2,3,1.4,1.7,-1,-0.3,L,0,25908,"Estadio de Gran Canaria",https://fbref.com/en/matches/defd20c7/Las-Palmas-Athletic-Club-September-15-2024-La-Liga
+48,2024-09-15,"Atlético Madrid",Valencia,home,3,0,3.1,0.1,3,3.0,W,3,61752,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/e1e5325c/Atletico-Madrid-Valencia-September-15-2024-La-Liga
+49,2024-09-16,"Rayo Vallecano",Osasuna,home,3,1,1.6,0.3,2,1.3,W,3,13073,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/b5605cb6/Rayo-Vallecano-Osasuna-September-16-2024-La-Liga
+50,2024-09-17,Mallorca,"Real Sociedad",home,1,0,1.2,0.6,1,0.6,W,3,17132,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/6ced9ec5/Mallorca-Real-Sociedad-September-17-2024-La-Liga
+51,2024-09-18,Betis,Getafe,home,2,1,2.6,0.6,1,2.0,W,3,48547,"Estadio Benito Villamarín",https://fbref.com/en/matches/d2722540/Real-Betis-Getafe-September-18-2024-La-Liga
+52,2024-09-19,"Leganés","Athletic Club",home,0,2,0.9,1.3,-2,-0.4,L,0,8304,"Estadio Municipal de Butarque",https://fbref.com/en/matches/613f75be/Leganes-Athletic-Club-September-19-2024-La-Liga
+53,2024-09-20,"Alavés",Sevilla,home,2,1,1.1,0.5,1,0.6,W,3,16538,"Estadio de Mendizorroza",https://fbref.com/en/matches/f32a65e4/Alaves-Sevilla-September-20-2024-La-Liga
+54,2024-09-21,Valladolid,"Real Sociedad",home,0,0,1.0,1.4,0,-0.4,D,1,21171,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/cddbefd1/Valladolid-Real-Sociedad-September-21-2024-La-Liga
+55,2024-09-21,Osasuna,"Las Palmas",home,2,1,1.9,0.8,1,1.1,W,3,19043,"Estadio El Sadar",https://fbref.com/en/matches/9c8b0304/Osasuna-Las-Palmas-September-21-2024-La-Liga
+56,2024-09-21,Valencia,Girona,home,2,0,0.4,0.4,2,0.0,W,3,40896,"Estadio de Mestalla",https://fbref.com/en/matches/131899cd/Valencia-Girona-September-21-2024-La-Liga
+57,2024-09-21,"Real Madrid",Espanyol,home,4,1,4.4,0.3,3,4.1,W,3,17284,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/a46e38e7/Real-Madrid-Espanyol-September-21-2024-La-Liga
+58,2024-09-22,Getafe,"Leganés",home,1,1,1.5,0.6,0,0.9,D,1,13060,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/f5dbb50d/Getafe-Leganes-September-22-2024-La-Liga
+59,2024-09-22,"Athletic Club","Celta Vigo",home,3,1,0.7,1.3,2,-0.6,W,3,48737,"San Mamés",https://fbref.com/en/matches/d67421c6/Athletic-Club-Celta-Vigo-September-22-2024-La-Liga
+60,2024-09-22,Villarreal,Barcelona,home,1,5,2.2,3.9,-4,-1.7,L,0,22048,"Estadio de la Cerámica",https://fbref.com/en/matches/79c38937/Villarreal-Barcelona-September-22-2024-La-Liga
+61,2024-09-22,"Rayo Vallecano","Atlético Madrid",home,1,1,1.7,0.5,0,1.2,D,1,13646,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/75fab2fb/Rayo-Vallecano-Atletico-Madrid-September-22-2024-La-Liga
+62,2024-09-23,Betis,Mallorca,home,1,2,1.0,1.0,-1,0.0,L,0,47017,"Estadio Benito Villamarín",https://fbref.com/en/matches/c7505bdc/Real-Betis-Mallorca-September-23-2024-La-Liga
+63,2024-09-24,Sevilla,Valladolid,home,2,1,2.1,0.7,1,1.4,W,3,35292,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/3ee384b4/Sevilla-Valladolid-September-24-2024-La-Liga
+64,2024-09-24,Valencia,Osasuna,home,0,0,0.7,0.5,0,0.2,D,1,40425,"Estadio de Mestalla",https://fbref.com/en/matches/b979258f/Valencia-Osasuna-September-24-2024-La-Liga
+65,2024-09-24,"Real Madrid","Alavés",home,3,2,1.3,0.9,1,0.4,W,3,67480,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/618988b7/Real-Madrid-Alaves-September-24-2024-La-Liga
+66,2024-09-25,Girona,"Rayo Vallecano",home,0,0,2.0,0.5,0,1.5,D,1,12272,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/07598e53/Girona-Rayo-Vallecano-September-25-2024-La-Liga
+67,2024-09-25,Barcelona,Getafe,home,1,0,1.9,0.7,1,1.2,W,3,44407,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/231f83bc/Barcelona-Getafe-September-25-2024-La-Liga
+68,2024-09-26,"Las Palmas",Betis,home,1,1,1.0,1.9,0,-0.9,D,1,22722,"Estadio de Gran Canaria",https://fbref.com/en/matches/94fe3705/Las-Palmas-Real-Betis-September-26-2024-La-Liga
+69,2024-09-26,Espanyol,Villarreal,home,1,2,0.4,1.6,-1,-1.2,L,0,23147,"RCDE Stadium",https://fbref.com/en/matches/aef7cc8d/Espanyol-Villarreal-September-26-2024-La-Liga
+70,2024-09-26,"Celta Vigo","Atlético Madrid",home,0,1,1.5,0.6,-1,0.9,L,0,21533,"Estadio Abanca Balaídos",https://fbref.com/en/matches/01197df1/Celta-Vigo-Atletico-Madrid-September-26-2024-La-Liga
+71,2024-09-27,Valladolid,Mallorca,home,1,2,1.2,2.2,-1,-1.0,L,0,20388,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/d59e698a/Valladolid-Mallorca-September-27-2024-La-Liga
+72,2024-09-28,Getafe,"Alavés",home,2,0,2.1,0.5,2,1.6,W,3,10006,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/c745f73f/Getafe-Alaves-September-28-2024-La-Liga
+73,2024-09-28,"Rayo Vallecano","Leganés",home,1,1,0.9,0.9,0,0.0,D,1,13186,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/edd88e45/Rayo-Vallecano-Leganes-September-28-2024-La-Liga
+74,2024-09-28,"Real Sociedad",Valencia,home,3,0,3.4,0.8,3,2.6,W,3,32332,"Reale Arena",https://fbref.com/en/matches/6dfa7503/Real-Sociedad-Valencia-September-28-2024-La-Liga
+75,2024-09-28,Osasuna,Barcelona,home,4,2,2.2,0.8,2,1.4,W,3,22322,"Estadio El Sadar",https://fbref.com/en/matches/d5c58cc9/Osasuna-Barcelona-September-28-2024-La-Liga
+76,2024-09-29,"Celta Vigo",Girona,home,1,1,0.5,0.8,0,-0.3,D,1,21347,"Estadio Abanca Balaídos",https://fbref.com/en/matches/4c283fa8/Celta-Vigo-Girona-September-29-2024-La-Liga
+77,2024-09-29,"Athletic Club",Sevilla,home,1,1,2.0,1.1,0,0.9,D,1,48288,"San Mamés",https://fbref.com/en/matches/9b519ed0/Athletic-Club-Sevilla-September-29-2024-La-Liga
+78,2024-09-29,Betis,Espanyol,home,1,0,2.1,0.5,1,1.6,W,3,53065,"Estadio Benito Villamarín",https://fbref.com/en/matches/650b3ea7/Real-Betis-Espanyol-September-29-2024-La-Liga
+79,2024-09-29,"Atlético Madrid","Real Madrid",home,1,1,1.3,0.8,0,0.5,D,1,70112,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/0df1f571/El-Derbi-Madrileno-Atletico-Madrid-Real-Madrid-September-29-2024-La-Liga
+80,2024-09-30,Villarreal,"Las Palmas",home,3,1,2.8,0.9,2,1.9,W,3,18159,"Estadio de la Cerámica",https://fbref.com/en/matches/3ecbf46e/Villarreal-Las-Palmas-September-30-2024-La-Liga
+81,2024-10-04,"Leganés",Valencia,home,0,0,0.8,0.5,0,0.3,D,1,10958,"Estadio Municipal de Butarque",https://fbref.com/en/matches/18dc29a4/Leganes-Valencia-October-4-2024-La-Liga
+82,2024-10-05,Espanyol,Mallorca,home,2,1,0.9,1.6,1,-0.7,W,3,24434,"RCDE Stadium",https://fbref.com/en/matches/d2dd62e7/Espanyol-Mallorca-October-5-2024-La-Liga
+83,2024-10-05,Getafe,Osasuna,home,1,1,0.8,0.3,0,0.5,D,1,10670,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/fdd30e13/Getafe-Osasuna-October-5-2024-La-Liga
+84,2024-10-05,"Las Palmas","Celta Vigo",home,0,1,1.3,0.8,-1,0.5,L,0,21482,"Estadio de Gran Canaria",https://fbref.com/en/matches/8f767bea/Las-Palmas-Celta-Vigo-October-5-2024-La-Liga
+85,2024-10-05,Valladolid,"Rayo Vallecano",home,1,2,2.0,1.5,-1,0.5,L,0,21112,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/59703f58/Valladolid-Rayo-Vallecano-October-5-2024-La-Liga
+86,2024-10-05,"Real Madrid",Villarreal,home,2,0,0.5,1.1,2,-0.6,W,3,73842,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/9bf91e35/Real-Madrid-Villarreal-October-5-2024-La-Liga
+87,2024-10-06,Girona,"Athletic Club",home,2,1,1.9,3.1,1,-1.2,W,3,13396,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/7d98a38f/Girona-Athletic-Club-October-6-2024-La-Liga
+88,2024-10-06,"Alavés",Barcelona,home,0,3,0.7,2.7,-3,-2.0,L,0,19468,"Estadio de Mendizorroza",https://fbref.com/en/matches/ba5dd68e/Alaves-Barcelona-October-6-2024-La-Liga
+89,2024-10-06,Sevilla,Betis,home,1,0,1.4,0.6,1,0.8,W,3,42571,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/c9404de2/Sevilla-Real-Betis-October-6-2024-La-Liga
+90,2024-10-06,"Real Sociedad","Atlético Madrid",home,1,1,1.0,0.5,0,0.5,D,1,31983,"Reale Arena",https://fbref.com/en/matches/069145b6/Real-Sociedad-Atletico-Madrid-October-6-2024-La-Liga
+91,2024-10-18,"Alavés",Valladolid,home,2,3,0.5,2.4,-1,-1.9,L,0,16904,"Estadio de Mendizorroza",https://fbref.com/en/matches/a0c7186e/Alaves-Valladolid-October-18-2024-La-Liga
+92,2024-10-19,"Athletic Club",Espanyol,home,4,1,1.3,0.2,3,1.1,W,3,46713,"San Mamés",https://fbref.com/en/matches/0425fc2d/Athletic-Club-Espanyol-October-19-2024-La-Liga
+93,2024-10-19,Osasuna,Betis,home,1,2,2.0,2.1,-1,-0.1,L,0,21045,"Estadio El Sadar",https://fbref.com/en/matches/5ea3b789/Osasuna-Real-Betis-October-19-2024-La-Liga
+94,2024-10-19,Girona,"Real Sociedad",home,0,1,0.4,1.7,-1,-1.3,L,0,12602,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/ec18b3aa/Girona-Real-Sociedad-October-19-2024-La-Liga
+95,2024-10-19,"Celta Vigo","Real Madrid",home,1,2,1.8,0.7,-1,1.1,L,0,24445,"Estadio Abanca Balaídos",https://fbref.com/en/matches/50bf3afb/Celta-Vigo-Real-Madrid-October-19-2024-La-Liga
+96,2024-10-20,Mallorca,"Rayo Vallecano",home,1,0,2.0,0.6,1,1.4,W,3,18316,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/477327f9/Mallorca-Rayo-Vallecano-October-20-2024-La-Liga
+97,2024-10-20,"Atlético Madrid","Leganés",home,3,1,4.4,0.3,2,4.1,W,3,60122,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/d32fffe0/Atletico-Madrid-Leganes-October-20-2024-La-Liga
+98,2024-10-20,Villarreal,Getafe,home,1,1,0.9,1.9,0,-1.0,D,1,19355,"Estadio de la Cerámica",https://fbref.com/en/matches/bfba2fd7/Villarreal-Getafe-October-20-2024-La-Liga
+99,2024-10-20,Barcelona,Sevilla,home,5,1,3.8,1.0,4,2.8,W,3,47848,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/5f73bf47/Barcelona-Sevilla-October-20-2024-La-Liga
+100,2024-10-21,Valencia,"Las Palmas",home,2,3,1.6,1.2,-1,0.4,L,0,42453,"Estadio de Mestalla",https://fbref.com/en/matches/9bb16911/Valencia-Las-Palmas-October-21-2024-La-Liga
+101,2024-10-25,Espanyol,Sevilla,home,0,2,1.2,0.8,-2,0.4,L,0,23656,"RCDE Stadium",https://fbref.com/en/matches/38d25c90/Espanyol-Sevilla-October-25-2024-La-Liga
+102,2024-10-26,Valladolid,Villarreal,home,1,2,0.9,2.0,-1,-1.1,L,0,20178,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/591dbf90/Valladolid-Villarreal-October-26-2024-La-Liga
+103,2024-10-26,"Rayo Vallecano","Alavés",home,1,0,1.9,0.9,1,1.0,W,3,13010,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/55b7dfaa/Rayo-Vallecano-Alaves-October-26-2024-La-Liga
+104,2024-10-26,"Las Palmas",Girona,home,1,0,0.9,0.6,1,0.3,W,3,21506,"Estadio de Gran Canaria",https://fbref.com/en/matches/9dbc3e14/Las-Palmas-Girona-October-26-2024-La-Liga
+105,2024-10-26,"Real Madrid",Barcelona,home,0,4,1.5,2.6,-4,-1.1,L,0,78192,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/e6bc2844/El-Clasico-Real-Madrid-Barcelona-October-26-2024-La-Liga
+106,2024-10-27,"Leganés","Celta Vigo",home,3,0,1.6,0.9,3,0.7,W,3,11358,"Estadio Municipal de Butarque",https://fbref.com/en/matches/597f83c1/Leganes-Celta-Vigo-October-27-2024-La-Liga
+107,2024-10-27,Getafe,Valencia,home,1,1,2.2,0.7,0,1.5,D,1,12412,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/f0be0a37/Getafe-Valencia-October-27-2024-La-Liga
+108,2024-10-27,Betis,"Atlético Madrid",home,1,0,1.9,0.5,1,1.4,W,3,52621,"Estadio Benito Villamarín",https://fbref.com/en/matches/ffc4972d/Real-Betis-Atletico-Madrid-October-27-2024-La-Liga
+109,2024-10-27,"Real Sociedad",Osasuna,home,0,2,1.6,1.0,-2,0.6,L,0,31729,"Reale Arena",https://fbref.com/en/matches/722b1ca2/Real-Sociedad-Osasuna-October-27-2024-La-Liga
+110,2024-10-28,Mallorca,"Athletic Club",home,0,0,0.5,0.6,0,-0.1,D,1,19797,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/46815a4a/Mallorca-Athletic-Club-October-28-2024-La-Liga
+111,2024-11-01,"Alavés",Mallorca,home,1,0,1.1,0.5,1,0.6,W,3,17212,"Estadio de Mendizorroza",https://fbref.com/en/matches/454dc8c7/Alaves-Mallorca-November-1-2024-La-Liga
+112,2024-11-02,Osasuna,Valladolid,home,1,0,2.2,0.2,1,2.0,W,3,20430,"Estadio El Sadar",https://fbref.com/en/matches/377a6000/Osasuna-Valladolid-November-2-2024-La-Liga
+113,2024-11-02,Girona,"Leganés",home,4,3,2.0,0.4,1,1.6,W,3,10839,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/12ce04dc/Girona-Leganes-November-2-2024-La-Liga
+114,2024-11-03,"Atlético Madrid","Las Palmas",home,2,0,1.6,0.0,2,1.6,W,3,56610,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/60a46aeb/Atletico-Madrid-Las-Palmas-November-3-2024-La-Liga
+115,2024-11-03,Barcelona,Espanyol,home,3,1,1.8,0.9,2,0.9,W,3,48843,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/90cf8629/Barcelona-Espanyol-November-3-2024-La-Liga
+116,2024-11-03,Sevilla,"Real Sociedad",home,0,2,1.1,1.4,-2,-0.3,L,0,37619,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/81dad4eb/Sevilla-Real-Sociedad-November-3-2024-La-Liga
+117,2024-11-03,"Athletic Club",Betis,home,1,1,4.0,0.9,0,3.1,D,1,46898,"San Mamés",https://fbref.com/en/matches/ef8bf64a/Athletic-Club-Real-Betis-November-3-2024-La-Liga
+118,2024-11-04,"Celta Vigo",Getafe,home,1,0,1.9,0.5,1,1.4,W,3,19502,"Estadio Abanca Balaídos",https://fbref.com/en/matches/652b900c/Celta-Vigo-Getafe-November-4-2024-La-Liga
+119,2024-11-08,"Rayo Vallecano","Las Palmas",home,1,3,2.4,1.1,-2,1.3,L,0,12978,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/abe69737/Rayo-Vallecano-Las-Palmas-November-8-2024-La-Liga
+120,2024-11-09,"Real Madrid",Osasuna,home,4,0,3.1,0.1,4,3.0,W,3,72462,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/79bd89e0/Real-Madrid-Osasuna-November-9-2024-La-Liga
+121,2024-11-09,Villarreal,"Alavés",home,3,0,1.5,0.5,3,1.0,W,3,17659,"Estadio de la Cerámica",https://fbref.com/en/matches/570273ee/Villarreal-Alaves-November-9-2024-La-Liga
+122,2024-11-09,"Leganés",Sevilla,home,1,0,1.1,0.6,1,0.5,W,3,11167,"Estadio Municipal de Butarque",https://fbref.com/en/matches/7925ae38/Leganes-Sevilla-November-9-2024-La-Liga
+123,2024-11-10,Betis,"Celta Vigo",home,2,2,1.6,1.2,0,0.4,D,1,54015,"Estadio Benito Villamarín",https://fbref.com/en/matches/2307f9b9/Real-Betis-Celta-Vigo-November-10-2024-La-Liga
+124,2024-11-10,Mallorca,"Atlético Madrid",home,0,1,0.6,0.6,-1,0.0,L,0,19500,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/f6040fa5/Mallorca-Atletico-Madrid-November-10-2024-La-Liga
+125,2024-11-10,Valladolid,"Athletic Club",home,1,1,0.6,1.2,0,-0.6,D,1,23515,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/57eb3b4f/Valladolid-Athletic-Club-November-10-2024-La-Liga
+126,2024-11-10,Getafe,Girona,home,0,1,0.6,0.2,-1,0.4,L,0,10923,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/26d75d6d/Getafe-Girona-November-10-2024-La-Liga
+127,2024-11-10,"Real Sociedad",Barcelona,home,1,0,2.0,0.7,1,1.3,W,3,36194,"Reale Arena",https://fbref.com/en/matches/5f83ac85/Real-Sociedad-Barcelona-November-10-2024-La-Liga
+128,2024-11-22,Getafe,Valladolid,home,2,0,0.6,1.1,2,-0.5,W,3,9991,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/7f56d98f/Getafe-Valladolid-November-22-2024-La-Liga
+129,2024-11-23,Valencia,Betis,home,4,2,1.5,1.3,2,0.2,W,3,43975,"Estadio de Mestalla",https://fbref.com/en/matches/818dc175/Valencia-Real-Betis-November-23-2024-La-Liga
+130,2024-11-23,"Atlético Madrid","Alavés",home,2,1,1.6,0.9,1,0.7,W,3,58910,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/27871b65/Atletico-Madrid-Alaves-November-23-2024-La-Liga
+131,2024-11-23,"Las Palmas",Mallorca,home,2,3,1.2,1.7,-1,-0.5,L,0,22940,"Estadio de Gran Canaria",https://fbref.com/en/matches/243cb41c/Las-Palmas-Mallorca-November-23-2024-La-Liga
+132,2024-11-23,Girona,Espanyol,home,4,1,3.5,0.5,3,3.0,W,3,12461,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/cdb994ab/Girona-Espanyol-November-23-2024-La-Liga
+133,2024-11-23,"Celta Vigo",Barcelona,home,2,2,2.5,1.8,0,0.7,D,1,24573,"Estadio Abanca Balaídos",https://fbref.com/en/matches/ffb1fa1d/Celta-Vigo-Barcelona-November-23-2024-La-Liga
+134,2024-11-24,Osasuna,Villarreal,home,2,2,1.0,2.5,0,-1.5,D,1,19795,"Estadio El Sadar",https://fbref.com/en/matches/e5de943f/Osasuna-Villarreal-November-24-2024-La-Liga
+135,2024-11-24,Sevilla,"Rayo Vallecano",home,1,0,1.1,0.8,1,0.3,W,3,35125,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/e88639fb/Sevilla-Rayo-Vallecano-November-24-2024-La-Liga
+136,2024-11-24,"Leganés","Real Madrid",home,0,3,0.1,1.8,-3,-1.7,L,0,12338,"Estadio Municipal de Butarque",https://fbref.com/en/matches/e2ee9d3d/Leganes-Real-Madrid-November-24-2024-La-Liga
+137,2024-11-24,"Athletic Club","Real Sociedad",home,1,0,1.3,0.5,1,0.8,W,3,50719,"San Mamés",https://fbref.com/en/matches/fa0d939a/Athletic-Club-Real-Sociedad-November-24-2024-La-Liga
+138,2024-11-29,Mallorca,Valencia,home,2,1,0.8,1.3,1,-0.5,W,3,17717,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/fc79d1e0/Mallorca-Valencia-November-29-2024-La-Liga
+139,2024-11-30,Barcelona,"Las Palmas",home,1,2,2.3,0.5,-1,1.8,L,0,43921,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/00bca7c4/Barcelona-Las-Palmas-November-30-2024-La-Liga
+140,2024-11-30,"Alavés","Leganés",home,1,1,1.1,0.9,0,0.2,D,1,16881,"Estadio de Mendizorroza",https://fbref.com/en/matches/62f87a02/Alaves-Leganes-November-30-2024-La-Liga
+141,2024-11-30,Espanyol,"Celta Vigo",home,3,1,0.9,1.6,2,-0.7,W,3,23792,"RCDE Stadium",https://fbref.com/en/matches/2f5ca11f/Espanyol-Celta-Vigo-November-30-2024-La-Liga
+142,2024-11-30,Valladolid,"Atlético Madrid",home,0,5,0.6,4.0,-5,-3.4,L,0,23482,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/34a6798a/Valladolid-Atletico-Madrid-November-30-2024-La-Liga
+143,2024-12-01,Villarreal,Girona,home,2,2,2.0,0.5,0,1.5,D,1,17732,"Estadio de la Cerámica",https://fbref.com/en/matches/0b823038/Villarreal-Girona-December-1-2024-La-Liga
+144,2024-12-01,"Real Madrid",Getafe,home,2,0,3.2,0.5,2,2.7,W,3,74341,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/6e3da6f1/Real-Madrid-Getafe-December-1-2024-La-Liga
+145,2024-12-01,"Rayo Vallecano","Athletic Club",home,1,2,0.2,0.7,-1,-0.5,L,0,13639,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/8dcf829f/Rayo-Vallecano-Athletic-Club-December-1-2024-La-Liga
+146,2024-12-01,"Real Sociedad",Betis,home,2,0,0.8,0.4,2,0.4,W,3,28119,"Reale Arena",https://fbref.com/en/matches/11bcd802/Real-Sociedad-Real-Betis-December-1-2024-La-Liga
+147,2024-12-02,Sevilla,Osasuna,home,1,1,1.3,0.7,0,0.6,D,1,31536,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/018fa1b4/Sevilla-Osasuna-December-2-2024-La-Liga
+148,2024-12-03,Mallorca,Barcelona,home,1,5,0.9,5.0,-4,-4.1,L,0,22352,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/fce1658d/Mallorca-Barcelona-December-3-2024-La-Liga
+149,2024-12-04,"Athletic Club","Real Madrid",home,2,1,1.8,1.7,1,0.1,W,3,51364,"San Mamés",https://fbref.com/en/matches/8eba22e2/Athletic-Club-Real-Madrid-December-4-2024-La-Liga
+150,2024-12-06,"Celta Vigo",Mallorca,home,2,0,0.9,0.8,2,0.1,W,3,22861,"Estadio Abanca Balaídos",https://fbref.com/en/matches/b53b2cc8/Celta-Vigo-Mallorca-December-6-2024-La-Liga
+151,2024-12-07,"Las Palmas",Valladolid,home,2,1,1.1,1.3,1,-0.2,W,3,21610,"Estadio de Gran Canaria",https://fbref.com/en/matches/036a4747/Las-Palmas-Valladolid-December-7-2024-La-Liga
+152,2024-12-07,Betis,Barcelona,home,2,2,3.1,1.9,0,1.2,D,1,51749,"Estadio Benito Villamarín",https://fbref.com/en/matches/fb5d09d6/Real-Betis-Barcelona-December-7-2024-La-Liga
+153,2024-12-07,Valencia,"Rayo Vallecano",home,0,1,1.3,0.9,-1,0.4,L,0,40968,"Estadio de Mestalla",https://fbref.com/en/matches/24f9975b/Valencia-Rayo-Vallecano-December-7-2024-La-Liga
+154,2024-12-07,Girona,"Real Madrid",home,0,3,0.4,0.9,-3,-0.5,L,0,13827,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/6ebd56ef/Girona-Real-Madrid-December-7-2024-La-Liga
+155,2024-12-08,"Leganés","Real Sociedad",home,0,3,0.7,1.8,-3,-1.1,L,0,11312,"Estadio Municipal de Butarque",https://fbref.com/en/matches/37cd2f6c/Leganes-Real-Sociedad-December-8-2024-La-Liga
+156,2024-12-08,"Athletic Club",Villarreal,home,2,0,1.2,0.8,2,0.4,W,3,47203,"San Mamés",https://fbref.com/en/matches/8f9e0139/Athletic-Club-Villarreal-December-8-2024-La-Liga
+157,2024-12-08,Osasuna,"Alavés",home,2,2,1.8,1.3,0,0.5,D,1,18220,"Estadio El Sadar",https://fbref.com/en/matches/ee8fb4af/Osasuna-Alaves-December-8-2024-La-Liga
+158,2024-12-08,"Atlético Madrid",Sevilla,home,4,3,2.0,0.4,1,1.6,W,3,60065,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/8c459ad5/Atletico-Madrid-Sevilla-December-8-2024-La-Liga
+159,2024-12-09,Getafe,Espanyol,home,1,0,0.4,0.7,1,-0.3,W,3,7559,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/8a159d42/Getafe-Espanyol-December-9-2024-La-Liga
+160,2024-12-13,Valladolid,Valencia,home,1,0,0.6,0.8,1,-0.2,W,3,18449,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/b7bb2f84/Valladolid-Valencia-December-13-2024-La-Liga
+161,2024-12-14,Espanyol,Osasuna,home,0,0,0.3,0.3,0,0.0,D,1,20513,"RCDE Stadium",https://fbref.com/en/matches/4525bc01/Espanyol-Osasuna-December-14-2024-La-Liga
+162,2024-12-14,Mallorca,Girona,home,2,1,1.2,0.8,1,0.4,W,3,15866,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/5632f505/Mallorca-Girona-December-14-2024-La-Liga
+163,2024-12-14,Sevilla,"Celta Vigo",home,1,0,0.7,1.2,1,-0.5,W,3,37295,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/6a475fea/Sevilla-Celta-Vigo-December-14-2024-La-Liga
+164,2024-12-14,"Rayo Vallecano","Real Madrid",home,3,3,1.6,0.7,0,0.9,D,1,14168,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/49cf201f/Rayo-Vallecano-Real-Madrid-December-14-2024-La-Liga
+165,2024-12-15,"Atlético Madrid",Getafe,home,1,0,1.7,0.2,1,1.5,W,3,60169,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/25a5934a/Atletico-Madrid-Getafe-December-15-2024-La-Liga
+166,2024-12-15,"Alavés","Athletic Club",home,1,1,0.9,0.7,0,0.2,D,1,19239,"Estadio de Mendizorroza",https://fbref.com/en/matches/1fe130a9/Alaves-Athletic-Club-December-15-2024-La-Liga
+167,2024-12-15,"Real Sociedad","Las Palmas",home,0,0,1.1,1.0,0,0.1,D,1,30775,"Reale Arena",https://fbref.com/en/matches/11192bf0/Real-Sociedad-Las-Palmas-December-15-2024-La-Liga
+168,2024-12-15,Villarreal,Betis,home,1,2,1.9,0.8,-1,1.1,L,0,18757,"Estadio de la Cerámica",https://fbref.com/en/matches/2839ad16/Villarreal-Real-Betis-December-15-2024-La-Liga
+169,2024-12-15,Barcelona,"Leganés",home,0,1,2.6,0.4,-1,2.2,L,0,39523,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/e7bdcc56/Barcelona-Leganes-December-15-2024-La-Liga
+170,2024-12-18,Villarreal,"Rayo Vallecano",home,1,1,1.4,1.5,0,-0.1,D,1,14000,"Estadio de la Cerámica",https://fbref.com/en/matches/a11727e1/Villarreal-Rayo-Vallecano-December-18-2024-La-Liga
+171,2024-12-18,Espanyol,Valencia,home,1,1,2.1,2.0,0,0.1,D,1,18122,"RCDE Stadium",https://fbref.com/en/matches/8cc12868/Espanyol-Valencia-December-18-2024-La-Liga
+172,2024-12-20,Girona,Valladolid,home,3,0,2.5,0.0,3,2.5,W,3,9534,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/0c8db441/Girona-Valladolid-December-20-2024-La-Liga
+173,2024-12-21,Getafe,Mallorca,home,0,1,0.8,2.3,-1,-1.5,L,0,9747,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/6358b738/Getafe-Mallorca-December-21-2024-La-Liga
+174,2024-12-21,"Celta Vigo","Real Sociedad",home,2,0,1.3,0.3,2,1.0,W,3,22956,"Estadio Abanca Balaídos",https://fbref.com/en/matches/e9fe833a/Celta-Vigo-Real-Sociedad-December-21-2024-La-Liga
+175,2024-12-21,Osasuna,"Athletic Club",home,1,2,0.6,1.2,-1,-0.6,L,0,22030,"Estadio El Sadar",https://fbref.com/en/matches/7c1a412b/Osasuna-Athletic-Club-December-21-2024-La-Liga
+176,2024-12-21,Barcelona,"Atlético Madrid",home,1,2,2.7,0.7,-1,2.0,L,0,46249,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/ac04a5d2/Barcelona-Atletico-Madrid-December-21-2024-La-Liga
+177,2024-12-22,Valencia,"Alavés",home,2,2,1.5,1.6,0,-0.1,D,1,37586,"Estadio de Mestalla",https://fbref.com/en/matches/45dc71b5/Valencia-Alaves-December-22-2024-La-Liga
+178,2024-12-22,"Real Madrid",Sevilla,home,4,2,2.0,1.3,2,0.7,W,3,75227,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/b839d4ce/Real-Madrid-Sevilla-December-22-2024-La-Liga
+179,2024-12-22,"Las Palmas",Espanyol,home,1,0,0.9,0.7,1,0.2,W,3,23743,"Estadio de Gran Canaria",https://fbref.com/en/matches/ebe2bfbd/Las-Palmas-Espanyol-December-22-2024-La-Liga
+180,2024-12-22,"Leganés",Villarreal,home,2,5,1.2,3.3,-3,-2.1,L,0,11034,"Estadio Municipal de Butarque",https://fbref.com/en/matches/04b6223f/Leganes-Villarreal-December-22-2024-La-Liga
+181,2024-12-22,Betis,"Rayo Vallecano",home,1,1,2.1,0.9,0,1.2,D,1,53121,"Estadio Benito Villamarín",https://fbref.com/en/matches/aff51fb4/Real-Betis-Rayo-Vallecano-December-22-2024-La-Liga
+182,2025-01-03,Valencia,"Real Madrid",home,1,2,1.3,2.7,-1,-1.4,L,0,46420,"Estadio de Mestalla",https://fbref.com/en/matches/15e84040/Valencia-Real-Madrid-January-3-2025-La-Liga
+183,2025-01-10,"Rayo Vallecano","Celta Vigo",home,2,1,0.7,2.1,1,-1.4,W,3,12955,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/e55b978c/Rayo-Vallecano-Celta-Vigo-January-10-2025-La-Liga
+184,2025-01-11,"Alavés",Girona,home,0,1,1.3,0.5,-1,0.8,L,0,16454,"Estadio de Mendizorroza",https://fbref.com/en/matches/66b19e25/Alaves-Girona-January-11-2025-La-Liga
+185,2025-01-11,Valladolid,Betis,home,1,0,1.2,0.7,1,0.5,W,3,21911,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/e9c90680/Valladolid-Real-Betis-January-11-2025-La-Liga
+186,2025-01-11,Espanyol,"Leganés",home,1,1,0.7,2.0,0,-1.3,D,1,26606,"RCDE Stadium",https://fbref.com/en/matches/4fb3dc98/Espanyol-Leganes-January-11-2025-La-Liga
+187,2025-01-11,Sevilla,Valencia,home,1,1,0.5,0.7,0,-0.2,D,1,34297,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/7652232d/Sevilla-Valencia-January-11-2025-La-Liga
+188,2025-01-12,"Las Palmas",Getafe,home,1,2,1.3,1.1,-1,0.2,L,0,23698,"Estadio de Gran Canaria",https://fbref.com/en/matches/e1cfa735/Las-Palmas-Getafe-January-12-2025-La-Liga
+189,2025-01-12,"Atlético Madrid",Osasuna,home,1,0,2.5,0.3,1,2.2,W,3,64801,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/2367dade/Atletico-Madrid-Osasuna-January-12-2025-La-Liga
+190,2025-01-13,"Real Sociedad",Villarreal,home,1,0,0.8,1.2,1,-0.4,W,3,20855,"Reale Arena",https://fbref.com/en/matches/ecd47b8a/Real-Sociedad-Villarreal-January-13-2025-La-Liga
+191,2025-01-17,Espanyol,Valladolid,home,2,1,1.0,1.2,1,-0.2,W,3,23554,"RCDE Stadium",https://fbref.com/en/matches/75d8fa7a/Espanyol-Valladolid-January-17-2025-La-Liga
+192,2025-01-18,Girona,Sevilla,home,1,2,1.0,2.6,-1,-1.6,L,0,12040,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/5dbf000f/Girona-Sevilla-January-18-2025-La-Liga
+193,2025-01-18,"Leganés","Atlético Madrid",home,1,0,0.5,2.4,1,-1.9,W,3,12371,"Estadio Municipal de Butarque",https://fbref.com/en/matches/7ba8b655/Leganes-Atletico-Madrid-January-18-2025-La-Liga
+194,2025-01-18,Betis,"Alavés",home,1,3,0.5,1.5,-2,-1.0,L,0,50021,"Estadio Benito Villamarín",https://fbref.com/en/matches/fe96c24b/Real-Betis-Alaves-January-18-2025-La-Liga
+195,2025-01-18,Getafe,Barcelona,home,1,1,1.3,2.3,0,-1.0,D,1,15134,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/ac3f8e9a/Getafe-Barcelona-January-18-2025-La-Liga
+196,2025-01-19,"Celta Vigo","Athletic Club",home,1,2,0.6,1.8,-1,-1.2,L,0,22279,"Estadio Abanca Balaídos",https://fbref.com/en/matches/a5448163/Celta-Vigo-Athletic-Club-January-19-2025-La-Liga
+197,2025-01-19,"Real Madrid","Las Palmas",home,4,1,5.9,1.1,3,4.8,W,3,74808,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/c8f36a4b/Real-Madrid-Las-Palmas-January-19-2025-La-Liga
+198,2025-01-19,Osasuna,"Rayo Vallecano",home,1,1,0.8,0.8,0,0.0,D,1,20770,"Estadio El Sadar",https://fbref.com/en/matches/b85ff6cf/Osasuna-Rayo-Vallecano-January-19-2025-La-Liga
+199,2025-01-19,Valencia,"Real Sociedad",home,1,0,1.6,0.8,1,0.8,W,3,40791,"Estadio de Mestalla",https://fbref.com/en/matches/b0b640d3/Valencia-Real-Sociedad-January-19-2025-La-Liga
+200,2025-01-20,Villarreal,Mallorca,home,4,0,2.4,0.5,4,1.9,W,3,14852,"Estadio de la Cerámica",https://fbref.com/en/matches/fd632e2f/Villarreal-Mallorca-January-20-2025-La-Liga
+201,2025-01-24,"Las Palmas",Osasuna,home,1,1,0.8,2.6,0,-1.8,D,1,19762,"Estadio de Gran Canaria",https://fbref.com/en/matches/28b22659/Las-Palmas-Osasuna-January-24-2025-La-Liga
+202,2025-01-25,Mallorca,Betis,home,0,1,1.0,0.4,-1,0.6,L,0,19452,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/2395eb39/Mallorca-Real-Betis-January-25-2025-La-Liga
+203,2025-01-25,"Atlético Madrid",Villarreal,home,1,1,1.7,2.2,0,-0.5,D,1,63596,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/6566ae8c/Atletico-Madrid-Villarreal-January-25-2025-La-Liga
+204,2025-01-25,Sevilla,Espanyol,home,1,1,1.2,0.7,0,0.5,D,1,33602,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/10db0915/Sevilla-Espanyol-January-25-2025-La-Liga
+205,2025-01-25,Valladolid,"Real Madrid",home,0,3,0.2,2.0,-3,-1.8,L,0,26025,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/382d5e03/Valladolid-Real-Madrid-January-25-2025-La-Liga
+206,2025-01-26,"Rayo Vallecano",Girona,home,2,1,2.4,1.0,1,1.4,W,3,12405,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/af7b751a/Rayo-Vallecano-Girona-January-26-2025-La-Liga
+207,2025-01-26,"Real Sociedad",Getafe,home,0,3,0.9,1.4,-3,-0.5,L,0,30004,"Reale Arena",https://fbref.com/en/matches/2450ca46/Real-Sociedad-Getafe-January-26-2025-La-Liga
+208,2025-01-26,"Athletic Club","Leganés",home,0,0,2.1,1.0,0,1.1,D,1,47612,"San Mamés",https://fbref.com/en/matches/f17ca419/Athletic-Club-Leganes-January-26-2025-La-Liga
+209,2025-01-26,Barcelona,Valencia,home,7,1,4.4,1.5,6,2.9,W,3,45312,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/77dda45d/Barcelona-Valencia-January-26-2025-La-Liga
+210,2025-01-27,"Alavés","Celta Vigo",home,1,1,0.9,0.1,0,0.8,D,1,13612,"Estadio de Mendizorroza",https://fbref.com/en/matches/b418c449/Alaves-Celta-Vigo-January-27-2025-La-Liga
+211,2025-01-31,"Leganés","Rayo Vallecano",home,0,1,0.9,2.2,-1,-1.3,L,0,11432,"Estadio Municipal de Butarque",https://fbref.com/en/matches/43d7418a/Leganes-Rayo-Vallecano-January-31-2025-La-Liga
+212,2025-02-01,Getafe,Sevilla,home,0,0,1.0,0.9,0,0.1,D,1,11730,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/b992fee4/Getafe-Sevilla-February-1-2025-La-Liga
+213,2025-02-01,Villarreal,Valladolid,home,5,1,3.5,0.5,4,3.0,W,3,17032,"Estadio de la Cerámica",https://fbref.com/en/matches/0688f714/Villarreal-Valladolid-February-1-2025-La-Liga
+214,2025-02-01,"Atlético Madrid",Mallorca,home,2,0,1.3,0.5,2,0.8,W,3,60710,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/15ceb2e9/Atletico-Madrid-Mallorca-February-1-2025-La-Liga
+215,2025-02-01,Espanyol,"Real Madrid",home,1,0,0.3,1.3,1,-1.0,W,3,33669,"RCDE Stadium",https://fbref.com/en/matches/bb8e8b39/Espanyol-Real-Madrid-February-1-2025-La-Liga
+216,2025-02-02,Barcelona,"Alavés",home,1,0,1.0,0.1,1,0.9,W,3,42900,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/5dd33e2b/Barcelona-Alaves-February-2-2025-La-Liga
+217,2025-02-02,Valencia,"Celta Vigo",home,2,1,1.6,0.4,1,1.2,W,3,42273,"Estadio de Mestalla",https://fbref.com/en/matches/85f339a3/Valencia-Celta-Vigo-February-2-2025-La-Liga
+218,2025-02-02,Osasuna,"Real Sociedad",home,2,1,0.7,2.0,1,-1.3,W,3,21678,"Estadio El Sadar",https://fbref.com/en/matches/2b4789d5/Osasuna-Real-Sociedad-February-2-2025-La-Liga
+219,2025-02-02,Betis,"Athletic Club",home,2,2,1.1,1.4,0,-0.3,D,1,49292,"Estadio Benito Villamarín",https://fbref.com/en/matches/dc8dc26b/Real-Betis-Athletic-Club-February-2-2025-La-Liga
+220,2025-02-03,Girona,"Las Palmas",home,2,1,2.0,1.5,1,0.5,W,3,10088,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/0a6de3d3/Girona-Las-Palmas-February-3-2025-La-Liga
+221,2025-02-07,"Rayo Vallecano",Valladolid,home,1,0,2.3,0.4,1,1.9,W,3,12286,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/7bfbe87f/Rayo-Vallecano-Valladolid-February-7-2025-La-Liga
+222,2025-02-08,"Celta Vigo",Betis,home,3,2,2.2,1.3,1,0.9,W,3,22651,"Estadio Abanca Balaídos",https://fbref.com/en/matches/7d25dd93/Celta-Vigo-Real-Betis-February-8-2025-La-Liga
+223,2025-02-08,"Athletic Club",Girona,home,3,0,3.6,0.1,3,3.5,W,3,48261,"San Mamés",https://fbref.com/en/matches/87b1fc3e/Athletic-Club-Girona-February-8-2025-La-Liga
+224,2025-02-08,"Las Palmas",Villarreal,home,1,2,1.4,0.9,-1,0.5,L,0,22909,"Estadio de Gran Canaria",https://fbref.com/en/matches/117692e2/Las-Palmas-Villarreal-February-8-2025-La-Liga
+225,2025-02-08,"Real Madrid","Atlético Madrid",home,1,1,1.6,1.5,0,0.1,D,1,78082,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/442c5b57/El-Derbi-Madrileno-Real-Madrid-Atletico-Madrid-February-8-2025-La-Liga
+226,2025-02-09,"Alavés",Getafe,home,0,1,1.4,0.9,-1,0.5,L,0,16236,"Estadio de Mendizorroza",https://fbref.com/en/matches/39db2a13/Alaves-Getafe-February-9-2025-La-Liga
+227,2025-02-09,Valencia,"Leganés",home,2,0,1.9,0.5,2,1.4,W,3,42312,"Estadio de Mestalla",https://fbref.com/en/matches/89c7a794/Valencia-Leganes-February-9-2025-La-Liga
+228,2025-02-09,"Real Sociedad",Espanyol,home,2,1,1.7,0.9,1,0.8,W,3,29478,"Reale Arena",https://fbref.com/en/matches/39cd05e4/Real-Sociedad-Espanyol-February-9-2025-La-Liga
+229,2025-02-09,Sevilla,Barcelona,home,1,4,0.7,1.9,-3,-1.2,L,0,38592,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/57bc3e19/Sevilla-Barcelona-February-9-2025-La-Liga
+230,2025-02-10,Mallorca,Osasuna,home,1,1,1.3,1.4,0,-0.0999999999999999,D,1,15378,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/64cac73e/Mallorca-Osasuna-February-10-2025-La-Liga
+231,2025-02-14,Girona,Getafe,home,1,2,0.9,0.6,-1,0.3,L,0,10354,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/2702096e/Girona-Getafe-February-14-2025-La-Liga
+232,2025-02-15,"Leganés","Alavés",home,3,3,1.8,1.7,0,0.1,D,1,10681,"Estadio Municipal de Butarque",https://fbref.com/en/matches/5bf2e4ce/Leganes-Alaves-February-15-2025-La-Liga
+233,2025-02-15,Osasuna,"Real Madrid",home,1,1,1.4,1.4,0,0.0,D,1,22390,"Estadio El Sadar",https://fbref.com/en/matches/c667c7ca/Osasuna-Real-Madrid-February-15-2025-La-Liga
+234,2025-02-15,"Atlético Madrid","Celta Vigo",home,1,1,0.6,1.7,0,-1.1,D,1,64211,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/ec6e214e/Atletico-Madrid-Celta-Vigo-February-15-2025-La-Liga
+235,2025-02-15,Villarreal,Valencia,home,1,1,1.3,1.1,0,0.2,D,1,19701,"Estadio de la Cerámica",https://fbref.com/en/matches/71df1d23/Villarreal-Valencia-February-15-2025-La-Liga
+236,2025-02-16,Espanyol,"Athletic Club",home,1,1,0.8,1.0,0,-0.2,D,1,26645,"RCDE Stadium",https://fbref.com/en/matches/d0f5d736/Espanyol-Athletic-Club-February-16-2025-La-Liga
+237,2025-02-16,Valladolid,Sevilla,home,0,4,0.5,1.1,-4,-0.6,L,0,22123,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/fbad97f4/Valladolid-Sevilla-February-16-2025-La-Liga
+238,2025-02-16,Mallorca,"Las Palmas",home,3,1,1.7,0.8,2,0.9,W,3,18475,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/041d6702/Mallorca-Las-Palmas-February-16-2025-La-Liga
+239,2025-02-16,Betis,"Real Sociedad",home,3,0,2.3,0.3,3,2.0,W,3,48758,"Estadio Benito Villamarín",https://fbref.com/en/matches/f7ee4708/Real-Betis-Real-Sociedad-February-16-2025-La-Liga
+240,2025-02-17,Barcelona,"Rayo Vallecano",home,1,0,2.3,1.0,1,1.3,W,3,45296,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/b299fca9/Barcelona-Rayo-Vallecano-February-17-2025-La-Liga
+241,2025-02-21,"Celta Vigo",Osasuna,home,1,0,1.8,1.2,1,0.6,W,3,22005,"Estadio Abanca Balaídos",https://fbref.com/en/matches/138c629e/Celta-Vigo-Osasuna-February-21-2025-La-Liga
+242,2025-02-22,"Alavés",Espanyol,home,0,1,1.8,0.4,-1,1.4,L,0,17068,"Estadio de Mendizorroza",https://fbref.com/en/matches/776298df/Alaves-Espanyol-February-22-2025-La-Liga
+243,2025-02-22,"Rayo Vallecano",Villarreal,home,0,1,0.6,0.6,-1,0.0,L,0,13373,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/4d0c9845/Rayo-Vallecano-Villarreal-February-22-2025-La-Liga
+244,2025-02-22,Valencia,"Atlético Madrid",home,0,3,0.8,1.3,-3,-0.5,L,0,46297,"Estadio de Mestalla",https://fbref.com/en/matches/cc85a3d4/Valencia-Atletico-Madrid-February-22-2025-La-Liga
+245,2025-02-22,"Las Palmas",Barcelona,home,0,2,0.4,1.4,-2,-1.0,L,0,30746,"Estadio de Gran Canaria",https://fbref.com/en/matches/6b455e82/Las-Palmas-Barcelona-February-22-2025-La-Liga
+246,2025-02-23,"Athletic Club",Valladolid,home,7,1,3.8,0.5,6,3.3,W,3,47715,"San Mamés",https://fbref.com/en/matches/e42061f0/Athletic-Club-Valladolid-February-23-2025-La-Liga
+247,2025-02-23,"Real Madrid",Girona,home,2,0,2.2,0.4,2,1.8,W,3,74028,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/9289e6ed/Real-Madrid-Girona-February-23-2025-La-Liga
+248,2025-02-23,Getafe,Betis,home,1,2,1.2,2.0,-1,-0.8,L,0,13964,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/738f8f85/Getafe-Real-Betis-February-23-2025-La-Liga
+249,2025-02-23,"Real Sociedad","Leganés",home,3,0,0.7,0.3,3,0.4,W,3,22533,"Reale Arena",https://fbref.com/en/matches/1182bc6e/Real-Sociedad-Leganes-February-23-2025-La-Liga
+250,2025-02-24,Sevilla,Mallorca,home,1,1,1.3,2.3,0,-1.0,D,1,35424,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/409ec366/Sevilla-Mallorca-February-24-2025-La-Liga
+251,2025-02-28,Valladolid,"Las Palmas",home,1,1,1.8,0.2,0,1.6,D,1,16024,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/d3f13884/Valladolid-Las-Palmas-February-28-2025-La-Liga
+252,2025-03-01,Girona,"Celta Vigo",home,2,2,0.7,1.8,0,-1.1,D,1,11449,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/3865f1d2/Girona-Celta-Vigo-March-1-2025-La-Liga
+253,2025-03-01,"Rayo Vallecano",Sevilla,home,1,1,2.8,0.6,0,2.2,D,1,11947,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/3736c3d4/Rayo-Vallecano-Sevilla-March-1-2025-La-Liga
+254,2025-03-01,Betis,"Real Madrid",home,2,1,2.4,0.9,1,1.5,W,3,55873,"Estadio Benito Villamarín",https://fbref.com/en/matches/f1e4f58c/Real-Betis-Real-Madrid-March-1-2025-La-Liga
+255,2025-03-01,"Atlético Madrid","Athletic Club",home,1,0,2.2,1.1,1,1.1,W,3,63810,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/1971e698/Atletico-Madrid-Athletic-Club-March-1-2025-La-Liga
+256,2025-03-02,"Leganés",Getafe,home,1,0,1.0,0.3,1,0.7,W,3,10311,"Estadio Municipal de Butarque",https://fbref.com/en/matches/f079fabc/Leganes-Getafe-March-2-2025-La-Liga
+257,2025-03-02,Barcelona,"Real Sociedad",home,4,0,2.8,0.0,4,2.8,W,3,46324,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/0b2c987f/Barcelona-Real-Sociedad-March-2-2025-La-Liga
+258,2025-03-02,Mallorca,"Alavés",home,1,1,1.1,1.6,0,-0.5,D,1,17702,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/6c84aa28/Mallorca-Alaves-March-2-2025-La-Liga
+259,2025-03-02,Osasuna,Valencia,home,3,3,1.5,1.8,0,-0.3,D,1,19230,"Estadio El Sadar",https://fbref.com/en/matches/0580ab96/Osasuna-Valencia-March-2-2025-La-Liga
+260,2025-03-08,"Celta Vigo","Leganés",home,2,1,0.9,1.0,1,-0.1,W,3,17326,"Estadio Abanca Balaídos",https://fbref.com/en/matches/cb080ed5/Celta-Vigo-Leganes-March-8-2025-La-Liga
+261,2025-03-08,"Alavés",Villarreal,home,1,0,1.0,2.8,1,-1.8,W,3,16582,"Estadio de Mendizorroza",https://fbref.com/en/matches/fae6d2fd/Alaves-Villarreal-March-8-2025-La-Liga
+262,2025-03-08,Valencia,Valladolid,home,2,1,1.9,0.9,1,1.0,W,3,41720,"Estadio de Mestalla",https://fbref.com/en/matches/585ef159/Valencia-Valladolid-March-8-2025-La-Liga
+263,2025-03-09,Getafe,"Atlético Madrid",home,2,1,1.2,0.9,1,0.3,W,3,12862,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/1e429e52/Getafe-Atletico-Madrid-March-9-2025-La-Liga
+264,2025-03-09,"Real Madrid","Rayo Vallecano",home,2,1,1.5,1.0,1,0.5,W,3,74170,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/d8d672fa/Real-Madrid-Rayo-Vallecano-March-9-2025-La-Liga
+265,2025-03-09,Betis,"Las Palmas",home,1,0,2.3,0.6,1,1.7,W,3,49292,"Estadio Benito Villamarín",https://fbref.com/en/matches/887132d0/Real-Betis-Las-Palmas-March-9-2025-La-Liga
+266,2025-03-09,"Athletic Club",Mallorca,home,1,1,0.7,0.5,0,0.2,D,1,48203,"San Mamés",https://fbref.com/en/matches/54fa5083/Athletic-Club-Mallorca-March-9-2025-La-Liga
+267,2025-03-09,"Real Sociedad",Sevilla,home,0,1,0.7,0.6,-1,0.1,L,0,25478,"Reale Arena",https://fbref.com/en/matches/f1dd2f9a/Real-Sociedad-Sevilla-March-9-2025-La-Liga
+268,2025-03-10,Espanyol,Girona,home,1,1,0.2,1.6,0,-1.4,D,1,23997,"RCDE Stadium",https://fbref.com/en/matches/4c7eab6f/Espanyol-Girona-March-10-2025-La-Liga
+269,2025-03-14,"Las Palmas","Alavés",home,2,2,1.8,1.7,0,0.1,D,1,17566,"Estadio de Gran Canaria",https://fbref.com/en/matches/90b5ee8e/Las-Palmas-Alaves-March-14-2025-La-Liga
+270,2025-03-15,Valladolid,"Celta Vigo",home,0,1,0.7,1.5,-1,-0.8,L,0,17521,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/19ca64ed/Valladolid-Celta-Vigo-March-15-2025-La-Liga
+271,2025-03-15,Mallorca,Espanyol,home,2,1,2.7,0.2,1,2.5,W,3,18240,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/a008668e/Mallorca-Espanyol-March-15-2025-La-Liga
+272,2025-03-15,Villarreal,"Real Madrid",home,1,2,1.6,1.1,-1,0.5,L,0,20559,"Estadio de la Cerámica",https://fbref.com/en/matches/4106e75f/Villarreal-Real-Madrid-March-15-2025-La-Liga
+273,2025-03-15,Girona,Valencia,home,1,1,0.9,1.0,0,-0.1,D,1,10262,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/c9bdc26a/Girona-Valencia-March-15-2025-La-Liga
+274,2025-03-16,"Leganés",Betis,home,2,3,1.3,2.7,-1,-1.4,L,0,11691,"Estadio Municipal de Butarque",https://fbref.com/en/matches/37e0a484/Leganes-Real-Betis-March-16-2025-La-Liga
+275,2025-03-16,Sevilla,"Athletic Club",home,0,1,0.5,1.3,-1,-0.8,L,0,37016,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/b21dd238/Sevilla-Athletic-Club-March-16-2025-La-Liga
+276,2025-03-16,Osasuna,Getafe,home,1,2,1.9,0.5,-1,1.4,L,0,19611,"Estadio El Sadar",https://fbref.com/en/matches/bd9c5fd6/Osasuna-Getafe-March-16-2025-La-Liga
+277,2025-03-16,"Rayo Vallecano","Real Sociedad",home,2,2,0.6,0.6,0,0.0,D,1,12364,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/6996fe18/Rayo-Vallecano-Real-Sociedad-March-16-2025-La-Liga
+278,2025-03-16,"Atlético Madrid",Barcelona,home,2,4,1.4,1.3,-2,0.0999999999999999,L,0,67602,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/8ddf3820/Atletico-Madrid-Barcelona-March-16-2025-La-Liga
+279,2025-03-27,Barcelona,Osasuna,home,3,0,3.7,0.4,3,3.3,W,3,42319,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/af815599/Barcelona-Osasuna-March-27-2025-La-Liga
+280,2025-03-29,"Real Sociedad",Valladolid,home,2,1,0.7,0.7,1,0.0,W,3,28151,"Reale Arena",https://fbref.com/en/matches/8a068dcb/Real-Sociedad-Valladolid-March-29-2025-La-Liga
+281,2025-03-29,Espanyol,"Atlético Madrid",home,1,1,1.0,0.8,0,0.2,D,1,30559,"RCDE Stadium",https://fbref.com/en/matches/539f05d4/Espanyol-Atletico-Madrid-March-29-2025-La-Liga
+282,2025-03-29,"Alavés","Rayo Vallecano",home,0,2,1.5,0.6,-2,0.9,L,0,18336,"Estadio de Mendizorroza",https://fbref.com/en/matches/de9887c1/Alaves-Rayo-Vallecano-March-29-2025-La-Liga
+283,2025-03-29,"Real Madrid","Leganés",home,3,2,2.9,2.4,1,0.5,W,3,73641,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/02169120/Real-Madrid-Leganes-March-29-2025-La-Liga
+284,2025-03-30,Getafe,Villarreal,home,1,2,1.0,1.2,-1,-0.2,L,0,11406,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/9efb7811/Getafe-Villarreal-March-30-2025-La-Liga
+285,2025-03-30,Barcelona,Girona,home,4,1,2.3,0.5,3,1.8,W,3,48258,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/6e84530a/Barcelona-Girona-March-30-2025-La-Liga
+286,2025-03-30,Valencia,Mallorca,home,1,0,0.7,0.6,1,0.1,W,3,44082,"Estadio de Mestalla",https://fbref.com/en/matches/4223fbb4/Valencia-Mallorca-March-30-2025-La-Liga
+287,2025-03-30,"Athletic Club",Osasuna,home,0,0,0.7,0.4,0,0.3,D,1,49671,"San Mamés",https://fbref.com/en/matches/7e4ab762/Athletic-Club-Osasuna-March-30-2025-La-Liga
+288,2025-03-30,Betis,Sevilla,home,2,1,1.1,0.7,1,0.4,W,3,58538,"Estadio Benito Villamarín",https://fbref.com/en/matches/521b1f26/Real-Betis-Sevilla-March-30-2025-La-Liga
+289,2025-03-31,"Celta Vigo","Las Palmas",home,1,1,1.0,0.3,0,0.7,D,1,18549,"Estadio Abanca Balaídos",https://fbref.com/en/matches/30fa33ba/Celta-Vigo-Las-Palmas-March-31-2025-La-Liga
+290,2025-04-04,"Rayo Vallecano",Espanyol,home,0,4,0.7,3.4,-4,-2.7,L,0,11905,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/ff92ae47/Rayo-Vallecano-Espanyol-April-4-2025-La-Liga
+291,2025-04-05,Girona,"Alavés",home,0,1,1.4,0.8,-1,0.6,L,0,11384,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/e6b730a8/Girona-Alaves-April-5-2025-La-Liga
+292,2025-04-05,"Real Madrid",Valencia,home,1,2,3.4,0.8,-1,2.6,L,0,75382,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/59db0a32/Real-Madrid-Valencia-April-5-2025-La-Liga
+293,2025-04-05,Mallorca,"Celta Vigo",home,1,2,0.5,0.8,-1,-0.3,L,0,18291,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/bc459f49/Mallorca-Celta-Vigo-April-5-2025-La-Liga
+294,2025-04-05,Barcelona,Betis,home,1,1,1.4,0.3,0,1.1,D,1,47043,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/86447b37/Barcelona-Real-Betis-April-5-2025-La-Liga
+295,2025-04-06,"Las Palmas","Real Sociedad",home,1,3,2.0,2.4,-2,-0.4,L,0,22616,"Estadio de Gran Canaria",https://fbref.com/en/matches/864a0fb8/Las-Palmas-Real-Sociedad-April-6-2025-La-Liga
+296,2025-04-06,Sevilla,"Atlético Madrid",home,1,2,0.9,1.3,-1,-0.4,L,0,34505,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/4b093821/Sevilla-Atletico-Madrid-April-6-2025-La-Liga
+297,2025-04-06,Valladolid,Getafe,home,0,4,0.6,1.9,-4,-1.3,L,0,17737,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/e33c8281/Valladolid-Getafe-April-6-2025-La-Liga
+298,2025-04-06,Villarreal,"Athletic Club",home,0,0,2.1,0.8,0,1.3,D,1,19158,"Estadio de la Cerámica",https://fbref.com/en/matches/65afea5b/Villarreal-Athletic-Club-April-6-2025-La-Liga
+299,2025-04-07,"Leganés",Osasuna,home,1,1,1.7,2.2,0,-0.5,D,1,10755,"Estadio Municipal de Butarque",https://fbref.com/en/matches/62c1d5cc/Leganes-Osasuna-April-7-2025-La-Liga
+300,2025-04-11,Valencia,Sevilla,home,1,0,1.3,0.8,1,0.5,W,3,45618,"Estadio de Mestalla",https://fbref.com/en/matches/160a9af7/Valencia-Sevilla-April-11-2025-La-Liga
+301,2025-04-12,"Real Sociedad",Mallorca,home,0,2,0.7,0.7,-2,0.0,L,0,29181,"Reale Arena",https://fbref.com/en/matches/a449c18e/Real-Sociedad-Mallorca-April-12-2025-La-Liga
+302,2025-04-12,Getafe,"Las Palmas",home,1,3,1.4,1.3,-2,0.0999999999999999,L,0,8370,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/606774d3/Getafe-Las-Palmas-April-12-2025-La-Liga
+303,2025-04-12,"Celta Vigo",Espanyol,home,0,2,0.9,1.2,-2,-0.3,L,0,19801,"Estadio Abanca Balaídos",https://fbref.com/en/matches/3aa5024f/Celta-Vigo-Espanyol-April-12-2025-La-Liga
+304,2025-04-12,"Leganés",Barcelona,home,0,1,0.7,1.4,-1,-0.7,L,0,12530,"Estadio Municipal de Butarque",https://fbref.com/en/matches/5160bd9d/Leganes-Barcelona-April-12-2025-La-Liga
+305,2025-04-13,Osasuna,Girona,home,2,1,1.7,0.9,1,0.8,W,3,20260,"Estadio El Sadar",https://fbref.com/en/matches/57baf278/Osasuna-Girona-April-13-2025-La-Liga
+306,2025-04-13,"Alavés","Real Madrid",home,0,1,0.6,0.9,-1,-0.3,L,0,19438,"Estadio de Mendizorroza",https://fbref.com/en/matches/988deece/Alaves-Real-Madrid-April-13-2025-La-Liga
+307,2025-04-13,Betis,Villarreal,home,1,2,1.4,1.3,-1,0.0999999999999999,L,0,54778,"Estadio Benito Villamarín",https://fbref.com/en/matches/028b10dc/Real-Betis-Villarreal-April-13-2025-La-Liga
+308,2025-04-13,"Athletic Club","Rayo Vallecano",home,3,1,1.6,1.6,2,0.0,W,3,47584,"San Mamés",https://fbref.com/en/matches/82c58306/Athletic-Club-Rayo-Vallecano-April-13-2025-La-Liga
+309,2025-04-14,"Atlético Madrid",Valladolid,home,4,2,3.4,1.2,2,2.2,W,3,55936,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/b955d331/Atletico-Madrid-Valladolid-April-14-2025-La-Liga
+310,2025-04-18,Espanyol,Getafe,home,1,0,0.4,0.4,1,0.0,W,3,25003,"RCDE Stadium",https://fbref.com/en/matches/442a63df/Espanyol-Getafe-April-18-2025-La-Liga
+311,2025-04-19,"Rayo Vallecano",Valencia,home,1,1,0.5,2.0,0,-1.5,D,1,11308,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/81da0725/Rayo-Vallecano-Valencia-April-19-2025-La-Liga
+312,2025-04-19,Barcelona,"Celta Vigo",home,4,3,2.9,2.1,1,0.8,W,3,48569,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/ac6535dc/Barcelona-Celta-Vigo-April-19-2025-La-Liga
+313,2025-04-19,Mallorca,"Leganés",home,0,0,0.9,0.9,0,0.0,D,1,17404,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/36e23ef5/Mallorca-Leganes-April-19-2025-La-Liga
+314,2025-04-19,"Las Palmas","Atlético Madrid",home,1,0,0.6,0.8,1,-0.2,W,3,27154,"Estadio de Gran Canaria",https://fbref.com/en/matches/84f347ad/Las-Palmas-Atletico-Madrid-April-19-2025-La-Liga
+315,2025-04-20,Valladolid,Osasuna,home,2,3,1.9,2.3,-1,-0.4,L,0,12230,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/6b0f1761/Valladolid-Osasuna-April-20-2025-La-Liga
+316,2025-04-20,Villarreal,"Real Sociedad",home,2,2,1.9,1.7,0,0.2,D,1,17620,"Estadio de la Cerámica",https://fbref.com/en/matches/46e117e0/Villarreal-Real-Sociedad-April-20-2025-La-Liga
+317,2025-04-20,Sevilla,"Alavés",home,1,1,1.6,1.0,0,0.6,D,1,36436,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/be12049b/Sevilla-Alaves-April-20-2025-La-Liga
+318,2025-04-20,"Real Madrid","Athletic Club",home,1,0,1.5,0.2,1,1.3,W,3,72535,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/b9c25e18/Real-Madrid-Athletic-Club-April-20-2025-La-Liga
+319,2025-04-21,Girona,Betis,home,1,3,1.1,1.7,-2,-0.6,L,0,12535,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/0edcec5d/Girona-Real-Betis-April-21-2025-La-Liga
+320,2025-04-22,Valencia,Espanyol,home,1,1,0.9,0.3,0,0.6,D,1,42448,"Estadio de Mestalla",https://fbref.com/en/matches/17125161/Valencia-Espanyol-April-22-2025-La-Liga
+321,2025-04-22,Barcelona,Mallorca,home,1,0,3.3,0.3,1,3.0,W,3,45602,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/a71ce7d1/Barcelona-Mallorca-April-22-2025-La-Liga
+322,2025-04-23,"Celta Vigo",Villarreal,home,3,0,2.7,0.4,3,2.3,W,3,19324,"Estadio Abanca Balaídos",https://fbref.com/en/matches/291cfd49/Celta-Vigo-Villarreal-April-23-2025-La-Liga
+323,2025-04-23,"Athletic Club","Las Palmas",home,1,0,2.1,1.0,1,1.1,W,3,47724,"San Mamés",https://fbref.com/en/matches/60c208f0/Athletic-Club-Las-Palmas-April-23-2025-La-Liga
+324,2025-04-23,"Alavés","Real Sociedad",home,1,0,0.6,0.8,1,-0.2,W,3,17049,"Estadio de Mendizorroza",https://fbref.com/en/matches/14a28e57/Alaves-Real-Sociedad-April-23-2025-La-Liga
+325,2025-04-23,Getafe,"Real Madrid",home,0,1,2.3,1.5,-1,0.8,L,0,15184,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/5ae33594/Getafe-Real-Madrid-April-23-2025-La-Liga
+326,2025-04-24,Osasuna,Sevilla,home,1,0,0.3,1.1,1,-0.8,W,3,20555,"Estadio El Sadar",https://fbref.com/en/matches/3438a56b/Osasuna-Sevilla-April-24-2025-La-Liga
+327,2025-04-24,"Leganés",Girona,home,1,1,0.3,0.5,0,-0.2,D,1,11595,"Estadio Municipal de Butarque",https://fbref.com/en/matches/124ad510/Leganes-Girona-April-24-2025-La-Liga
+328,2025-04-24,"Atlético Madrid","Rayo Vallecano",home,3,0,2.3,0.7,3,1.6,W,3,49410,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/a5ffdc50/Atletico-Madrid-Rayo-Vallecano-April-24-2025-La-Liga
+329,2025-04-24,Betis,Valladolid,home,5,1,1.9,0.9,4,1.0,W,3,46458,"Estadio Benito Villamarín",https://fbref.com/en/matches/f880625e/Real-Betis-Valladolid-April-24-2025-La-Liga
+330,2025-04-27,Villarreal,Espanyol,home,1,0,1.4,1.0,1,0.4,W,3,17236,"Estadio de la Cerámica",https://fbref.com/en/matches/50b976fc/Villarreal-Espanyol-April-27-2025-La-Liga
+331,2025-05-02,"Rayo Vallecano",Getafe,home,1,0,1.2,0.9,1,0.3,W,3,11648,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/1ca7012a/Rayo-Vallecano-Getafe-May-2-2025-La-Liga
+332,2025-05-03,"Alavés","Atlético Madrid",home,0,0,0.5,0.5,0,0.0,D,1,18117,"Estadio de Mendizorroza",https://fbref.com/en/matches/7c70cc19/Alaves-Atletico-Madrid-May-3-2025-La-Liga
+333,2025-05-03,Villarreal,Osasuna,home,4,2,2.2,1.2,2,1.0,W,3,17147,"Estadio de la Cerámica",https://fbref.com/en/matches/6b5549c2/Villarreal-Osasuna-May-3-2025-La-Liga
+334,2025-05-03,"Las Palmas",Valencia,home,2,3,1.7,1.4,-1,0.3,L,0,24942,"Estadio de Gran Canaria",https://fbref.com/en/matches/bc2261f6/Las-Palmas-Valencia-May-3-2025-La-Liga
+335,2025-05-03,Valladolid,Barcelona,home,1,2,0.6,1.9,-1,-1.3,L,0,23967,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/af94853a/Valladolid-Barcelona-May-3-2025-La-Liga
+336,2025-05-04,"Real Madrid","Celta Vigo",home,3,2,2.2,1.8,1,0.4,W,3,67661,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/08e02efc/Real-Madrid-Celta-Vigo-May-4-2025-La-Liga
+337,2025-05-04,Sevilla,"Leganés",home,2,2,2.7,0.6,0,2.1,D,1,35495,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/2c94bff7/Sevilla-Leganes-May-4-2025-La-Liga
+338,2025-05-04,Espanyol,Betis,home,1,2,1.2,1.1,-1,0.0999999999999999,L,0,29126,"RCDE Stadium",https://fbref.com/en/matches/be0ab7a4/Espanyol-Real-Betis-May-4-2025-La-Liga
+339,2025-05-04,"Real Sociedad","Athletic Club",home,0,0,0.9,0.2,0,0.7,D,1,36058,"Reale Arena",https://fbref.com/en/matches/e0d46d97/Real-Sociedad-Athletic-Club-May-4-2025-La-Liga
+340,2025-05-05,Girona,Mallorca,home,1,0,1.3,0.5,1,0.8,W,3,7721,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/45dbbb22/Girona-Mallorca-May-5-2025-La-Liga
+341,2025-05-09,"Las Palmas","Rayo Vallecano",home,0,1,0.7,1.2,-1,-0.5,L,0,20577,"Estadio de Gran Canaria",https://fbref.com/en/matches/ce67853a/Las-Palmas-Rayo-Vallecano-May-9-2025-La-Liga
+342,2025-05-10,Valencia,Getafe,home,3,0,2.7,0.5,3,2.2,W,3,43357,"Estadio de Mestalla",https://fbref.com/en/matches/ed775615/Valencia-Getafe-May-10-2025-La-Liga
+343,2025-05-10,"Celta Vigo",Sevilla,home,3,2,0.9,2.3,1,-1.4,W,3,20281,"Estadio Abanca Balaídos",https://fbref.com/en/matches/3537bd55/Celta-Vigo-Sevilla-May-10-2025-La-Liga
+344,2025-05-10,Mallorca,Valladolid,home,2,1,1.0,1.8,1,-0.8,W,3,16018,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/e7540b3e/Mallorca-Valladolid-May-10-2025-La-Liga
+345,2025-05-10,Girona,Villarreal,home,0,1,0.2,2.0,-1,-1.8,L,0,12011,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/bf02d20b/Girona-Villarreal-May-10-2025-La-Liga
+346,2025-05-10,"Atlético Madrid","Real Sociedad",home,4,0,1.4,0.6,4,0.8,W,3,59612,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/dfd588e7/Atletico-Madrid-Real-Sociedad-May-10-2025-La-Liga
+347,2025-05-11,"Leganés",Espanyol,home,3,2,1.5,1.2,1,0.3,W,3,11669,"Estadio Municipal de Butarque",https://fbref.com/en/matches/f2459bac/Leganes-Espanyol-May-11-2025-La-Liga
+348,2025-05-11,Barcelona,"Real Madrid",home,4,3,4.2,2.7,1,1.5,W,3,50319,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/f1804d9c/El-Clasico-Barcelona-Real-Madrid-May-11-2025-La-Liga
+349,2025-05-11,"Athletic Club","Alavés",home,1,0,1.3,0.4,1,0.9,W,3,47947,"San Mamés",https://fbref.com/en/matches/c89b7f67/Athletic-Club-Alaves-May-11-2025-La-Liga
+350,2025-05-11,Betis,Osasuna,home,1,1,0.4,2.0,0,-1.6,D,1,52839,"Estadio Benito Villamarín",https://fbref.com/en/matches/05130dc3/Real-Betis-Osasuna-May-11-2025-La-Liga
+351,2025-05-13,Valladolid,Girona,home,0,1,0.9,1.4,-1,-0.5,L,0,12664,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/336bf51e/Valladolid-Girona-May-13-2025-La-Liga
+352,2025-05-13,"Real Sociedad","Celta Vigo",home,0,1,1.7,1.1,-1,0.6,L,0,25124,"Reale Arena",https://fbref.com/en/matches/c38bd41c/Real-Sociedad-Celta-Vigo-May-13-2025-La-Liga
+353,2025-05-13,Sevilla,"Las Palmas",home,1,0,1.3,0.5,1,0.8,W,3,37078,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/0bb2b5ef/Sevilla-Las-Palmas-May-13-2025-La-Liga
+354,2025-05-14,"Alavés",Valencia,home,1,0,1.8,0.8,1,1.0,W,3,17626,"Estadio de Mendizorroza",https://fbref.com/en/matches/a0128620/Alaves-Valencia-May-14-2025-La-Liga
+355,2025-05-14,Villarreal,"Leganés",home,3,0,1.6,1.1,3,0.5,W,3,17067,"Estadio de la Cerámica",https://fbref.com/en/matches/b14bf95b/Villarreal-Leganes-May-14-2025-La-Liga
+356,2025-05-14,"Real Madrid",Mallorca,home,2,1,2.6,0.5,1,2.1,W,3,60753,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/1838bcd7/Real-Madrid-Mallorca-May-14-2025-La-Liga
+357,2025-05-15,"Rayo Vallecano",Betis,home,2,2,1.2,1.2,0,0.0,D,1,13480,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/54538ff7/Rayo-Vallecano-Real-Betis-May-15-2025-La-Liga
+358,2025-05-15,Osasuna,"Atlético Madrid",home,2,0,0.6,1.4,2,-0.8,W,3,21171,"Estadio El Sadar",https://fbref.com/en/matches/ab452039/Osasuna-Atletico-Madrid-May-15-2025-La-Liga
+359,2025-05-15,Getafe,"Athletic Club",home,0,2,0.4,1.2,-2,-0.8,L,0,11564,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/535ec951/Getafe-Athletic-Club-May-15-2025-La-Liga
+360,2025-05-15,Espanyol,Barcelona,home,0,2,1.4,0.6,-2,0.8,L,0,34283,"RCDE Stadium",https://fbref.com/en/matches/45f486b1/Espanyol-Barcelona-May-15-2025-La-Liga
+361,2025-05-18,"Las Palmas","Leganés",home,0,1,0.6,1.5,-1,-0.9,L,0,11279,"Estadio de Gran Canaria",https://fbref.com/en/matches/766b10ee/Las-Palmas-Leganes-May-18-2025-La-Liga
+362,2025-05-18,Mallorca,Getafe,home,1,2,0.4,1.6,-1,-1.2,L,0,18124,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/05c5e52d/Mallorca-Getafe-May-18-2025-La-Liga
+363,2025-05-18,Valencia,"Athletic Club",home,0,1,0.4,1.1,-1,-0.7,L,0,45641,"Estadio de Mestalla",https://fbref.com/en/matches/e69b0060/Valencia-Athletic-Club-May-18-2025-La-Liga
+364,2025-05-18,"Atlético Madrid",Betis,home,4,1,4.8,0.9,3,3.9,W,3,62269,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/07f29baa/Atletico-Madrid-Real-Betis-May-18-2025-La-Liga
+365,2025-05-18,Osasuna,Espanyol,home,2,0,1.2,0.7,2,0.5,W,3,21131,"Estadio El Sadar",https://fbref.com/en/matches/e176243c/Osasuna-Espanyol-May-18-2025-La-Liga
+366,2025-05-18,Barcelona,Villarreal,home,2,3,1.4,1.8,-1,-0.4,L,0,49558,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/db2637b7/Barcelona-Villarreal-May-18-2025-La-Liga
+367,2025-05-18,Valladolid,"Alavés",home,0,1,1.6,1.4,-1,0.2,L,0,14506,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/89b88d0b/Valladolid-Alaves-May-18-2025-La-Liga
+368,2025-05-18,"Real Sociedad",Girona,home,3,2,2.0,2.3,1,-0.3,W,3,28315,"Reale Arena",https://fbref.com/en/matches/1c29483b/Real-Sociedad-Girona-May-18-2025-La-Liga
+369,2025-05-18,Sevilla,"Real Madrid",home,0,2,0.5,2.0,-2,-1.5,L,0,32500,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/cde582d4/Sevilla-Real-Madrid-May-18-2025-La-Liga
+370,2025-05-18,"Celta Vigo","Rayo Vallecano",home,1,2,2.4,1.2,-1,1.2,L,0,21482,"Estadio Abanca Balaídos",https://fbref.com/en/matches/1716ac24/Celta-Vigo-Rayo-Vallecano-May-18-2025-La-Liga
+371,2025-05-23,Betis,Valencia,home,1,1,0.9,0.7,0,0.2,D,1,51141,"Estadio Benito Villamarín",https://fbref.com/en/matches/a1ad64bb/Real-Betis-Valencia-May-23-2025-La-Liga
+372,2025-05-24,"Real Madrid","Real Sociedad",home,2,0,2.6,0.8,2,1.8,W,3,73186,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/14179de8/Real-Madrid-Real-Sociedad-May-24-2025-La-Liga
+373,2025-05-24,"Leganés",Valladolid,home,3,0,2.1,0.4,3,1.7,W,3,11523,"Estadio Municipal de Butarque",https://fbref.com/en/matches/12536c9f/Leganes-Valladolid-May-24-2025-La-Liga
+374,2025-05-24,Espanyol,"Las Palmas",home,2,0,2.0,0.5,2,1.5,W,3,32511,"RCDE Stadium",https://fbref.com/en/matches/858bd9c5/Espanyol-Las-Palmas-May-24-2025-La-Liga
+375,2025-05-24,"Rayo Vallecano",Mallorca,home,0,0,2.2,0.6,0,1.6,D,1,13854,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/fa808cc1/Rayo-Vallecano-Mallorca-May-24-2025-La-Liga
+376,2025-05-24,"Alavés",Osasuna,home,1,1,2.0,1.6,0,0.4,D,1,19274,"Estadio de Mendizorroza",https://fbref.com/en/matches/ed820dc1/Alaves-Osasuna-May-24-2025-La-Liga
+377,2025-05-24,Getafe,"Celta Vigo",home,1,2,0.4,1.5,-1,-1.1,L,0,12862,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/4303125c/Getafe-Celta-Vigo-May-24-2025-La-Liga
+378,2025-05-25,Girona,"Atlético Madrid",home,0,4,0.0,2.7,-4,-2.7,L,0,11546,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/cb8011f0/Girona-Atletico-Madrid-May-25-2025-La-Liga
+379,2025-05-25,Villarreal,Sevilla,home,4,2,1.1,1.5,2,-0.4,W,3,17758,"Estadio de la Cerámica",https://fbref.com/en/matches/b724ff67/Villarreal-Sevilla-May-25-2025-La-Liga
+380,2025-05-25,"Athletic Club",Barcelona,home,0,3,1.2,3.5,-3,-2.3,L,0,50231,"San Mamés",https://fbref.com/en/matches/20bdd334/Athletic-Club-Barcelona-May-25-2025-La-Liga
+1,2024-08-15,Getafe,"Athletic Club",away,1,1,0.8,0.3,0,0.5,D,1,47845,"San Mamés",https://fbref.com/en/matches/32bb9a67/Athletic-Club-Getafe-August-15-2024-La-Liga
+2,2024-08-15,Girona,Betis,away,1,1,1.6,1.4,0,0.2,D,1,54084,"Estadio Benito Villamarín",https://fbref.com/en/matches/f13e982e/Real-Betis-Girona-August-15-2024-La-Liga
+3,2024-08-16,"Alavés","Celta Vigo",away,1,2,1.6,0.8,-1,0.8,L,0,22477,"Estadio Abanca Balaídos",https://fbref.com/en/matches/3c487349/Celta-Vigo-Alaves-August-16-2024-La-Liga
+4,2024-08-16,Sevilla,"Las Palmas",away,2,2,1.8,1.4,0,0.4,D,1,24843,"Estadio de Gran Canaria",https://fbref.com/en/matches/82605913/Las-Palmas-Sevilla-August-16-2024-La-Liga
+5,2024-08-17,"Leganés",Osasuna,away,1,1,1.0,1.7,0,-0.7,D,1,19561,"Estadio El Sadar",https://fbref.com/en/matches/e593cd07/Osasuna-Leganes-August-17-2024-La-Liga
+6,2024-08-17,Barcelona,Valencia,away,2,1,3.2,1.0,1,2.2,W,3,46673,"Estadio de Mestalla",https://fbref.com/en/matches/6f0fac43/Valencia-Barcelona-August-17-2024-La-Liga
+7,2024-08-18,"Rayo Vallecano","Real Sociedad",away,2,1,1.1,1.1,1,0.0,W,3,31763,"Reale Arena",https://fbref.com/en/matches/e826cf9e/Real-Sociedad-Rayo-Vallecano-August-18-2024-La-Liga
+8,2024-08-18,"Real Madrid",Mallorca,away,1,1,0.6,1.0,0,-0.4,D,1,23010,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/c6b7a6e0/Mallorca-Real-Madrid-August-18-2024-La-Liga
+9,2024-08-19,Espanyol,Valladolid,away,0,1,0.7,0.8,-1,-0.1,L,0,22027,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/43c02c2b/Valladolid-Espanyol-August-19-2024-La-Liga
+10,2024-08-19,"Atlético Madrid",Villarreal,away,2,2,1.1,0.8,0,0.3,D,1,21566,"Estadio de la Cerámica",https://fbref.com/en/matches/2a59dd47/Villarreal-Atletico-Madrid-August-19-2024-La-Liga
+11,2024-08-23,Valencia,"Celta Vigo",away,1,3,0.9,1.3,-2,-0.4,L,0,23519,"Estadio Abanca Balaídos",https://fbref.com/en/matches/95447cec/Celta-Vigo-Valencia-August-23-2024-La-Liga
+12,2024-08-23,Villarreal,Sevilla,away,2,1,0.9,1.0,1,-0.1,W,3,34004,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/0d54805a/Sevilla-Villarreal-August-23-2024-La-Liga
+13,2024-08-24,Mallorca,Osasuna,away,0,1,0.6,0.6,-1,0.0,L,0,19900,"Estadio El Sadar",https://fbref.com/en/matches/384225d1/Osasuna-Mallorca-August-24-2024-La-Liga
+14,2024-08-24,"Athletic Club",Barcelona,away,1,2,1.0,1.8,-1,-0.8,L,0,46448,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/87bc9bba/Barcelona-Athletic-Club-August-24-2024-La-Liga
+15,2024-08-24,"Rayo Vallecano",Getafe,away,0,0,0.2,0.5,0,-0.3,D,1,9529,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/e11566fd/Getafe-Rayo-Vallecano-August-24-2024-La-Liga
+16,2024-08-24,"Real Sociedad",Espanyol,away,1,0,0.8,1.6,1,-0.8,W,3,20900,"RCDE Stadium",https://fbref.com/en/matches/3c8fe9de/Espanyol-Real-Sociedad-August-24-2024-La-Liga
+17,2024-08-25,Valladolid,"Real Madrid",away,0,3,0.4,2.1,-3,-1.7,L,0,70178,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/3f2f6c96/Real-Madrid-Valladolid-August-25-2024-La-Liga
+18,2024-08-25,"Las Palmas","Leganés",away,1,2,0.9,1.5,-1,-0.6,L,0,10052,"Estadio Municipal de Butarque",https://fbref.com/en/matches/b1f96209/Leganes-Las-Palmas-August-25-2024-La-Liga
+19,2024-08-25,Betis,"Alavés",away,0,0,1.5,0.2,0,1.3,D,1,16623,"Estadio de Mendizorroza",https://fbref.com/en/matches/b757e16f/Alaves-Real-Betis-August-25-2024-La-Liga
+20,2024-08-25,Girona,"Atlético Madrid",away,0,3,0.7,1.2,-3,-0.5,L,0,60414,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/c6c0a3d3/Atletico-Madrid-Girona-August-25-2024-La-Liga
+21,2024-08-26,"Celta Vigo",Villarreal,away,3,4,2.7,3.6,-1,-0.9,L,0,19651,"Estadio de la Cerámica",https://fbref.com/en/matches/050fe7c2/Villarreal-Celta-Vigo-August-26-2024-La-Liga
+22,2024-08-27,Sevilla,Mallorca,away,0,0,0.7,0.9,0,-0.2,D,1,20470,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/6049a447/Mallorca-Sevilla-August-27-2024-La-Liga
+23,2024-08-27,Barcelona,"Rayo Vallecano",away,2,1,1.4,0.4,1,1.0,W,3,14031,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/f8fc00c7/Rayo-Vallecano-Barcelona-August-27-2024-La-Liga
+24,2024-08-28,Valencia,"Athletic Club",away,0,1,0.1,1.4,-1,-1.3,L,0,48644,"San Mamés",https://fbref.com/en/matches/acc2bc45/Athletic-Club-Valencia-August-28-2024-La-Liga
+25,2024-08-28,"Leganés",Valladolid,away,0,0,0.2,1.1,0,-0.9,D,1,21764,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/843a0b94/Valladolid-Leganes-August-28-2024-La-Liga
+26,2024-08-28,Espanyol,"Atlético Madrid",away,0,0,0.6,2.3,0,-1.7,D,1,56669,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/ef04c85d/Atletico-Madrid-Espanyol-August-28-2024-La-Liga
+27,2024-08-28,"Alavés","Real Sociedad",away,2,1,1.6,1.0,1,0.6,W,3,32220,"Reale Arena",https://fbref.com/en/matches/71669703/Real-Sociedad-Alaves-August-28-2024-La-Liga
+28,2024-08-29,Osasuna,Girona,away,0,4,0.0,2.4,-4,-2.4,L,0,13275,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/6e8b4c78/Girona-Osasuna-August-29-2024-La-Liga
+29,2024-08-29,"Real Madrid","Las Palmas",away,1,1,2.5,0.8,0,1.7,D,1,31192,"Estadio de Gran Canaria",https://fbref.com/en/matches/173a87bb/Las-Palmas-Real-Madrid-August-29-2024-La-Liga
+30,2024-08-31,Valladolid,Barcelona,away,0,7,0.5,4.7,-7,-4.2,L,0,44359,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/3ed1b8ff/Barcelona-Valladolid-August-31-2024-La-Liga
+31,2024-08-31,"Atlético Madrid","Athletic Club",away,1,0,1.7,0.3,1,1.4,W,3,48617,"San Mamés",https://fbref.com/en/matches/d554e8b9/Athletic-Club-Atletico-Madrid-August-31-2024-La-Liga
+32,2024-08-31,"Rayo Vallecano",Espanyol,away,1,2,1.3,1.6,-1,-0.3,L,0,22405,"RCDE Stadium",https://fbref.com/en/matches/02bfae4e/Espanyol-Rayo-Vallecano-August-31-2024-La-Liga
+33,2024-08-31,Villarreal,Valencia,away,1,1,0.5,1.1,0,-0.6,D,1,43857,"Estadio de Mestalla",https://fbref.com/en/matches/e79d506b/Valencia-Villarreal-August-31-2024-La-Liga
+34,2024-08-31,Mallorca,"Leganés",away,1,0,1.0,0.3,1,0.7,W,3,10482,"Estadio Municipal de Butarque",https://fbref.com/en/matches/2053d836/Leganes-Mallorca-August-31-2024-La-Liga
+35,2024-09-01,"Las Palmas","Alavés",away,0,2,0.7,2.0,-2,-1.3,L,0,16386,"Estadio de Mendizorroza",https://fbref.com/en/matches/572463cb/Alaves-Las-Palmas-September-1-2024-La-Liga
+36,2024-09-01,"Celta Vigo",Osasuna,away,2,3,1.7,0.9,-1,0.8,L,0,19908,"Estadio El Sadar",https://fbref.com/en/matches/7aa26780/Osasuna-Celta-Vigo-September-1-2024-La-Liga
+37,2024-09-01,Girona,Sevilla,away,2,0,1.9,0.9,2,1.0,W,3,35735,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/50cdc0c9/Sevilla-Girona-September-1-2024-La-Liga
+38,2024-09-01,"Real Sociedad",Getafe,away,0,0,0.0,0.6,0,-0.6,D,1,10929,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/5a140caa/Getafe-Real-Sociedad-September-1-2024-La-Liga
+39,2024-09-01,Betis,"Real Madrid",away,0,2,0.6,2.4,-2,-1.8,L,0,73072,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/f8b3c447/Real-Madrid-Real-Betis-September-1-2024-La-Liga
+40,2024-09-13,"Leganés",Betis,away,0,2,0.1,2.1,-2,-2.0,L,0,48089,"Estadio Benito Villamarín",https://fbref.com/en/matches/3c660029/Real-Betis-Leganes-September-13-2024-La-Liga
+41,2024-09-14,Villarreal,Mallorca,away,2,1,1.8,0.3,1,1.5,W,3,18303,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/4f2bd132/Mallorca-Villarreal-September-14-2024-La-Liga
+42,2024-09-14,"Alavés",Espanyol,away,2,3,1.9,1.6,-1,0.3,L,0,24238,"RCDE Stadium",https://fbref.com/en/matches/28cd11c2/Espanyol-Alaves-September-14-2024-La-Liga
+43,2024-09-14,Getafe,Sevilla,away,0,1,1.0,1.4,-1,-0.4,L,0,32643,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/a214487d/Sevilla-Getafe-September-14-2024-La-Liga
+44,2024-09-14,"Real Madrid","Real Sociedad",away,2,0,2.3,1.1,2,1.2,W,3,37370,"Reale Arena",https://fbref.com/en/matches/50a17164/Real-Sociedad-Real-Madrid-September-14-2024-La-Liga
+45,2024-09-15,Valladolid,"Celta Vigo",away,1,3,0.5,1.8,-2,-1.3,L,0,21670,"Estadio Abanca Balaídos",https://fbref.com/en/matches/72aa5092/Celta-Vigo-Valladolid-September-15-2024-La-Liga
+46,2024-09-15,Barcelona,Girona,away,4,1,1.9,1.3,3,0.6,W,3,13891,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/f166ffc9/Girona-Barcelona-September-15-2024-La-Liga
+47,2024-09-15,"Athletic Club","Las Palmas",away,3,2,1.7,1.4,1,0.3,W,3,25908,"Estadio de Gran Canaria",https://fbref.com/en/matches/defd20c7/Las-Palmas-Athletic-Club-September-15-2024-La-Liga
+48,2024-09-15,Valencia,"Atlético Madrid",away,0,3,0.1,3.1,-3,-3.0,L,0,61752,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/e1e5325c/Atletico-Madrid-Valencia-September-15-2024-La-Liga
+49,2024-09-16,Osasuna,"Rayo Vallecano",away,1,3,0.3,1.6,-2,-1.3,L,0,13073,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/b5605cb6/Rayo-Vallecano-Osasuna-September-16-2024-La-Liga
+50,2024-09-17,"Real Sociedad",Mallorca,away,0,1,0.6,1.2,-1,-0.6,L,0,17132,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/6ced9ec5/Mallorca-Real-Sociedad-September-17-2024-La-Liga
+51,2024-09-18,Getafe,Betis,away,1,2,0.6,2.6,-1,-2.0,L,0,48547,"Estadio Benito Villamarín",https://fbref.com/en/matches/d2722540/Real-Betis-Getafe-September-18-2024-La-Liga
+52,2024-09-19,"Athletic Club","Leganés",away,2,0,1.3,0.9,2,0.4,W,3,8304,"Estadio Municipal de Butarque",https://fbref.com/en/matches/613f75be/Leganes-Athletic-Club-September-19-2024-La-Liga
+53,2024-09-20,Sevilla,"Alavés",away,1,2,0.5,1.1,-1,-0.6,L,0,16538,"Estadio de Mendizorroza",https://fbref.com/en/matches/f32a65e4/Alaves-Sevilla-September-20-2024-La-Liga
+54,2024-09-21,"Real Sociedad",Valladolid,away,0,0,1.4,1.0,0,0.4,D,1,21171,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/cddbefd1/Valladolid-Real-Sociedad-September-21-2024-La-Liga
+55,2024-09-21,"Las Palmas",Osasuna,away,1,2,0.8,1.9,-1,-1.1,L,0,19043,"Estadio El Sadar",https://fbref.com/en/matches/9c8b0304/Osasuna-Las-Palmas-September-21-2024-La-Liga
+56,2024-09-21,Girona,Valencia,away,0,2,0.4,0.4,-2,0.0,L,0,40896,"Estadio de Mestalla",https://fbref.com/en/matches/131899cd/Valencia-Girona-September-21-2024-La-Liga
+57,2024-09-21,Espanyol,"Real Madrid",away,1,4,0.3,4.4,-3,-4.1,L,0,17284,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/a46e38e7/Real-Madrid-Espanyol-September-21-2024-La-Liga
+58,2024-09-22,"Leganés",Getafe,away,1,1,0.6,1.5,0,-0.9,D,1,13060,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/f5dbb50d/Getafe-Leganes-September-22-2024-La-Liga
+59,2024-09-22,"Celta Vigo","Athletic Club",away,1,3,1.3,0.7,-2,0.6,L,0,48737,"San Mamés",https://fbref.com/en/matches/d67421c6/Athletic-Club-Celta-Vigo-September-22-2024-La-Liga
+60,2024-09-22,Barcelona,Villarreal,away,5,1,3.9,2.2,4,1.7,W,3,22048,"Estadio de la Cerámica",https://fbref.com/en/matches/79c38937/Villarreal-Barcelona-September-22-2024-La-Liga
+61,2024-09-22,"Atlético Madrid","Rayo Vallecano",away,1,1,0.5,1.7,0,-1.2,D,1,13646,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/75fab2fb/Rayo-Vallecano-Atletico-Madrid-September-22-2024-La-Liga
+62,2024-09-23,Mallorca,Betis,away,2,1,1.0,1.0,1,0.0,W,3,47017,"Estadio Benito Villamarín",https://fbref.com/en/matches/c7505bdc/Real-Betis-Mallorca-September-23-2024-La-Liga
+63,2024-09-24,Valladolid,Sevilla,away,1,2,0.7,2.1,-1,-1.4,L,0,35292,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/3ee384b4/Sevilla-Valladolid-September-24-2024-La-Liga
+64,2024-09-24,Osasuna,Valencia,away,0,0,0.5,0.7,0,-0.2,D,1,40425,"Estadio de Mestalla",https://fbref.com/en/matches/b979258f/Valencia-Osasuna-September-24-2024-La-Liga
+65,2024-09-24,"Alavés","Real Madrid",away,2,3,0.9,1.3,-1,-0.4,L,0,67480,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/618988b7/Real-Madrid-Alaves-September-24-2024-La-Liga
+66,2024-09-25,"Rayo Vallecano",Girona,away,0,0,0.5,2.0,0,-1.5,D,1,12272,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/07598e53/Girona-Rayo-Vallecano-September-25-2024-La-Liga
+67,2024-09-25,Getafe,Barcelona,away,0,1,0.7,1.9,-1,-1.2,L,0,44407,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/231f83bc/Barcelona-Getafe-September-25-2024-La-Liga
+68,2024-09-26,Betis,"Las Palmas",away,1,1,1.9,1.0,0,0.9,D,1,22722,"Estadio de Gran Canaria",https://fbref.com/en/matches/94fe3705/Las-Palmas-Real-Betis-September-26-2024-La-Liga
+69,2024-09-26,Villarreal,Espanyol,away,2,1,1.6,0.4,1,1.2,W,3,23147,"RCDE Stadium",https://fbref.com/en/matches/aef7cc8d/Espanyol-Villarreal-September-26-2024-La-Liga
+70,2024-09-26,"Atlético Madrid","Celta Vigo",away,1,0,0.6,1.5,1,-0.9,W,3,21533,"Estadio Abanca Balaídos",https://fbref.com/en/matches/01197df1/Celta-Vigo-Atletico-Madrid-September-26-2024-La-Liga
+71,2024-09-27,Mallorca,Valladolid,away,2,1,2.2,1.2,1,1.0,W,3,20388,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/d59e698a/Valladolid-Mallorca-September-27-2024-La-Liga
+72,2024-09-28,"Alavés",Getafe,away,0,2,0.5,2.1,-2,-1.6,L,0,10006,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/c745f73f/Getafe-Alaves-September-28-2024-La-Liga
+73,2024-09-28,"Leganés","Rayo Vallecano",away,1,1,0.9,0.9,0,0.0,D,1,13186,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/edd88e45/Rayo-Vallecano-Leganes-September-28-2024-La-Liga
+74,2024-09-28,Valencia,"Real Sociedad",away,0,3,0.8,3.4,-3,-2.6,L,0,32332,"Reale Arena",https://fbref.com/en/matches/6dfa7503/Real-Sociedad-Valencia-September-28-2024-La-Liga
+75,2024-09-28,Barcelona,Osasuna,away,2,4,0.8,2.2,-2,-1.4,L,0,22322,"Estadio El Sadar",https://fbref.com/en/matches/d5c58cc9/Osasuna-Barcelona-September-28-2024-La-Liga
+76,2024-09-29,Girona,"Celta Vigo",away,1,1,0.8,0.5,0,0.3,D,1,21347,"Estadio Abanca Balaídos",https://fbref.com/en/matches/4c283fa8/Celta-Vigo-Girona-September-29-2024-La-Liga
+77,2024-09-29,Sevilla,"Athletic Club",away,1,1,1.1,2.0,0,-0.9,D,1,48288,"San Mamés",https://fbref.com/en/matches/9b519ed0/Athletic-Club-Sevilla-September-29-2024-La-Liga
+78,2024-09-29,Espanyol,Betis,away,0,1,0.5,2.1,-1,-1.6,L,0,53065,"Estadio Benito Villamarín",https://fbref.com/en/matches/650b3ea7/Real-Betis-Espanyol-September-29-2024-La-Liga
+79,2024-09-29,"Real Madrid","Atlético Madrid",away,1,1,0.8,1.3,0,-0.5,D,1,70112,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/0df1f571/El-Derbi-Madrileno-Atletico-Madrid-Real-Madrid-September-29-2024-La-Liga
+80,2024-09-30,"Las Palmas",Villarreal,away,1,3,0.9,2.8,-2,-1.9,L,0,18159,"Estadio de la Cerámica",https://fbref.com/en/matches/3ecbf46e/Villarreal-Las-Palmas-September-30-2024-La-Liga
+81,2024-10-04,Valencia,"Leganés",away,0,0,0.5,0.8,0,-0.3,D,1,10958,"Estadio Municipal de Butarque",https://fbref.com/en/matches/18dc29a4/Leganes-Valencia-October-4-2024-La-Liga
+82,2024-10-05,Mallorca,Espanyol,away,1,2,1.6,0.9,-1,0.7,L,0,24434,"RCDE Stadium",https://fbref.com/en/matches/d2dd62e7/Espanyol-Mallorca-October-5-2024-La-Liga
+83,2024-10-05,Osasuna,Getafe,away,1,1,0.3,0.8,0,-0.5,D,1,10670,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/fdd30e13/Getafe-Osasuna-October-5-2024-La-Liga
+84,2024-10-05,"Celta Vigo","Las Palmas",away,1,0,0.8,1.3,1,-0.5,W,3,21482,"Estadio de Gran Canaria",https://fbref.com/en/matches/8f767bea/Las-Palmas-Celta-Vigo-October-5-2024-La-Liga
+85,2024-10-05,"Rayo Vallecano",Valladolid,away,2,1,1.5,2.0,1,-0.5,W,3,21112,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/59703f58/Valladolid-Rayo-Vallecano-October-5-2024-La-Liga
+86,2024-10-05,Villarreal,"Real Madrid",away,0,2,1.1,0.5,-2,0.6,L,0,73842,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/9bf91e35/Real-Madrid-Villarreal-October-5-2024-La-Liga
+87,2024-10-06,"Athletic Club",Girona,away,1,2,3.1,1.9,-1,1.2,L,0,13396,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/7d98a38f/Girona-Athletic-Club-October-6-2024-La-Liga
+88,2024-10-06,Barcelona,"Alavés",away,3,0,2.7,0.7,3,2.0,W,3,19468,"Estadio de Mendizorroza",https://fbref.com/en/matches/ba5dd68e/Alaves-Barcelona-October-6-2024-La-Liga
+89,2024-10-06,Betis,Sevilla,away,0,1,0.6,1.4,-1,-0.8,L,0,42571,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/c9404de2/Sevilla-Real-Betis-October-6-2024-La-Liga
+90,2024-10-06,"Atlético Madrid","Real Sociedad",away,1,1,0.5,1.0,0,-0.5,D,1,31983,"Reale Arena",https://fbref.com/en/matches/069145b6/Real-Sociedad-Atletico-Madrid-October-6-2024-La-Liga
+91,2024-10-18,Valladolid,"Alavés",away,3,2,2.4,0.5,1,1.9,W,3,16904,"Estadio de Mendizorroza",https://fbref.com/en/matches/a0c7186e/Alaves-Valladolid-October-18-2024-La-Liga
+92,2024-10-19,Espanyol,"Athletic Club",away,1,4,0.2,1.3,-3,-1.1,L,0,46713,"San Mamés",https://fbref.com/en/matches/0425fc2d/Athletic-Club-Espanyol-October-19-2024-La-Liga
+93,2024-10-19,Betis,Osasuna,away,2,1,2.1,2.0,1,0.1,W,3,21045,"Estadio El Sadar",https://fbref.com/en/matches/5ea3b789/Osasuna-Real-Betis-October-19-2024-La-Liga
+94,2024-10-19,"Real Sociedad",Girona,away,1,0,1.7,0.4,1,1.3,W,3,12602,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/ec18b3aa/Girona-Real-Sociedad-October-19-2024-La-Liga
+95,2024-10-19,"Real Madrid","Celta Vigo",away,2,1,0.7,1.8,1,-1.1,W,3,24445,"Estadio Abanca Balaídos",https://fbref.com/en/matches/50bf3afb/Celta-Vigo-Real-Madrid-October-19-2024-La-Liga
+96,2024-10-20,"Rayo Vallecano",Mallorca,away,0,1,0.6,2.0,-1,-1.4,L,0,18316,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/477327f9/Mallorca-Rayo-Vallecano-October-20-2024-La-Liga
+97,2024-10-20,"Leganés","Atlético Madrid",away,1,3,0.3,4.4,-2,-4.1,L,0,60122,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/d32fffe0/Atletico-Madrid-Leganes-October-20-2024-La-Liga
+98,2024-10-20,Getafe,Villarreal,away,1,1,1.9,0.9,0,1.0,D,1,19355,"Estadio de la Cerámica",https://fbref.com/en/matches/bfba2fd7/Villarreal-Getafe-October-20-2024-La-Liga
+99,2024-10-20,Sevilla,Barcelona,away,1,5,1.0,3.8,-4,-2.8,L,0,47848,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/5f73bf47/Barcelona-Sevilla-October-20-2024-La-Liga
+100,2024-10-21,"Las Palmas",Valencia,away,3,2,1.2,1.6,1,-0.4,W,3,42453,"Estadio de Mestalla",https://fbref.com/en/matches/9bb16911/Valencia-Las-Palmas-October-21-2024-La-Liga
+101,2024-10-25,Sevilla,Espanyol,away,2,0,0.8,1.2,2,-0.4,W,3,23656,"RCDE Stadium",https://fbref.com/en/matches/38d25c90/Espanyol-Sevilla-October-25-2024-La-Liga
+102,2024-10-26,Villarreal,Valladolid,away,2,1,2.0,0.9,1,1.1,W,3,20178,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/591dbf90/Valladolid-Villarreal-October-26-2024-La-Liga
+103,2024-10-26,"Alavés","Rayo Vallecano",away,0,1,0.9,1.9,-1,-1.0,L,0,13010,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/55b7dfaa/Rayo-Vallecano-Alaves-October-26-2024-La-Liga
+104,2024-10-26,Girona,"Las Palmas",away,0,1,0.6,0.9,-1,-0.3,L,0,21506,"Estadio de Gran Canaria",https://fbref.com/en/matches/9dbc3e14/Las-Palmas-Girona-October-26-2024-La-Liga
+105,2024-10-26,Barcelona,"Real Madrid",away,4,0,2.6,1.5,4,1.1,W,3,78192,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/e6bc2844/El-Clasico-Real-Madrid-Barcelona-October-26-2024-La-Liga
+106,2024-10-27,"Celta Vigo","Leganés",away,0,3,0.9,1.6,-3,-0.7,L,0,11358,"Estadio Municipal de Butarque",https://fbref.com/en/matches/597f83c1/Leganes-Celta-Vigo-October-27-2024-La-Liga
+107,2024-10-27,Valencia,Getafe,away,1,1,0.7,2.2,0,-1.5,D,1,12412,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/f0be0a37/Getafe-Valencia-October-27-2024-La-Liga
+108,2024-10-27,"Atlético Madrid",Betis,away,0,1,0.5,1.9,-1,-1.4,L,0,52621,"Estadio Benito Villamarín",https://fbref.com/en/matches/ffc4972d/Real-Betis-Atletico-Madrid-October-27-2024-La-Liga
+109,2024-10-27,Osasuna,"Real Sociedad",away,2,0,1.0,1.6,2,-0.6,W,3,31729,"Reale Arena",https://fbref.com/en/matches/722b1ca2/Real-Sociedad-Osasuna-October-27-2024-La-Liga
+110,2024-10-28,"Athletic Club",Mallorca,away,0,0,0.6,0.5,0,0.1,D,1,19797,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/46815a4a/Mallorca-Athletic-Club-October-28-2024-La-Liga
+111,2024-11-01,Mallorca,"Alavés",away,0,1,0.5,1.1,-1,-0.6,L,0,17212,"Estadio de Mendizorroza",https://fbref.com/en/matches/454dc8c7/Alaves-Mallorca-November-1-2024-La-Liga
+112,2024-11-02,Valladolid,Osasuna,away,0,1,0.2,2.2,-1,-2.0,L,0,20430,"Estadio El Sadar",https://fbref.com/en/matches/377a6000/Osasuna-Valladolid-November-2-2024-La-Liga
+113,2024-11-02,"Leganés",Girona,away,3,4,0.4,2.0,-1,-1.6,L,0,10839,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/12ce04dc/Girona-Leganes-November-2-2024-La-Liga
+114,2024-11-03,"Las Palmas","Atlético Madrid",away,0,2,0.0,1.6,-2,-1.6,L,0,56610,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/60a46aeb/Atletico-Madrid-Las-Palmas-November-3-2024-La-Liga
+115,2024-11-03,Espanyol,Barcelona,away,1,3,0.9,1.8,-2,-0.9,L,0,48843,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/90cf8629/Barcelona-Espanyol-November-3-2024-La-Liga
+116,2024-11-03,"Real Sociedad",Sevilla,away,2,0,1.4,1.1,2,0.3,W,3,37619,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/81dad4eb/Sevilla-Real-Sociedad-November-3-2024-La-Liga
+117,2024-11-03,Betis,"Athletic Club",away,1,1,0.9,4.0,0,-3.1,D,1,46898,"San Mamés",https://fbref.com/en/matches/ef8bf64a/Athletic-Club-Real-Betis-November-3-2024-La-Liga
+118,2024-11-04,Getafe,"Celta Vigo",away,0,1,0.5,1.9,-1,-1.4,L,0,19502,"Estadio Abanca Balaídos",https://fbref.com/en/matches/652b900c/Celta-Vigo-Getafe-November-4-2024-La-Liga
+119,2024-11-08,"Las Palmas","Rayo Vallecano",away,3,1,1.1,2.4,2,-1.3,W,3,12978,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/abe69737/Rayo-Vallecano-Las-Palmas-November-8-2024-La-Liga
+120,2024-11-09,Osasuna,"Real Madrid",away,0,4,0.1,3.1,-4,-3.0,L,0,72462,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/79bd89e0/Real-Madrid-Osasuna-November-9-2024-La-Liga
+121,2024-11-09,"Alavés",Villarreal,away,0,3,0.5,1.5,-3,-1.0,L,0,17659,"Estadio de la Cerámica",https://fbref.com/en/matches/570273ee/Villarreal-Alaves-November-9-2024-La-Liga
+122,2024-11-09,Sevilla,"Leganés",away,0,1,0.6,1.1,-1,-0.5,L,0,11167,"Estadio Municipal de Butarque",https://fbref.com/en/matches/7925ae38/Leganes-Sevilla-November-9-2024-La-Liga
+123,2024-11-10,"Celta Vigo",Betis,away,2,2,1.2,1.6,0,-0.4,D,1,54015,"Estadio Benito Villamarín",https://fbref.com/en/matches/2307f9b9/Real-Betis-Celta-Vigo-November-10-2024-La-Liga
+124,2024-11-10,"Atlético Madrid",Mallorca,away,1,0,0.6,0.6,1,0.0,W,3,19500,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/f6040fa5/Mallorca-Atletico-Madrid-November-10-2024-La-Liga
+125,2024-11-10,"Athletic Club",Valladolid,away,1,1,1.2,0.6,0,0.6,D,1,23515,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/57eb3b4f/Valladolid-Athletic-Club-November-10-2024-La-Liga
+126,2024-11-10,Girona,Getafe,away,1,0,0.2,0.6,1,-0.4,W,3,10923,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/26d75d6d/Getafe-Girona-November-10-2024-La-Liga
+127,2024-11-10,Barcelona,"Real Sociedad",away,0,1,0.7,2.0,-1,-1.3,L,0,36194,"Reale Arena",https://fbref.com/en/matches/5f83ac85/Real-Sociedad-Barcelona-November-10-2024-La-Liga
+128,2024-11-22,Valladolid,Getafe,away,0,2,1.1,0.6,-2,0.5,L,0,9991,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/7f56d98f/Getafe-Valladolid-November-22-2024-La-Liga
+129,2024-11-23,Betis,Valencia,away,2,4,1.3,1.5,-2,-0.2,L,0,43975,"Estadio de Mestalla",https://fbref.com/en/matches/818dc175/Valencia-Real-Betis-November-23-2024-La-Liga
+130,2024-11-23,"Alavés","Atlético Madrid",away,1,2,0.9,1.6,-1,-0.7,L,0,58910,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/27871b65/Atletico-Madrid-Alaves-November-23-2024-La-Liga
+131,2024-11-23,Mallorca,"Las Palmas",away,3,2,1.7,1.2,1,0.5,W,3,22940,"Estadio de Gran Canaria",https://fbref.com/en/matches/243cb41c/Las-Palmas-Mallorca-November-23-2024-La-Liga
+132,2024-11-23,Espanyol,Girona,away,1,4,0.5,3.5,-3,-3.0,L,0,12461,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/cdb994ab/Girona-Espanyol-November-23-2024-La-Liga
+133,2024-11-23,Barcelona,"Celta Vigo",away,2,2,1.8,2.5,0,-0.7,D,1,24573,"Estadio Abanca Balaídos",https://fbref.com/en/matches/ffb1fa1d/Celta-Vigo-Barcelona-November-23-2024-La-Liga
+134,2024-11-24,Villarreal,Osasuna,away,2,2,2.5,1.0,0,1.5,D,1,19795,"Estadio El Sadar",https://fbref.com/en/matches/e5de943f/Osasuna-Villarreal-November-24-2024-La-Liga
+135,2024-11-24,"Rayo Vallecano",Sevilla,away,0,1,0.8,1.1,-1,-0.3,L,0,35125,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/e88639fb/Sevilla-Rayo-Vallecano-November-24-2024-La-Liga
+136,2024-11-24,"Real Madrid","Leganés",away,3,0,1.8,0.1,3,1.7,W,3,12338,"Estadio Municipal de Butarque",https://fbref.com/en/matches/e2ee9d3d/Leganes-Real-Madrid-November-24-2024-La-Liga
+137,2024-11-24,"Real Sociedad","Athletic Club",away,0,1,0.5,1.3,-1,-0.8,L,0,50719,"San Mamés",https://fbref.com/en/matches/fa0d939a/Athletic-Club-Real-Sociedad-November-24-2024-La-Liga
+138,2024-11-29,Valencia,Mallorca,away,1,2,1.3,0.8,-1,0.5,L,0,17717,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/fc79d1e0/Mallorca-Valencia-November-29-2024-La-Liga
+139,2024-11-30,"Las Palmas",Barcelona,away,2,1,0.5,2.3,1,-1.8,W,3,43921,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/00bca7c4/Barcelona-Las-Palmas-November-30-2024-La-Liga
+140,2024-11-30,"Leganés","Alavés",away,1,1,0.9,1.1,0,-0.2,D,1,16881,"Estadio de Mendizorroza",https://fbref.com/en/matches/62f87a02/Alaves-Leganes-November-30-2024-La-Liga
+141,2024-11-30,"Celta Vigo",Espanyol,away,1,3,1.6,0.9,-2,0.7,L,0,23792,"RCDE Stadium",https://fbref.com/en/matches/2f5ca11f/Espanyol-Celta-Vigo-November-30-2024-La-Liga
+142,2024-11-30,"Atlético Madrid",Valladolid,away,5,0,4.0,0.6,5,3.4,W,3,23482,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/34a6798a/Valladolid-Atletico-Madrid-November-30-2024-La-Liga
+143,2024-12-01,Girona,Villarreal,away,2,2,0.5,2.0,0,-1.5,D,1,17732,"Estadio de la Cerámica",https://fbref.com/en/matches/0b823038/Villarreal-Girona-December-1-2024-La-Liga
+144,2024-12-01,Getafe,"Real Madrid",away,0,2,0.5,3.2,-2,-2.7,L,0,74341,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/6e3da6f1/Real-Madrid-Getafe-December-1-2024-La-Liga
+145,2024-12-01,"Athletic Club","Rayo Vallecano",away,2,1,0.7,0.2,1,0.5,W,3,13639,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/8dcf829f/Rayo-Vallecano-Athletic-Club-December-1-2024-La-Liga
+146,2024-12-01,Betis,"Real Sociedad",away,0,2,0.4,0.8,-2,-0.4,L,0,28119,"Reale Arena",https://fbref.com/en/matches/11bcd802/Real-Sociedad-Real-Betis-December-1-2024-La-Liga
+147,2024-12-02,Osasuna,Sevilla,away,1,1,0.7,1.3,0,-0.6,D,1,31536,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/018fa1b4/Sevilla-Osasuna-December-2-2024-La-Liga
+148,2024-12-03,Barcelona,Mallorca,away,5,1,5.0,0.9,4,4.1,W,3,22352,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/fce1658d/Mallorca-Barcelona-December-3-2024-La-Liga
+149,2024-12-04,"Real Madrid","Athletic Club",away,1,2,1.7,1.8,-1,-0.1,L,0,51364,"San Mamés",https://fbref.com/en/matches/8eba22e2/Athletic-Club-Real-Madrid-December-4-2024-La-Liga
+150,2024-12-06,Mallorca,"Celta Vigo",away,0,2,0.8,0.9,-2,-0.1,L,0,22861,"Estadio Abanca Balaídos",https://fbref.com/en/matches/b53b2cc8/Celta-Vigo-Mallorca-December-6-2024-La-Liga
+151,2024-12-07,Valladolid,"Las Palmas",away,1,2,1.3,1.1,-1,0.2,L,0,21610,"Estadio de Gran Canaria",https://fbref.com/en/matches/036a4747/Las-Palmas-Valladolid-December-7-2024-La-Liga
+152,2024-12-07,Barcelona,Betis,away,2,2,1.9,3.1,0,-1.2,D,1,51749,"Estadio Benito Villamarín",https://fbref.com/en/matches/fb5d09d6/Real-Betis-Barcelona-December-7-2024-La-Liga
+153,2024-12-07,"Rayo Vallecano",Valencia,away,1,0,0.9,1.3,1,-0.4,W,3,40968,"Estadio de Mestalla",https://fbref.com/en/matches/24f9975b/Valencia-Rayo-Vallecano-December-7-2024-La-Liga
+154,2024-12-07,"Real Madrid",Girona,away,3,0,0.9,0.4,3,0.5,W,3,13827,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/6ebd56ef/Girona-Real-Madrid-December-7-2024-La-Liga
+155,2024-12-08,"Real Sociedad","Leganés",away,3,0,1.8,0.7,3,1.1,W,3,11312,"Estadio Municipal de Butarque",https://fbref.com/en/matches/37cd2f6c/Leganes-Real-Sociedad-December-8-2024-La-Liga
+156,2024-12-08,Villarreal,"Athletic Club",away,0,2,0.8,1.2,-2,-0.4,L,0,47203,"San Mamés",https://fbref.com/en/matches/8f9e0139/Athletic-Club-Villarreal-December-8-2024-La-Liga
+157,2024-12-08,"Alavés",Osasuna,away,2,2,1.3,1.8,0,-0.5,D,1,18220,"Estadio El Sadar",https://fbref.com/en/matches/ee8fb4af/Osasuna-Alaves-December-8-2024-La-Liga
+158,2024-12-08,Sevilla,"Atlético Madrid",away,3,4,0.4,2.0,-1,-1.6,L,0,60065,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/8c459ad5/Atletico-Madrid-Sevilla-December-8-2024-La-Liga
+159,2024-12-09,Espanyol,Getafe,away,0,1,0.7,0.4,-1,0.3,L,0,7559,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/8a159d42/Getafe-Espanyol-December-9-2024-La-Liga
+160,2024-12-13,Valencia,Valladolid,away,0,1,0.8,0.6,-1,0.2,L,0,18449,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/b7bb2f84/Valladolid-Valencia-December-13-2024-La-Liga
+161,2024-12-14,Osasuna,Espanyol,away,0,0,0.3,0.3,0,0.0,D,1,20513,"RCDE Stadium",https://fbref.com/en/matches/4525bc01/Espanyol-Osasuna-December-14-2024-La-Liga
+162,2024-12-14,Girona,Mallorca,away,1,2,0.8,1.2,-1,-0.4,L,0,15866,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/5632f505/Mallorca-Girona-December-14-2024-La-Liga
+163,2024-12-14,"Celta Vigo",Sevilla,away,0,1,1.2,0.7,-1,0.5,L,0,37295,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/6a475fea/Sevilla-Celta-Vigo-December-14-2024-La-Liga
+164,2024-12-14,"Real Madrid","Rayo Vallecano",away,3,3,0.7,1.6,0,-0.9,D,1,14168,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/49cf201f/Rayo-Vallecano-Real-Madrid-December-14-2024-La-Liga
+165,2024-12-15,Getafe,"Atlético Madrid",away,0,1,0.2,1.7,-1,-1.5,L,0,60169,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/25a5934a/Atletico-Madrid-Getafe-December-15-2024-La-Liga
+166,2024-12-15,"Athletic Club","Alavés",away,1,1,0.7,0.9,0,-0.2,D,1,19239,"Estadio de Mendizorroza",https://fbref.com/en/matches/1fe130a9/Alaves-Athletic-Club-December-15-2024-La-Liga
+167,2024-12-15,"Las Palmas","Real Sociedad",away,0,0,1.0,1.1,0,-0.1,D,1,30775,"Reale Arena",https://fbref.com/en/matches/11192bf0/Real-Sociedad-Las-Palmas-December-15-2024-La-Liga
+168,2024-12-15,Betis,Villarreal,away,2,1,0.8,1.9,1,-1.1,W,3,18757,"Estadio de la Cerámica",https://fbref.com/en/matches/2839ad16/Villarreal-Real-Betis-December-15-2024-La-Liga
+169,2024-12-15,"Leganés",Barcelona,away,1,0,0.4,2.6,1,-2.2,W,3,39523,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/e7bdcc56/Barcelona-Leganes-December-15-2024-La-Liga
+170,2024-12-18,"Rayo Vallecano",Villarreal,away,1,1,1.5,1.4,0,0.1,D,1,14000,"Estadio de la Cerámica",https://fbref.com/en/matches/a11727e1/Villarreal-Rayo-Vallecano-December-18-2024-La-Liga
+171,2024-12-18,Valencia,Espanyol,away,1,1,2.0,2.1,0,-0.1,D,1,18122,"RCDE Stadium",https://fbref.com/en/matches/8cc12868/Espanyol-Valencia-December-18-2024-La-Liga
+172,2024-12-20,Valladolid,Girona,away,0,3,0.0,2.5,-3,-2.5,L,0,9534,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/0c8db441/Girona-Valladolid-December-20-2024-La-Liga
+173,2024-12-21,Mallorca,Getafe,away,1,0,2.3,0.8,1,1.5,W,3,9747,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/6358b738/Getafe-Mallorca-December-21-2024-La-Liga
+174,2024-12-21,"Real Sociedad","Celta Vigo",away,0,2,0.3,1.3,-2,-1.0,L,0,22956,"Estadio Abanca Balaídos",https://fbref.com/en/matches/e9fe833a/Celta-Vigo-Real-Sociedad-December-21-2024-La-Liga
+175,2024-12-21,"Athletic Club",Osasuna,away,2,1,1.2,0.6,1,0.6,W,3,22030,"Estadio El Sadar",https://fbref.com/en/matches/7c1a412b/Osasuna-Athletic-Club-December-21-2024-La-Liga
+176,2024-12-21,"Atlético Madrid",Barcelona,away,2,1,0.7,2.7,1,-2.0,W,3,46249,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/ac04a5d2/Barcelona-Atletico-Madrid-December-21-2024-La-Liga
+177,2024-12-22,"Alavés",Valencia,away,2,2,1.6,1.5,0,0.1,D,1,37586,"Estadio de Mestalla",https://fbref.com/en/matches/45dc71b5/Valencia-Alaves-December-22-2024-La-Liga
+178,2024-12-22,Sevilla,"Real Madrid",away,2,4,1.3,2.0,-2,-0.7,L,0,75227,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/b839d4ce/Real-Madrid-Sevilla-December-22-2024-La-Liga
+179,2024-12-22,Espanyol,"Las Palmas",away,0,1,0.7,0.9,-1,-0.2,L,0,23743,"Estadio de Gran Canaria",https://fbref.com/en/matches/ebe2bfbd/Las-Palmas-Espanyol-December-22-2024-La-Liga
+180,2024-12-22,Villarreal,"Leganés",away,5,2,3.3,1.2,3,2.1,W,3,11034,"Estadio Municipal de Butarque",https://fbref.com/en/matches/04b6223f/Leganes-Villarreal-December-22-2024-La-Liga
+181,2024-12-22,"Rayo Vallecano",Betis,away,1,1,0.9,2.1,0,-1.2,D,1,53121,"Estadio Benito Villamarín",https://fbref.com/en/matches/aff51fb4/Real-Betis-Rayo-Vallecano-December-22-2024-La-Liga
+182,2025-01-03,"Real Madrid",Valencia,away,2,1,2.7,1.3,1,1.4,W,3,46420,"Estadio de Mestalla",https://fbref.com/en/matches/15e84040/Valencia-Real-Madrid-January-3-2025-La-Liga
+183,2025-01-10,"Celta Vigo","Rayo Vallecano",away,1,2,2.1,0.7,-1,1.4,L,0,12955,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/e55b978c/Rayo-Vallecano-Celta-Vigo-January-10-2025-La-Liga
+184,2025-01-11,Girona,"Alavés",away,1,0,0.5,1.3,1,-0.8,W,3,16454,"Estadio de Mendizorroza",https://fbref.com/en/matches/66b19e25/Alaves-Girona-January-11-2025-La-Liga
+185,2025-01-11,Betis,Valladolid,away,0,1,0.7,1.2,-1,-0.5,L,0,21911,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/e9c90680/Valladolid-Real-Betis-January-11-2025-La-Liga
+186,2025-01-11,"Leganés",Espanyol,away,1,1,2.0,0.7,0,1.3,D,1,26606,"RCDE Stadium",https://fbref.com/en/matches/4fb3dc98/Espanyol-Leganes-January-11-2025-La-Liga
+187,2025-01-11,Valencia,Sevilla,away,1,1,0.7,0.5,0,0.2,D,1,34297,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/7652232d/Sevilla-Valencia-January-11-2025-La-Liga
+188,2025-01-12,Getafe,"Las Palmas",away,2,1,1.1,1.3,1,-0.2,W,3,23698,"Estadio de Gran Canaria",https://fbref.com/en/matches/e1cfa735/Las-Palmas-Getafe-January-12-2025-La-Liga
+189,2025-01-12,Osasuna,"Atlético Madrid",away,0,1,0.3,2.5,-1,-2.2,L,0,64801,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/2367dade/Atletico-Madrid-Osasuna-January-12-2025-La-Liga
+190,2025-01-13,Villarreal,"Real Sociedad",away,0,1,1.2,0.8,-1,0.4,L,0,20855,"Reale Arena",https://fbref.com/en/matches/ecd47b8a/Real-Sociedad-Villarreal-January-13-2025-La-Liga
+191,2025-01-17,Valladolid,Espanyol,away,1,2,1.2,1.0,-1,0.2,L,0,23554,"RCDE Stadium",https://fbref.com/en/matches/75d8fa7a/Espanyol-Valladolid-January-17-2025-La-Liga
+192,2025-01-18,Sevilla,Girona,away,2,1,2.6,1.0,1,1.6,W,3,12040,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/5dbf000f/Girona-Sevilla-January-18-2025-La-Liga
+193,2025-01-18,"Atlético Madrid","Leganés",away,0,1,2.4,0.5,-1,1.9,L,0,12371,"Estadio Municipal de Butarque",https://fbref.com/en/matches/7ba8b655/Leganes-Atletico-Madrid-January-18-2025-La-Liga
+194,2025-01-18,"Alavés",Betis,away,3,1,1.5,0.5,2,1.0,W,3,50021,"Estadio Benito Villamarín",https://fbref.com/en/matches/fe96c24b/Real-Betis-Alaves-January-18-2025-La-Liga
+195,2025-01-18,Barcelona,Getafe,away,1,1,2.3,1.3,0,1.0,D,1,15134,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/ac3f8e9a/Getafe-Barcelona-January-18-2025-La-Liga
+196,2025-01-19,"Athletic Club","Celta Vigo",away,2,1,1.8,0.6,1,1.2,W,3,22279,"Estadio Abanca Balaídos",https://fbref.com/en/matches/a5448163/Celta-Vigo-Athletic-Club-January-19-2025-La-Liga
+197,2025-01-19,"Las Palmas","Real Madrid",away,1,4,1.1,5.9,-3,-4.8,L,0,74808,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/c8f36a4b/Real-Madrid-Las-Palmas-January-19-2025-La-Liga
+198,2025-01-19,"Rayo Vallecano",Osasuna,away,1,1,0.8,0.8,0,0.0,D,1,20770,"Estadio El Sadar",https://fbref.com/en/matches/b85ff6cf/Osasuna-Rayo-Vallecano-January-19-2025-La-Liga
+199,2025-01-19,"Real Sociedad",Valencia,away,0,1,0.8,1.6,-1,-0.8,L,0,40791,"Estadio de Mestalla",https://fbref.com/en/matches/b0b640d3/Valencia-Real-Sociedad-January-19-2025-La-Liga
+200,2025-01-20,Mallorca,Villarreal,away,0,4,0.5,2.4,-4,-1.9,L,0,14852,"Estadio de la Cerámica",https://fbref.com/en/matches/fd632e2f/Villarreal-Mallorca-January-20-2025-La-Liga
+201,2025-01-24,Osasuna,"Las Palmas",away,1,1,2.6,0.8,0,1.8,D,1,19762,"Estadio de Gran Canaria",https://fbref.com/en/matches/28b22659/Las-Palmas-Osasuna-January-24-2025-La-Liga
+202,2025-01-25,Betis,Mallorca,away,1,0,0.4,1.0,1,-0.6,W,3,19452,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/2395eb39/Mallorca-Real-Betis-January-25-2025-La-Liga
+203,2025-01-25,Villarreal,"Atlético Madrid",away,1,1,2.2,1.7,0,0.5,D,1,63596,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/6566ae8c/Atletico-Madrid-Villarreal-January-25-2025-La-Liga
+204,2025-01-25,Espanyol,Sevilla,away,1,1,0.7,1.2,0,-0.5,D,1,33602,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/10db0915/Sevilla-Espanyol-January-25-2025-La-Liga
+205,2025-01-25,"Real Madrid",Valladolid,away,3,0,2.0,0.2,3,1.8,W,3,26025,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/382d5e03/Valladolid-Real-Madrid-January-25-2025-La-Liga
+206,2025-01-26,Girona,"Rayo Vallecano",away,1,2,1.0,2.4,-1,-1.4,L,0,12405,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/af7b751a/Rayo-Vallecano-Girona-January-26-2025-La-Liga
+207,2025-01-26,Getafe,"Real Sociedad",away,3,0,1.4,0.9,3,0.5,W,3,30004,"Reale Arena",https://fbref.com/en/matches/2450ca46/Real-Sociedad-Getafe-January-26-2025-La-Liga
+208,2025-01-26,"Leganés","Athletic Club",away,0,0,1.0,2.1,0,-1.1,D,1,47612,"San Mamés",https://fbref.com/en/matches/f17ca419/Athletic-Club-Leganes-January-26-2025-La-Liga
+209,2025-01-26,Valencia,Barcelona,away,1,7,1.5,4.4,-6,-2.9,L,0,45312,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/77dda45d/Barcelona-Valencia-January-26-2025-La-Liga
+210,2025-01-27,"Celta Vigo","Alavés",away,1,1,0.1,0.9,0,-0.8,D,1,13612,"Estadio de Mendizorroza",https://fbref.com/en/matches/b418c449/Alaves-Celta-Vigo-January-27-2025-La-Liga
+211,2025-01-31,"Rayo Vallecano","Leganés",away,1,0,2.2,0.9,1,1.3,W,3,11432,"Estadio Municipal de Butarque",https://fbref.com/en/matches/43d7418a/Leganes-Rayo-Vallecano-January-31-2025-La-Liga
+212,2025-02-01,Sevilla,Getafe,away,0,0,0.9,1.0,0,-0.1,D,1,11730,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/b992fee4/Getafe-Sevilla-February-1-2025-La-Liga
+213,2025-02-01,Valladolid,Villarreal,away,1,5,0.5,3.5,-4,-3.0,L,0,17032,"Estadio de la Cerámica",https://fbref.com/en/matches/0688f714/Villarreal-Valladolid-February-1-2025-La-Liga
+214,2025-02-01,Mallorca,"Atlético Madrid",away,0,2,0.5,1.3,-2,-0.8,L,0,60710,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/15ceb2e9/Atletico-Madrid-Mallorca-February-1-2025-La-Liga
+215,2025-02-01,"Real Madrid",Espanyol,away,0,1,1.3,0.3,-1,1.0,L,0,33669,"RCDE Stadium",https://fbref.com/en/matches/bb8e8b39/Espanyol-Real-Madrid-February-1-2025-La-Liga
+216,2025-02-02,"Alavés",Barcelona,away,0,1,0.1,1.0,-1,-0.9,L,0,42900,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/5dd33e2b/Barcelona-Alaves-February-2-2025-La-Liga
+217,2025-02-02,"Celta Vigo",Valencia,away,1,2,0.4,1.6,-1,-1.2,L,0,42273,"Estadio de Mestalla",https://fbref.com/en/matches/85f339a3/Valencia-Celta-Vigo-February-2-2025-La-Liga
+218,2025-02-02,"Real Sociedad",Osasuna,away,1,2,2.0,0.7,-1,1.3,L,0,21678,"Estadio El Sadar",https://fbref.com/en/matches/2b4789d5/Osasuna-Real-Sociedad-February-2-2025-La-Liga
+219,2025-02-02,"Athletic Club",Betis,away,2,2,1.4,1.1,0,0.3,D,1,49292,"Estadio Benito Villamarín",https://fbref.com/en/matches/dc8dc26b/Real-Betis-Athletic-Club-February-2-2025-La-Liga
+220,2025-02-03,"Las Palmas",Girona,away,1,2,1.5,2.0,-1,-0.5,L,0,10088,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/0a6de3d3/Girona-Las-Palmas-February-3-2025-La-Liga
+221,2025-02-07,Valladolid,"Rayo Vallecano",away,0,1,0.4,2.3,-1,-1.9,L,0,12286,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/7bfbe87f/Rayo-Vallecano-Valladolid-February-7-2025-La-Liga
+222,2025-02-08,Betis,"Celta Vigo",away,2,3,1.3,2.2,-1,-0.9,L,0,22651,"Estadio Abanca Balaídos",https://fbref.com/en/matches/7d25dd93/Celta-Vigo-Real-Betis-February-8-2025-La-Liga
+223,2025-02-08,Girona,"Athletic Club",away,0,3,0.1,3.6,-3,-3.5,L,0,48261,"San Mamés",https://fbref.com/en/matches/87b1fc3e/Athletic-Club-Girona-February-8-2025-La-Liga
+224,2025-02-08,Villarreal,"Las Palmas",away,2,1,0.9,1.4,1,-0.5,W,3,22909,"Estadio de Gran Canaria",https://fbref.com/en/matches/117692e2/Las-Palmas-Villarreal-February-8-2025-La-Liga
+225,2025-02-08,"Atlético Madrid","Real Madrid",away,1,1,1.5,1.6,0,-0.1,D,1,78082,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/442c5b57/El-Derbi-Madrileno-Real-Madrid-Atletico-Madrid-February-8-2025-La-Liga
+226,2025-02-09,Getafe,"Alavés",away,1,0,0.9,1.4,1,-0.5,W,3,16236,"Estadio de Mendizorroza",https://fbref.com/en/matches/39db2a13/Alaves-Getafe-February-9-2025-La-Liga
+227,2025-02-09,"Leganés",Valencia,away,0,2,0.5,1.9,-2,-1.4,L,0,42312,"Estadio de Mestalla",https://fbref.com/en/matches/89c7a794/Valencia-Leganes-February-9-2025-La-Liga
+228,2025-02-09,Espanyol,"Real Sociedad",away,1,2,0.9,1.7,-1,-0.8,L,0,29478,"Reale Arena",https://fbref.com/en/matches/39cd05e4/Real-Sociedad-Espanyol-February-9-2025-La-Liga
+229,2025-02-09,Barcelona,Sevilla,away,4,1,1.9,0.7,3,1.2,W,3,38592,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/57bc3e19/Sevilla-Barcelona-February-9-2025-La-Liga
+230,2025-02-10,Osasuna,Mallorca,away,1,1,1.4,1.3,0,0.0999999999999999,D,1,15378,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/64cac73e/Mallorca-Osasuna-February-10-2025-La-Liga
+231,2025-02-14,Getafe,Girona,away,2,1,0.6,0.9,1,-0.3,W,3,10354,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/2702096e/Girona-Getafe-February-14-2025-La-Liga
+232,2025-02-15,"Alavés","Leganés",away,3,3,1.7,1.8,0,-0.1,D,1,10681,"Estadio Municipal de Butarque",https://fbref.com/en/matches/5bf2e4ce/Leganes-Alaves-February-15-2025-La-Liga
+233,2025-02-15,"Real Madrid",Osasuna,away,1,1,1.4,1.4,0,0.0,D,1,22390,"Estadio El Sadar",https://fbref.com/en/matches/c667c7ca/Osasuna-Real-Madrid-February-15-2025-La-Liga
+234,2025-02-15,"Celta Vigo","Atlético Madrid",away,1,1,1.7,0.6,0,1.1,D,1,64211,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/ec6e214e/Atletico-Madrid-Celta-Vigo-February-15-2025-La-Liga
+235,2025-02-15,Valencia,Villarreal,away,1,1,1.1,1.3,0,-0.2,D,1,19701,"Estadio de la Cerámica",https://fbref.com/en/matches/71df1d23/Villarreal-Valencia-February-15-2025-La-Liga
+236,2025-02-16,"Athletic Club",Espanyol,away,1,1,1.0,0.8,0,0.2,D,1,26645,"RCDE Stadium",https://fbref.com/en/matches/d0f5d736/Espanyol-Athletic-Club-February-16-2025-La-Liga
+237,2025-02-16,Sevilla,Valladolid,away,4,0,1.1,0.5,4,0.6,W,3,22123,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/fbad97f4/Valladolid-Sevilla-February-16-2025-La-Liga
+238,2025-02-16,"Las Palmas",Mallorca,away,1,3,0.8,1.7,-2,-0.9,L,0,18475,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/041d6702/Mallorca-Las-Palmas-February-16-2025-La-Liga
+239,2025-02-16,"Real Sociedad",Betis,away,0,3,0.3,2.3,-3,-2.0,L,0,48758,"Estadio Benito Villamarín",https://fbref.com/en/matches/f7ee4708/Real-Betis-Real-Sociedad-February-16-2025-La-Liga
+240,2025-02-17,"Rayo Vallecano",Barcelona,away,0,1,1.0,2.3,-1,-1.3,L,0,45296,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/b299fca9/Barcelona-Rayo-Vallecano-February-17-2025-La-Liga
+241,2025-02-21,Osasuna,"Celta Vigo",away,0,1,1.2,1.8,-1,-0.6,L,0,22005,"Estadio Abanca Balaídos",https://fbref.com/en/matches/138c629e/Celta-Vigo-Osasuna-February-21-2025-La-Liga
+242,2025-02-22,Espanyol,"Alavés",away,1,0,0.4,1.8,1,-1.4,W,3,17068,"Estadio de Mendizorroza",https://fbref.com/en/matches/776298df/Alaves-Espanyol-February-22-2025-La-Liga
+243,2025-02-22,Villarreal,"Rayo Vallecano",away,1,0,0.6,0.6,1,0.0,W,3,13373,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/4d0c9845/Rayo-Vallecano-Villarreal-February-22-2025-La-Liga
+244,2025-02-22,"Atlético Madrid",Valencia,away,3,0,1.3,0.8,3,0.5,W,3,46297,"Estadio de Mestalla",https://fbref.com/en/matches/cc85a3d4/Valencia-Atletico-Madrid-February-22-2025-La-Liga
+245,2025-02-22,Barcelona,"Las Palmas",away,2,0,1.4,0.4,2,1.0,W,3,30746,"Estadio de Gran Canaria",https://fbref.com/en/matches/6b455e82/Las-Palmas-Barcelona-February-22-2025-La-Liga
+246,2025-02-23,Valladolid,"Athletic Club",away,1,7,0.5,3.8,-6,-3.3,L,0,47715,"San Mamés",https://fbref.com/en/matches/e42061f0/Athletic-Club-Valladolid-February-23-2025-La-Liga
+247,2025-02-23,Girona,"Real Madrid",away,0,2,0.4,2.2,-2,-1.8,L,0,74028,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/9289e6ed/Real-Madrid-Girona-February-23-2025-La-Liga
+248,2025-02-23,Betis,Getafe,away,2,1,2.0,1.2,1,0.8,W,3,13964,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/738f8f85/Getafe-Real-Betis-February-23-2025-La-Liga
+249,2025-02-23,"Leganés","Real Sociedad",away,0,3,0.3,0.7,-3,-0.4,L,0,22533,"Reale Arena",https://fbref.com/en/matches/1182bc6e/Real-Sociedad-Leganes-February-23-2025-La-Liga
+250,2025-02-24,Mallorca,Sevilla,away,1,1,2.3,1.3,0,1.0,D,1,35424,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/409ec366/Sevilla-Mallorca-February-24-2025-La-Liga
+251,2025-02-28,"Las Palmas",Valladolid,away,1,1,0.2,1.8,0,-1.6,D,1,16024,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/d3f13884/Valladolid-Las-Palmas-February-28-2025-La-Liga
+252,2025-03-01,"Celta Vigo",Girona,away,2,2,1.8,0.7,0,1.1,D,1,11449,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/3865f1d2/Girona-Celta-Vigo-March-1-2025-La-Liga
+253,2025-03-01,Sevilla,"Rayo Vallecano",away,1,1,0.6,2.8,0,-2.2,D,1,11947,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/3736c3d4/Rayo-Vallecano-Sevilla-March-1-2025-La-Liga
+254,2025-03-01,"Real Madrid",Betis,away,1,2,0.9,2.4,-1,-1.5,L,0,55873,"Estadio Benito Villamarín",https://fbref.com/en/matches/f1e4f58c/Real-Betis-Real-Madrid-March-1-2025-La-Liga
+255,2025-03-01,"Athletic Club","Atlético Madrid",away,0,1,1.1,2.2,-1,-1.1,L,0,63810,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/1971e698/Atletico-Madrid-Athletic-Club-March-1-2025-La-Liga
+256,2025-03-02,Getafe,"Leganés",away,0,1,0.3,1.0,-1,-0.7,L,0,10311,"Estadio Municipal de Butarque",https://fbref.com/en/matches/f079fabc/Leganes-Getafe-March-2-2025-La-Liga
+257,2025-03-02,"Real Sociedad",Barcelona,away,0,4,0.0,2.8,-4,-2.8,L,0,46324,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/0b2c987f/Barcelona-Real-Sociedad-March-2-2025-La-Liga
+258,2025-03-02,"Alavés",Mallorca,away,1,1,1.6,1.1,0,0.5,D,1,17702,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/6c84aa28/Mallorca-Alaves-March-2-2025-La-Liga
+259,2025-03-02,Valencia,Osasuna,away,3,3,1.8,1.5,0,0.3,D,1,19230,"Estadio El Sadar",https://fbref.com/en/matches/0580ab96/Osasuna-Valencia-March-2-2025-La-Liga
+260,2025-03-08,"Leganés","Celta Vigo",away,1,2,1.0,0.9,-1,0.1,L,0,17326,"Estadio Abanca Balaídos",https://fbref.com/en/matches/cb080ed5/Celta-Vigo-Leganes-March-8-2025-La-Liga
+261,2025-03-08,Villarreal,"Alavés",away,0,1,2.8,1.0,-1,1.8,L,0,16582,"Estadio de Mendizorroza",https://fbref.com/en/matches/fae6d2fd/Alaves-Villarreal-March-8-2025-La-Liga
+262,2025-03-08,Valladolid,Valencia,away,1,2,0.9,1.9,-1,-1.0,L,0,41720,"Estadio de Mestalla",https://fbref.com/en/matches/585ef159/Valencia-Valladolid-March-8-2025-La-Liga
+263,2025-03-09,"Atlético Madrid",Getafe,away,1,2,0.9,1.2,-1,-0.3,L,0,12862,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/1e429e52/Getafe-Atletico-Madrid-March-9-2025-La-Liga
+264,2025-03-09,"Rayo Vallecano","Real Madrid",away,1,2,1.0,1.5,-1,-0.5,L,0,74170,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/d8d672fa/Real-Madrid-Rayo-Vallecano-March-9-2025-La-Liga
+265,2025-03-09,"Las Palmas",Betis,away,0,1,0.6,2.3,-1,-1.7,L,0,49292,"Estadio Benito Villamarín",https://fbref.com/en/matches/887132d0/Real-Betis-Las-Palmas-March-9-2025-La-Liga
+266,2025-03-09,Mallorca,"Athletic Club",away,1,1,0.5,0.7,0,-0.2,D,1,48203,"San Mamés",https://fbref.com/en/matches/54fa5083/Athletic-Club-Mallorca-March-9-2025-La-Liga
+267,2025-03-09,Sevilla,"Real Sociedad",away,1,0,0.6,0.7,1,-0.1,W,3,25478,"Reale Arena",https://fbref.com/en/matches/f1dd2f9a/Real-Sociedad-Sevilla-March-9-2025-La-Liga
+268,2025-03-10,Girona,Espanyol,away,1,1,1.6,0.2,0,1.4,D,1,23997,"RCDE Stadium",https://fbref.com/en/matches/4c7eab6f/Espanyol-Girona-March-10-2025-La-Liga
+269,2025-03-14,"Alavés","Las Palmas",away,2,2,1.7,1.8,0,-0.1,D,1,17566,"Estadio de Gran Canaria",https://fbref.com/en/matches/90b5ee8e/Las-Palmas-Alaves-March-14-2025-La-Liga
+270,2025-03-15,"Celta Vigo",Valladolid,away,1,0,1.5,0.7,1,0.8,W,3,17521,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/19ca64ed/Valladolid-Celta-Vigo-March-15-2025-La-Liga
+271,2025-03-15,Espanyol,Mallorca,away,1,2,0.2,2.7,-1,-2.5,L,0,18240,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/a008668e/Mallorca-Espanyol-March-15-2025-La-Liga
+272,2025-03-15,"Real Madrid",Villarreal,away,2,1,1.1,1.6,1,-0.5,W,3,20559,"Estadio de la Cerámica",https://fbref.com/en/matches/4106e75f/Villarreal-Real-Madrid-March-15-2025-La-Liga
+273,2025-03-15,Valencia,Girona,away,1,1,1.0,0.9,0,0.1,D,1,10262,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/c9bdc26a/Girona-Valencia-March-15-2025-La-Liga
+274,2025-03-16,Betis,"Leganés",away,3,2,2.7,1.3,1,1.4,W,3,11691,"Estadio Municipal de Butarque",https://fbref.com/en/matches/37e0a484/Leganes-Real-Betis-March-16-2025-La-Liga
+275,2025-03-16,"Athletic Club",Sevilla,away,1,0,1.3,0.5,1,0.8,W,3,37016,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/b21dd238/Sevilla-Athletic-Club-March-16-2025-La-Liga
+276,2025-03-16,Getafe,Osasuna,away,2,1,0.5,1.9,1,-1.4,W,3,19611,"Estadio El Sadar",https://fbref.com/en/matches/bd9c5fd6/Osasuna-Getafe-March-16-2025-La-Liga
+277,2025-03-16,"Real Sociedad","Rayo Vallecano",away,2,2,0.6,0.6,0,0.0,D,1,12364,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/6996fe18/Rayo-Vallecano-Real-Sociedad-March-16-2025-La-Liga
+278,2025-03-16,Barcelona,"Atlético Madrid",away,4,2,1.3,1.4,2,-0.0999999999999999,W,3,67602,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/8ddf3820/Atletico-Madrid-Barcelona-March-16-2025-La-Liga
+279,2025-03-27,Osasuna,Barcelona,away,0,3,0.4,3.7,-3,-3.3,L,0,42319,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/af815599/Barcelona-Osasuna-March-27-2025-La-Liga
+280,2025-03-29,Valladolid,"Real Sociedad",away,1,2,0.7,0.7,-1,0.0,L,0,28151,"Reale Arena",https://fbref.com/en/matches/8a068dcb/Real-Sociedad-Valladolid-March-29-2025-La-Liga
+281,2025-03-29,"Atlético Madrid",Espanyol,away,1,1,0.8,1.0,0,-0.2,D,1,30559,"RCDE Stadium",https://fbref.com/en/matches/539f05d4/Espanyol-Atletico-Madrid-March-29-2025-La-Liga
+282,2025-03-29,"Rayo Vallecano","Alavés",away,2,0,0.6,1.5,2,-0.9,W,3,18336,"Estadio de Mendizorroza",https://fbref.com/en/matches/de9887c1/Alaves-Rayo-Vallecano-March-29-2025-La-Liga
+283,2025-03-29,"Leganés","Real Madrid",away,2,3,2.4,2.9,-1,-0.5,L,0,73641,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/02169120/Real-Madrid-Leganes-March-29-2025-La-Liga
+284,2025-03-30,Villarreal,Getafe,away,2,1,1.2,1.0,1,0.2,W,3,11406,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/9efb7811/Getafe-Villarreal-March-30-2025-La-Liga
+285,2025-03-30,Girona,Barcelona,away,1,4,0.5,2.3,-3,-1.8,L,0,48258,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/6e84530a/Barcelona-Girona-March-30-2025-La-Liga
+286,2025-03-30,Mallorca,Valencia,away,0,1,0.6,0.7,-1,-0.1,L,0,44082,"Estadio de Mestalla",https://fbref.com/en/matches/4223fbb4/Valencia-Mallorca-March-30-2025-La-Liga
+287,2025-03-30,Osasuna,"Athletic Club",away,0,0,0.4,0.7,0,-0.3,D,1,49671,"San Mamés",https://fbref.com/en/matches/7e4ab762/Athletic-Club-Osasuna-March-30-2025-La-Liga
+288,2025-03-30,Sevilla,Betis,away,1,2,0.7,1.1,-1,-0.4,L,0,58538,"Estadio Benito Villamarín",https://fbref.com/en/matches/521b1f26/Real-Betis-Sevilla-March-30-2025-La-Liga
+289,2025-03-31,"Las Palmas","Celta Vigo",away,1,1,0.3,1.0,0,-0.7,D,1,18549,"Estadio Abanca Balaídos",https://fbref.com/en/matches/30fa33ba/Celta-Vigo-Las-Palmas-March-31-2025-La-Liga
+290,2025-04-04,Espanyol,"Rayo Vallecano",away,4,0,3.4,0.7,4,2.7,W,3,11905,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/ff92ae47/Rayo-Vallecano-Espanyol-April-4-2025-La-Liga
+291,2025-04-05,"Alavés",Girona,away,1,0,0.8,1.4,1,-0.6,W,3,11384,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/e6b730a8/Girona-Alaves-April-5-2025-La-Liga
+292,2025-04-05,Valencia,"Real Madrid",away,2,1,0.8,3.4,1,-2.6,W,3,75382,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/59db0a32/Real-Madrid-Valencia-April-5-2025-La-Liga
+293,2025-04-05,"Celta Vigo",Mallorca,away,2,1,0.8,0.5,1,0.3,W,3,18291,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/bc459f49/Mallorca-Celta-Vigo-April-5-2025-La-Liga
+294,2025-04-05,Betis,Barcelona,away,1,1,0.3,1.4,0,-1.1,D,1,47043,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/86447b37/Barcelona-Real-Betis-April-5-2025-La-Liga
+295,2025-04-06,"Real Sociedad","Las Palmas",away,3,1,2.4,2.0,2,0.4,W,3,22616,"Estadio de Gran Canaria",https://fbref.com/en/matches/864a0fb8/Las-Palmas-Real-Sociedad-April-6-2025-La-Liga
+296,2025-04-06,"Atlético Madrid",Sevilla,away,2,1,1.3,0.9,1,0.4,W,3,34505,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/4b093821/Sevilla-Atletico-Madrid-April-6-2025-La-Liga
+297,2025-04-06,Getafe,Valladolid,away,4,0,1.9,0.6,4,1.3,W,3,17737,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/e33c8281/Valladolid-Getafe-April-6-2025-La-Liga
+298,2025-04-06,"Athletic Club",Villarreal,away,0,0,0.8,2.1,0,-1.3,D,1,19158,"Estadio de la Cerámica",https://fbref.com/en/matches/65afea5b/Villarreal-Athletic-Club-April-6-2025-La-Liga
+299,2025-04-07,Osasuna,"Leganés",away,1,1,2.2,1.7,0,0.5,D,1,10755,"Estadio Municipal de Butarque",https://fbref.com/en/matches/62c1d5cc/Leganes-Osasuna-April-7-2025-La-Liga
+300,2025-04-11,Sevilla,Valencia,away,0,1,0.8,1.3,-1,-0.5,L,0,45618,"Estadio de Mestalla",https://fbref.com/en/matches/160a9af7/Valencia-Sevilla-April-11-2025-La-Liga
+301,2025-04-12,Mallorca,"Real Sociedad",away,2,0,0.7,0.7,2,0.0,W,3,29181,"Reale Arena",https://fbref.com/en/matches/a449c18e/Real-Sociedad-Mallorca-April-12-2025-La-Liga
+302,2025-04-12,"Las Palmas",Getafe,away,3,1,1.3,1.4,2,-0.0999999999999999,W,3,8370,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/606774d3/Getafe-Las-Palmas-April-12-2025-La-Liga
+303,2025-04-12,Espanyol,"Celta Vigo",away,2,0,1.2,0.9,2,0.3,W,3,19801,"Estadio Abanca Balaídos",https://fbref.com/en/matches/3aa5024f/Celta-Vigo-Espanyol-April-12-2025-La-Liga
+304,2025-04-12,Barcelona,"Leganés",away,1,0,1.4,0.7,1,0.7,W,3,12530,"Estadio Municipal de Butarque",https://fbref.com/en/matches/5160bd9d/Leganes-Barcelona-April-12-2025-La-Liga
+305,2025-04-13,Girona,Osasuna,away,1,2,0.9,1.7,-1,-0.8,L,0,20260,"Estadio El Sadar",https://fbref.com/en/matches/57baf278/Osasuna-Girona-April-13-2025-La-Liga
+306,2025-04-13,"Real Madrid","Alavés",away,1,0,0.9,0.6,1,0.3,W,3,19438,"Estadio de Mendizorroza",https://fbref.com/en/matches/988deece/Alaves-Real-Madrid-April-13-2025-La-Liga
+307,2025-04-13,Villarreal,Betis,away,2,1,1.3,1.4,1,-0.0999999999999999,W,3,54778,"Estadio Benito Villamarín",https://fbref.com/en/matches/028b10dc/Real-Betis-Villarreal-April-13-2025-La-Liga
+308,2025-04-13,"Rayo Vallecano","Athletic Club",away,1,3,1.6,1.6,-2,0.0,L,0,47584,"San Mamés",https://fbref.com/en/matches/82c58306/Athletic-Club-Rayo-Vallecano-April-13-2025-La-Liga
+309,2025-04-14,Valladolid,"Atlético Madrid",away,2,4,1.2,3.4,-2,-2.2,L,0,55936,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/b955d331/Atletico-Madrid-Valladolid-April-14-2025-La-Liga
+310,2025-04-18,Getafe,Espanyol,away,0,1,0.4,0.4,-1,0.0,L,0,25003,"RCDE Stadium",https://fbref.com/en/matches/442a63df/Espanyol-Getafe-April-18-2025-La-Liga
+311,2025-04-19,Valencia,"Rayo Vallecano",away,1,1,2.0,0.5,0,1.5,D,1,11308,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/81da0725/Rayo-Vallecano-Valencia-April-19-2025-La-Liga
+312,2025-04-19,"Celta Vigo",Barcelona,away,3,4,2.1,2.9,-1,-0.8,L,0,48569,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/ac6535dc/Barcelona-Celta-Vigo-April-19-2025-La-Liga
+313,2025-04-19,"Leganés",Mallorca,away,0,0,0.9,0.9,0,0.0,D,1,17404,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/36e23ef5/Mallorca-Leganes-April-19-2025-La-Liga
+314,2025-04-19,"Atlético Madrid","Las Palmas",away,0,1,0.8,0.6,-1,0.2,L,0,27154,"Estadio de Gran Canaria",https://fbref.com/en/matches/84f347ad/Las-Palmas-Atletico-Madrid-April-19-2025-La-Liga
+315,2025-04-20,Osasuna,Valladolid,away,3,2,2.3,1.9,1,0.4,W,3,12230,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/6b0f1761/Valladolid-Osasuna-April-20-2025-La-Liga
+316,2025-04-20,"Real Sociedad",Villarreal,away,2,2,1.7,1.9,0,-0.2,D,1,17620,"Estadio de la Cerámica",https://fbref.com/en/matches/46e117e0/Villarreal-Real-Sociedad-April-20-2025-La-Liga
+317,2025-04-20,"Alavés",Sevilla,away,1,1,1.0,1.6,0,-0.6,D,1,36436,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/be12049b/Sevilla-Alaves-April-20-2025-La-Liga
+318,2025-04-20,"Athletic Club","Real Madrid",away,0,1,0.2,1.5,-1,-1.3,L,0,72535,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/b9c25e18/Real-Madrid-Athletic-Club-April-20-2025-La-Liga
+319,2025-04-21,Betis,Girona,away,3,1,1.7,1.1,2,0.6,W,3,12535,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/0edcec5d/Girona-Real-Betis-April-21-2025-La-Liga
+320,2025-04-22,Espanyol,Valencia,away,1,1,0.3,0.9,0,-0.6,D,1,42448,"Estadio de Mestalla",https://fbref.com/en/matches/17125161/Valencia-Espanyol-April-22-2025-La-Liga
+321,2025-04-22,Mallorca,Barcelona,away,0,1,0.3,3.3,-1,-3.0,L,0,45602,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/a71ce7d1/Barcelona-Mallorca-April-22-2025-La-Liga
+322,2025-04-23,Villarreal,"Celta Vigo",away,0,3,0.4,2.7,-3,-2.3,L,0,19324,"Estadio Abanca Balaídos",https://fbref.com/en/matches/291cfd49/Celta-Vigo-Villarreal-April-23-2025-La-Liga
+323,2025-04-23,"Las Palmas","Athletic Club",away,0,1,1.0,2.1,-1,-1.1,L,0,47724,"San Mamés",https://fbref.com/en/matches/60c208f0/Athletic-Club-Las-Palmas-April-23-2025-La-Liga
+324,2025-04-23,"Real Sociedad","Alavés",away,0,1,0.8,0.6,-1,0.2,L,0,17049,"Estadio de Mendizorroza",https://fbref.com/en/matches/14a28e57/Alaves-Real-Sociedad-April-23-2025-La-Liga
+325,2025-04-23,"Real Madrid",Getafe,away,1,0,1.5,2.3,1,-0.8,W,3,15184,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/5ae33594/Getafe-Real-Madrid-April-23-2025-La-Liga
+326,2025-04-24,Sevilla,Osasuna,away,0,1,1.1,0.3,-1,0.8,L,0,20555,"Estadio El Sadar",https://fbref.com/en/matches/3438a56b/Osasuna-Sevilla-April-24-2025-La-Liga
+327,2025-04-24,Girona,"Leganés",away,1,1,0.5,0.3,0,0.2,D,1,11595,"Estadio Municipal de Butarque",https://fbref.com/en/matches/124ad510/Leganes-Girona-April-24-2025-La-Liga
+328,2025-04-24,"Rayo Vallecano","Atlético Madrid",away,0,3,0.7,2.3,-3,-1.6,L,0,49410,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/a5ffdc50/Atletico-Madrid-Rayo-Vallecano-April-24-2025-La-Liga
+329,2025-04-24,Valladolid,Betis,away,1,5,0.9,1.9,-4,-1.0,L,0,46458,"Estadio Benito Villamarín",https://fbref.com/en/matches/f880625e/Real-Betis-Valladolid-April-24-2025-La-Liga
+330,2025-04-27,Espanyol,Villarreal,away,0,1,1.0,1.4,-1,-0.4,L,0,17236,"Estadio de la Cerámica",https://fbref.com/en/matches/50b976fc/Villarreal-Espanyol-April-27-2025-La-Liga
+331,2025-05-02,Getafe,"Rayo Vallecano",away,0,1,0.9,1.2,-1,-0.3,L,0,11648,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/1ca7012a/Rayo-Vallecano-Getafe-May-2-2025-La-Liga
+332,2025-05-03,"Atlético Madrid","Alavés",away,0,0,0.5,0.5,0,0.0,D,1,18117,"Estadio de Mendizorroza",https://fbref.com/en/matches/7c70cc19/Alaves-Atletico-Madrid-May-3-2025-La-Liga
+333,2025-05-03,Osasuna,Villarreal,away,2,4,1.2,2.2,-2,-1.0,L,0,17147,"Estadio de la Cerámica",https://fbref.com/en/matches/6b5549c2/Villarreal-Osasuna-May-3-2025-La-Liga
+334,2025-05-03,Valencia,"Las Palmas",away,3,2,1.4,1.7,1,-0.3,W,3,24942,"Estadio de Gran Canaria",https://fbref.com/en/matches/bc2261f6/Las-Palmas-Valencia-May-3-2025-La-Liga
+335,2025-05-03,Barcelona,Valladolid,away,2,1,1.9,0.6,1,1.3,W,3,23967,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/af94853a/Valladolid-Barcelona-May-3-2025-La-Liga
+336,2025-05-04,"Celta Vigo","Real Madrid",away,2,3,1.8,2.2,-1,-0.4,L,0,67661,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/08e02efc/Real-Madrid-Celta-Vigo-May-4-2025-La-Liga
+337,2025-05-04,"Leganés",Sevilla,away,2,2,0.6,2.7,0,-2.1,D,1,35495,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/2c94bff7/Sevilla-Leganes-May-4-2025-La-Liga
+338,2025-05-04,Betis,Espanyol,away,2,1,1.1,1.2,1,-0.0999999999999999,W,3,29126,"RCDE Stadium",https://fbref.com/en/matches/be0ab7a4/Espanyol-Real-Betis-May-4-2025-La-Liga
+339,2025-05-04,"Athletic Club","Real Sociedad",away,0,0,0.2,0.9,0,-0.7,D,1,36058,"Reale Arena",https://fbref.com/en/matches/e0d46d97/Real-Sociedad-Athletic-Club-May-4-2025-La-Liga
+340,2025-05-05,Mallorca,Girona,away,0,1,0.5,1.3,-1,-0.8,L,0,7721,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/45dbbb22/Girona-Mallorca-May-5-2025-La-Liga
+341,2025-05-09,"Rayo Vallecano","Las Palmas",away,1,0,1.2,0.7,1,0.5,W,3,20577,"Estadio de Gran Canaria",https://fbref.com/en/matches/ce67853a/Las-Palmas-Rayo-Vallecano-May-9-2025-La-Liga
+342,2025-05-10,Getafe,Valencia,away,0,3,0.5,2.7,-3,-2.2,L,0,43357,"Estadio de Mestalla",https://fbref.com/en/matches/ed775615/Valencia-Getafe-May-10-2025-La-Liga
+343,2025-05-10,Sevilla,"Celta Vigo",away,2,3,2.3,0.9,-1,1.4,L,0,20281,"Estadio Abanca Balaídos",https://fbref.com/en/matches/3537bd55/Celta-Vigo-Sevilla-May-10-2025-La-Liga
+344,2025-05-10,Valladolid,Mallorca,away,1,2,1.8,1.0,-1,0.8,L,0,16018,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/e7540b3e/Mallorca-Valladolid-May-10-2025-La-Liga
+345,2025-05-10,Villarreal,Girona,away,1,0,2.0,0.2,1,1.8,W,3,12011,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/bf02d20b/Girona-Villarreal-May-10-2025-La-Liga
+346,2025-05-10,"Real Sociedad","Atlético Madrid",away,0,4,0.6,1.4,-4,-0.8,L,0,59612,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/dfd588e7/Atletico-Madrid-Real-Sociedad-May-10-2025-La-Liga
+347,2025-05-11,Espanyol,"Leganés",away,2,3,1.2,1.5,-1,-0.3,L,0,11669,"Estadio Municipal de Butarque",https://fbref.com/en/matches/f2459bac/Leganes-Espanyol-May-11-2025-La-Liga
+348,2025-05-11,"Real Madrid",Barcelona,away,3,4,2.7,4.2,-1,-1.5,L,0,50319,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/f1804d9c/El-Clasico-Barcelona-Real-Madrid-May-11-2025-La-Liga
+349,2025-05-11,"Alavés","Athletic Club",away,0,1,0.4,1.3,-1,-0.9,L,0,47947,"San Mamés",https://fbref.com/en/matches/c89b7f67/Athletic-Club-Alaves-May-11-2025-La-Liga
+350,2025-05-11,Osasuna,Betis,away,1,1,2.0,0.4,0,1.6,D,1,52839,"Estadio Benito Villamarín",https://fbref.com/en/matches/05130dc3/Real-Betis-Osasuna-May-11-2025-La-Liga
+351,2025-05-13,Girona,Valladolid,away,1,0,1.4,0.9,1,0.5,W,3,12664,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/336bf51e/Valladolid-Girona-May-13-2025-La-Liga
+352,2025-05-13,"Celta Vigo","Real Sociedad",away,1,0,1.1,1.7,1,-0.6,W,3,25124,"Reale Arena",https://fbref.com/en/matches/c38bd41c/Real-Sociedad-Celta-Vigo-May-13-2025-La-Liga
+353,2025-05-13,"Las Palmas",Sevilla,away,0,1,0.5,1.3,-1,-0.8,L,0,37078,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/0bb2b5ef/Sevilla-Las-Palmas-May-13-2025-La-Liga
+354,2025-05-14,Valencia,"Alavés",away,0,1,0.8,1.8,-1,-1.0,L,0,17626,"Estadio de Mendizorroza",https://fbref.com/en/matches/a0128620/Alaves-Valencia-May-14-2025-La-Liga
+355,2025-05-14,"Leganés",Villarreal,away,0,3,1.1,1.6,-3,-0.5,L,0,17067,"Estadio de la Cerámica",https://fbref.com/en/matches/b14bf95b/Villarreal-Leganes-May-14-2025-La-Liga
+356,2025-05-14,Mallorca,"Real Madrid",away,1,2,0.5,2.6,-1,-2.1,L,0,60753,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/1838bcd7/Real-Madrid-Mallorca-May-14-2025-La-Liga
+357,2025-05-15,Betis,"Rayo Vallecano",away,2,2,1.2,1.2,0,0.0,D,1,13480,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/54538ff7/Rayo-Vallecano-Real-Betis-May-15-2025-La-Liga
+358,2025-05-15,"Atlético Madrid",Osasuna,away,0,2,1.4,0.6,-2,0.8,L,0,21171,"Estadio El Sadar",https://fbref.com/en/matches/ab452039/Osasuna-Atletico-Madrid-May-15-2025-La-Liga
+359,2025-05-15,"Athletic Club",Getafe,away,2,0,1.2,0.4,2,0.8,W,3,11564,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/535ec951/Getafe-Athletic-Club-May-15-2025-La-Liga
+360,2025-05-15,Barcelona,Espanyol,away,2,0,0.6,1.4,2,-0.8,W,3,34283,"RCDE Stadium",https://fbref.com/en/matches/45f486b1/Espanyol-Barcelona-May-15-2025-La-Liga
+361,2025-05-18,"Leganés","Las Palmas",away,1,0,1.5,0.6,1,0.9,W,3,11279,"Estadio de Gran Canaria",https://fbref.com/en/matches/766b10ee/Las-Palmas-Leganes-May-18-2025-La-Liga
+362,2025-05-18,Getafe,Mallorca,away,2,1,1.6,0.4,1,1.2,W,3,18124,"Estadi Mallorca Son Moix",https://fbref.com/en/matches/05c5e52d/Mallorca-Getafe-May-18-2025-La-Liga
+363,2025-05-18,"Athletic Club",Valencia,away,1,0,1.1,0.4,1,0.7,W,3,45641,"Estadio de Mestalla",https://fbref.com/en/matches/e69b0060/Valencia-Athletic-Club-May-18-2025-La-Liga
+364,2025-05-18,Betis,"Atlético Madrid",away,1,4,0.9,4.8,-3,-3.9,L,0,62269,"Riyadh Air Metropolitan Stadium",https://fbref.com/en/matches/07f29baa/Atletico-Madrid-Real-Betis-May-18-2025-La-Liga
+365,2025-05-18,Espanyol,Osasuna,away,0,2,0.7,1.2,-2,-0.5,L,0,21131,"Estadio El Sadar",https://fbref.com/en/matches/e176243c/Osasuna-Espanyol-May-18-2025-La-Liga
+366,2025-05-18,Villarreal,Barcelona,away,3,2,1.8,1.4,1,0.4,W,3,49558,"Estadi Olímpic Lluís Companys",https://fbref.com/en/matches/db2637b7/Barcelona-Villarreal-May-18-2025-La-Liga
+367,2025-05-18,"Alavés",Valladolid,away,1,0,1.4,1.6,1,-0.2,W,3,14506,"Estadio Municipal José Zorrilla",https://fbref.com/en/matches/89b88d0b/Valladolid-Alaves-May-18-2025-La-Liga
+368,2025-05-18,Girona,"Real Sociedad",away,2,3,2.3,2.0,-1,0.3,L,0,28315,"Reale Arena",https://fbref.com/en/matches/1c29483b/Real-Sociedad-Girona-May-18-2025-La-Liga
+369,2025-05-18,"Real Madrid",Sevilla,away,2,0,2.0,0.5,2,1.5,W,3,32500,"Estadio Ramón Sánchez Pizjuán",https://fbref.com/en/matches/cde582d4/Sevilla-Real-Madrid-May-18-2025-La-Liga
+370,2025-05-18,"Rayo Vallecano","Celta Vigo",away,2,1,1.2,2.4,1,-1.2,W,3,21482,"Estadio Abanca Balaídos",https://fbref.com/en/matches/1716ac24/Celta-Vigo-Rayo-Vallecano-May-18-2025-La-Liga
+371,2025-05-23,Valencia,Betis,away,1,1,0.7,0.9,0,-0.2,D,1,51141,"Estadio Benito Villamarín",https://fbref.com/en/matches/a1ad64bb/Real-Betis-Valencia-May-23-2025-La-Liga
+372,2025-05-24,"Real Sociedad","Real Madrid",away,0,2,0.8,2.6,-2,-1.8,L,0,73186,"Estadio Santiago Bernabéu",https://fbref.com/en/matches/14179de8/Real-Madrid-Real-Sociedad-May-24-2025-La-Liga
+373,2025-05-24,Valladolid,"Leganés",away,0,3,0.4,2.1,-3,-1.7,L,0,11523,"Estadio Municipal de Butarque",https://fbref.com/en/matches/12536c9f/Leganes-Valladolid-May-24-2025-La-Liga
+374,2025-05-24,"Las Palmas",Espanyol,away,0,2,0.5,2.0,-2,-1.5,L,0,32511,"RCDE Stadium",https://fbref.com/en/matches/858bd9c5/Espanyol-Las-Palmas-May-24-2025-La-Liga
+375,2025-05-24,Mallorca,"Rayo Vallecano",away,0,0,0.6,2.2,0,-1.6,D,1,13854,"Campo de Fútbol de Vallecas",https://fbref.com/en/matches/fa808cc1/Rayo-Vallecano-Mallorca-May-24-2025-La-Liga
+376,2025-05-24,Osasuna,"Alavés",away,1,1,1.6,2.0,0,-0.4,D,1,19274,"Estadio de Mendizorroza",https://fbref.com/en/matches/ed820dc1/Alaves-Osasuna-May-24-2025-La-Liga
+377,2025-05-24,"Celta Vigo",Getafe,away,2,1,1.5,0.4,1,1.1,W,3,12862,"Coliseum Alfonso Pérez",https://fbref.com/en/matches/4303125c/Getafe-Celta-Vigo-May-24-2025-La-Liga
+378,2025-05-25,"Atlético Madrid",Girona,away,4,0,2.7,0.0,4,2.7,W,3,11546,"Estadi Municipal de Montilivi",https://fbref.com/en/matches/cb8011f0/Girona-Atletico-Madrid-May-25-2025-La-Liga
+379,2025-05-25,Sevilla,Villarreal,away,2,4,1.5,1.1,-2,0.4,L,0,17758,"Estadio de la Cerámica",https://fbref.com/en/matches/b724ff67/Villarreal-Sevilla-May-25-2025-La-Liga
+380,2025-05-25,Barcelona,"Athletic Club",away,3,0,3.5,1.2,3,2.3,W,3,50231,"San Mamés",https://fbref.com/en/matches/20bdd334/Athletic-Club-Barcelona-May-25-2025-La-Liga
