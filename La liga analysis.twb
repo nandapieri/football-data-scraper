@@ -1,0 +1,1752 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20253.25.1210.1815                               -->
+<workbook original-version='18.1' source-build='2025.3.1 (20253.25.1210.1815)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='la_liga_2024_25_matches' inline='true' name='federated.0gg3lld1dbs2p71c2l0hf0q7a69p' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='la_liga_2024_25_matches' name='textscan.0ltaoi91depfx814az6ge1lg4jwy'>
+            <connection class='textscan' directory='/Users/fernanda/Projetos/football-data-scraper/data' filename='la_liga_2024_25_matches.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0ltaoi91depfx814az6ge1lg4jwy' name='la_liga_2024_25_matches.csv' table='[la_liga_2024_25_matches#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='pt_BR'>
+            <column datatype='date' name='date' ordinal='0' />
+            <column datatype='string' name='home_team' ordinal='1' />
+            <column datatype='string' name='away_team' ordinal='2' />
+            <column datatype='string' name='score' ordinal='3' />
+            <column datatype='string' name='xg_home' ordinal='4' />
+            <column datatype='string' name='xg_away' ordinal='5' />
+            <column datatype='integer' name='attendance' ordinal='6' />
+            <column datatype='string' name='venue' ordinal='7' />
+            <column datatype='string' name='match_report_url' ordinal='8' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;pt_BR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;R$&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;pt_BR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot;.&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[date]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>date</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>home_team</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[home_team]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>home_team</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>away_team</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[away_team]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>away_team</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>score</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[score]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>score</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>xg_home</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[xg_home]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>xg_home</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>xg_away</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[xg_away]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>xg_away</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>attendance</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[attendance]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>attendance</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>venue</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[venue]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>venue</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>match_report_url</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[match_report_url]</local-name>
+            <parent-name>[la_liga_2024_25_matches.csv]</parent-name>
+            <remote-alias>match_report_url</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LPT_RBR' />
+            <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='xg Home' datatype='real' default-format='n#,##0.00;-#,##0.00' name='[Calculation_5359390760873984]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='FLOAT([xg_home])' />
+      </column>
+      <column caption='xg Away' datatype='real' default-format='n#,##0.00;-#,##0.00' name='[Calculation_5359390760964097]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='FLOAT([xg_away])' />
+      </column>
+      <column caption='Goals Home' datatype='integer' name='[Calculation_5359390764273666]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='INT(LEFT([score], FIND([score], &quot;–&quot;) - 1))' />
+      </column>
+      <column caption='Goals Away' datatype='integer' name='[Calculation_5359390764326915]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='INT(MID([score], FIND([score], &quot;–&quot;) + 1, 2))' />
+      </column>
+      <column caption='Total Goals' datatype='integer' name='[Calculation_5359390765191172]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='[Calculation_5359390764273666] + [Calculation_5359390764326915]' />
+      </column>
+      <column caption='Goals per match' datatype='real' name='[Calculation_5359390765268997]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([Calculation_5359390765191172]) / COUNT([match_report_url])' />
+      </column>
+      <column caption='HOME' datatype='real' name='[Calculation_5359390777683974]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([Calculation_5359390764273666]) / COUNT([match_report_url])' />
+      </column>
+      <column caption='AWAY' datatype='real' name='[Calculation_5359390777749511]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([Calculation_5359390764326915]) / COUNT([match_report_url])' />
+      </column>
+      <column caption='xG For' datatype='string' name='[Calculation_5359390782898185]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [home_team] = [home_team] THEN&#10;    [xg_home]&#10;ELSE&#10;    [xg_away]&#10;END' />
+      </column>
+      <column caption='la_liga_2024_25_matches.csv' datatype='table' name='[__tableau_internal_object_id__].[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]' role='measure' type='quantitative' />
+      <column caption='Attendance' datatype='integer' name='[attendance]' role='measure' type='quantitative' />
+      <column caption='Away Team' datatype='string' name='[away_team]' role='dimension' type='nominal' />
+      <column caption='Date' datatype='date' name='[date]' role='dimension' type='ordinal' />
+      <column caption='Home Team' datatype='string' name='[home_team]' role='dimension' type='nominal' />
+      <column caption='Match Report Url' datatype='string' name='[match_report_url]' role='dimension' type='nominal' />
+      <column caption='Score' datatype='string' name='[score]' role='dimension' type='nominal' />
+      <column caption='Venue' datatype='string' name='[venue]' role='dimension' type='nominal' />
+      <column caption='Xg Away' datatype='string' name='[xg_away]' role='dimension' type='nominal' />
+      <column caption='Xg Home' datatype='string' name='[xg_home]' role='dimension' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='pt_BR' class='hyper' dbname='/var/folders/43/qgfljl7956q70h4std0nthcc0000gn/T/tableau-temp/#TableauTemp_1m8w5gy0256tdx156o96f0q21lkj.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='01/13/2026 04:54:00 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>date</remote-alias>
+              <ordinal>0</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>142</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>home_team</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[home_team]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>home_team</remote-alias>
+              <ordinal>1</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>20</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LPT_RBR' />
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>away_team</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[away_team]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>away_team</remote-alias>
+              <ordinal>2</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>20</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LPT_RBR' />
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>score</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[score]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>score</remote-alias>
+              <ordinal>3</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>29</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LPT_RBR' />
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>xg_home</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[xg_home]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>xg_home</remote-alias>
+              <ordinal>4</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>44</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LPT_RBR' />
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>xg_away</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[xg_away]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>xg_away</remote-alias>
+              <ordinal>5</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>37</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LPT_RBR' />
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>attendance</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[attendance]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>attendance</remote-alias>
+              <ordinal>6</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>376</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>venue</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[venue]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>venue</remote-alias>
+              <ordinal>7</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>20</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LPT_RBR' />
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>match_report_url</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[match_report_url]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>match_report_url</remote-alias>
+              <ordinal>8</ordinal>
+              <family>la_liga_2024_25_matches.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>380</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LPT_RBR' />
+              <object-id>[la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Brasil&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='la_liga_2024_25_matches.csv' id='la_liga_2024_25_matches.csv_CB82A9C99AA841C4AD4CF183053C9C6B'>
+            <properties context=''>
+              <relation connection='textscan.0ltaoi91depfx814az6ge1lg4jwy' name='la_liga_2024_25_matches.csv' table='[la_liga_2024_25_matches#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='pt_BR'>
+                  <column datatype='date' name='date' ordinal='0' />
+                  <column datatype='string' name='home_team' ordinal='1' />
+                  <column datatype='string' name='away_team' ordinal='2' />
+                  <column datatype='string' name='score' ordinal='3' />
+                  <column datatype='string' name='xg_home' ordinal='4' />
+                  <column datatype='string' name='xg_away' ordinal='5' />
+                  <column datatype='integer' name='attendance' ordinal='6' />
+                  <column datatype='string' name='venue' ordinal='7' />
+                  <column datatype='string' name='match_report_url' ordinal='8' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Away Goals'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontsize='9'>AG</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='la_liga_2024_25_matches' name='federated.0gg3lld1dbs2p71c2l0hf0q7a69p' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0gg3lld1dbs2p71c2l0hf0q7a69p'>
+            <column caption='Goals Away' datatype='integer' name='[Calculation_5359390764326915]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(MID([score], FIND([score], &quot;–&quot;) + 1, 2))' />
+            </column>
+            <column caption='Score' datatype='string' name='[score]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_5359390764326915]' derivation='Sum' name='[sum:Calculation_5359390764326915:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[sum:Calculation_5359390764326915:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='center' />
+                <format attr='text-align' value='left' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{5D69051E-EECE-479E-960A-A95CE2FBAAAD}' />
+    </worksheet>
+    <worksheet name='Goals per Match'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontsize='9'>G/M</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='la_liga_2024_25_matches' name='federated.0gg3lld1dbs2p71c2l0hf0q7a69p' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0gg3lld1dbs2p71c2l0hf0q7a69p'>
+            <column caption='Goals Home' datatype='integer' name='[Calculation_5359390764273666]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(LEFT([score], FIND([score], &quot;–&quot;) - 1))' />
+            </column>
+            <column caption='Goals Away' datatype='integer' name='[Calculation_5359390764326915]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(MID([score], FIND([score], &quot;–&quot;) + 1, 2))' />
+            </column>
+            <column caption='Total Goals' datatype='integer' name='[Calculation_5359390765191172]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Calculation_5359390764273666] + [Calculation_5359390764326915]' />
+            </column>
+            <column caption='Goals per match' datatype='real' name='[Calculation_5359390765268997]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM([Calculation_5359390765191172]) / COUNT([match_report_url])' />
+            </column>
+            <column caption='Match Report Url' datatype='string' name='[match_report_url]' role='dimension' type='nominal' />
+            <column caption='Score' datatype='string' name='[score]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_5359390765268997]' derivation='User' name='[usr:Calculation_5359390765268997:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' data-class='subtotal' field='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390765268997:qk]' value='n#,##0.00;-#,##0.00' />
+            <format attr='font-size' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390765268997:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='center' />
+                <format attr='text-align' value='left' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{F8CE1F18-6A4B-406C-8778-F6B43740A29E}' />
+    </worksheet>
+    <worksheet name='Home Goals'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontsize='9'>HG</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='la_liga_2024_25_matches' name='federated.0gg3lld1dbs2p71c2l0hf0q7a69p' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0gg3lld1dbs2p71c2l0hf0q7a69p'>
+            <column caption='Goals Home' datatype='integer' name='[Calculation_5359390764273666]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(LEFT([score], FIND([score], &quot;–&quot;) - 1))' />
+            </column>
+            <column caption='Score' datatype='string' name='[score]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_5359390764273666]' derivation='Sum' name='[sum:Calculation_5359390764273666:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[sum:Calculation_5359390764273666:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='center' />
+                <format attr='text-align' value='left' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{2C3C93DD-A66A-4C27-B77B-D1BFFF6DEEB9}' />
+    </worksheet>
+    <worksheet name='Home vs Away'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#000000' fontname='Benton Sans Book'>Home Advantage — Goals per Match</run>
+            <run>Æ&#10;</run>
+            <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='10'>Home teams score </run>
+            <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' fontsize='10'>0.28 goals</run>
+            <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='10'> more goals per match on average.</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='la_liga_2024_25_matches' name='federated.0gg3lld1dbs2p71c2l0hf0q7a69p' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0gg3lld1dbs2p71c2l0hf0q7a69p'>
+            <column caption='Goals Home' datatype='integer' name='[Calculation_5359390764273666]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(LEFT([score], FIND([score], &quot;–&quot;) - 1))' />
+            </column>
+            <column caption='Goals Away' datatype='integer' name='[Calculation_5359390764326915]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(MID([score], FIND([score], &quot;–&quot;) + 1, 2))' />
+            </column>
+            <column caption='HOME' datatype='real' name='[Calculation_5359390777683974]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM([Calculation_5359390764273666]) / COUNT([match_report_url])' />
+            </column>
+            <column caption='AWAY' datatype='real' name='[Calculation_5359390777749511]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM([Calculation_5359390764326915]) / COUNT([match_report_url])' />
+            </column>
+            <column caption='Match Report Url' datatype='string' name='[match_report_url]' role='dimension' type='nominal' />
+            <column caption='Score' datatype='string' name='[score]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_5359390777683974]' derivation='User' name='[usr:Calculation_5359390777683974:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_5359390777749511]' derivation='User' name='[usr:Calculation_5359390777749511:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390777683974:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390777749511:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390777683974:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390777749511:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='display' class='0' field='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[Multiple Values]' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390777749511:qk]' value='n0.00;-0.00' />
+            <format attr='text-format' field='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390777683974:qk]' value='n#,##0.00;-#,##0.00' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[Multiple Values]</rows>
+        <cols>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{FD06EF38-7179-44A8-9862-9DD170131DB1}' />
+    </worksheet>
+    <worksheet name='Total Goals'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontsize='9'>TG</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='la_liga_2024_25_matches' name='federated.0gg3lld1dbs2p71c2l0hf0q7a69p' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0gg3lld1dbs2p71c2l0hf0q7a69p'>
+            <column caption='Goals Home' datatype='integer' name='[Calculation_5359390764273666]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(LEFT([score], FIND([score], &quot;–&quot;) - 1))' />
+            </column>
+            <column caption='Goals Away' datatype='integer' name='[Calculation_5359390764326915]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='INT(MID([score], FIND([score], &quot;–&quot;) + 1, 2))' />
+            </column>
+            <column caption='Total Goals' datatype='integer' name='[Calculation_5359390765191172]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Calculation_5359390764273666] + [Calculation_5359390764326915]' />
+            </column>
+            <column caption='Score' datatype='string' name='[score]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_5359390765191172]' derivation='Sum' name='[sum:Calculation_5359390765191172:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[sum:Calculation_5359390765191172:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='center' />
+                <format attr='text-align' value='left' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{7B974E3D-DE56-4400-A11B-0887D1FEA0C0}' />
+    </worksheet>
+    <worksheet name='Total Matches'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#000000' fontname='Benton Sans Book' fontsize='9'>TM</run>
+            <run>Æ&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='la_liga_2024_25_matches' name='federated.0gg3lld1dbs2p71c2l0hf0q7a69p' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0gg3lld1dbs2p71c2l0hf0q7a69p'>
+            <column-instance column='[match_report_url]' derivation='Count' name='[cnt:match_report_url:qk]' pivot='key' type='quantitative' />
+            <column caption='Match Report Url' datatype='string' name='[match_report_url]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='worksheet'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[cnt:match_report_url:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='center' />
+                <format attr='text-align' value='left' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{65B75E83-914C-4C96-B640-15A19EF1C11C}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Season Overview'>
+      <style />
+      <size maxheight='600' maxwidth='1000' minheight='600' minwidth='1000' sizing-mode='fixed' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='97334' id='3' param='vert' type-v2='layout-flow' w='98400' x='800' y='1333'>
+            <zone forceUpdate='true' h='19333' id='5' type-v2='text' w='98400' x='800' y='1333'>
+              <formatted-text>
+                <run bold='true' fontsize='12'>La Liga 2024/25 — Season Overview</run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#000000' fontsize='10'>Match-level data from FBref</run>
+                <run>Æ&#10;&#10;&#10;</run>
+                <run fontcolor='#000000'>HG = Home goals · AG = Away goals · TG = Total goals · G/M = Goals per match</run>
+                <run>Æ&#10;&#10;</run>
+              </formatted-text>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='11167' id='6' param='horz' type-v2='layout-flow' w='98400' x='800' y='20666'>
+              <zone fixed-size='24' h='11167' id='9' is-fixed='true' type-v2='empty' w='3200' x='800' y='20666'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='11167' id='10' name='Total Matches' w='6800' x='4000' y='20666'>
+                <layout-cache fixed-size-h='58' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='24' h='11167' id='12' is-fixed='true' type-v2='empty' w='3200' x='10800' y='20666'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='11167' id='11' name='Home Goals' w='6800' x='14000' y='20666'>
+                <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='19' h='11167' id='14' is-fixed='true' type-v2='empty' w='2700' x='20800' y='20666'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='11167' id='13' name='Away Goals' w='6800' x='23500' y='20666'>
+                <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='24' h='11167' id='16' is-fixed='true' type-v2='empty' w='3200' x='30300' y='20666'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='11167' id='15' name='Total Goals' w='6800' x='33500' y='20666'>
+                <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='24' h='11167' id='18' is-fixed='true' type-v2='empty' w='3200' x='40300' y='20666'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='11167' id='17' name='Goals per Match' w='6800' x='43500' y='20666'>
+                <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='19' param='vert' type-v2='layout-flow' w='98400' x='800' y='1333'>
+                <zone forceUpdate='true' h='19333' id='5' type-v2='text' w='98400' x='800' y='1333'>
+                  <formatted-text>
+                    <run bold='true' fontsize='12'>La Liga 2024/25 — Season Overview</run>
+                    <run>Æ&#10;</run>
+                    <run fontcolor='#000000' fontsize='10'>Match-level data from FBref</run>
+                    <run>Æ&#10;&#10;&#10;</run>
+                    <run fontcolor='#000000'>HG = Home goals · AG = Away goals · TG = Total goals · G/M = Goals per match</run>
+                    <run>Æ&#10;&#10;</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='59' h='11167' id='10' is-fixed='true' name='Total Matches' w='6800' x='4000' y='20666'>
+                  <layout-cache fixed-size-h='58' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='59' h='11167' id='11' is-fixed='true' name='Home Goals' w='6800' x='14000' y='20666'>
+                  <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='59' h='11167' id='13' is-fixed='true' name='Away Goals' w='6800' x='23500' y='20666'>
+                  <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='59' h='11167' id='15' is-fixed='true' name='Total Goals' w='6800' x='33500' y='20666'>
+                  <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='59' h='11167' id='17' is-fixed='true' name='Goals per Match' w='6800' x='43500' y='20666'>
+                  <layout-cache fixed-size-h='59' fixed-size-w='60' type-h='fixed' type-w='fixed' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{067B11F5-3492-46A2-8000-541D01E6EAF6}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
+    <window class='worksheet' name='Total Matches'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[none:match_report_url:nk]</field>
+            <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[none:xg_away:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{3D2F4E11-AA54-494D-B888-4AFD292698EA}' />
+    </window>
+    <window class='worksheet' name='Home Goals'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{D64D5FC2-0CB8-491C-9F93-3EDB6055ACAE}' />
+    </window>
+    <window class='worksheet' name='Away Goals'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{C713831B-35C7-45A3-82F6-84B6D7324C76}' />
+    </window>
+    <window class='worksheet' name='Total Goals'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{56656B11-5187-4AAD-805A-48452B9F0FE3}' />
+    </window>
+    <window class='worksheet' name='Goals per Match'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{9760E75E-FEB0-435F-96F5-0942222C6F7E}' />
+    </window>
+    <window class='dashboard' name='Season Overview'>
+      <viewpoints>
+        <viewpoint name='Away Goals' />
+        <viewpoint name='Goals per Match'>
+          <selection-collection>
+            <tuple-selection>
+              <tuple-reference>
+                <tuple-descriptor>
+                  <pane-descriptor>
+                    <x-fields />
+                    <y-fields />
+                  </pane-descriptor>
+                  <columns>
+                    <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[cnt:match_report_url:qk]</field>
+                    <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[sum:Calculation_5359390764273666:qk]</field>
+                    <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[sum:Calculation_5359390764326915:qk]</field>
+                    <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[sum:Calculation_5359390765191172:qk]</field>
+                    <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[usr:Calculation_5359390765268997:qk]</field>
+                  </columns>
+                </tuple-descriptor>
+                <tuple>
+                  <value>380</value>
+                  <value>552</value>
+                  <value>443</value>
+                  <value>995</value>
+                  <value>2.6184210526315788</value>
+                </tuple>
+              </tuple-reference>
+            </tuple-selection>
+          </selection-collection>
+        </viewpoint>
+        <viewpoint name='Home Goals' />
+        <viewpoint name='Total Goals' />
+        <viewpoint name='Total Matches' />
+      </viewpoints>
+      <active id='-1' />
+      <device-preview visible='true' />
+      <simple-id uuid='{C1141ADF-10B2-43AB-859D-EEEFAF960337}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Home vs Away'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0gg3lld1dbs2p71c2l0hf0q7a69p].[:Measure Names]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{EAE07BDF-0FF8-43A3-95BA-F14C23575212}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='62' name='Away Goals' width='128'>
+      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
+      RU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='62' name='Goals per Match' width='128'>
+      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
+      RMzD/wF0jTdBUtQefwAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='62' name='Home Goals' width='128'>
+      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
+      WwAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='384' name='Home vs Away' width='248'>
+      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
+    </thumbnail>
+    <thumbnail height='384' name='Season Overview' width='384'>
+      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
+      113Hzp07ef755zEYDIwbN47g4GB69+5NVlYWnp6eeHp6kpiYqI0zZswYQkJCtB4kAXr37s13
+      333H2LFjMZvNDB8+nOuuu45p06axdu1azGYznp6eNG/enIqKCp588kleeukl7HY7zzzzjNYH
+      TQNFUbRrFue/uAXgqaee4l//+hcOh4Pu3btr/fC4uLhgMpm0I5SQkJBGndxFRkZe8DKd5s2b
+      M27cOJxOJ23btqV///5afz1wrvfTPn36MGHCBAwGA/fddx8hISHyKkUhxGX5TR4EU1UVp9OJ
+      wWBodAqjYU+/odfJhm6ar+S8dMMdM+dP1zCsodyLjXOxcn76usDzXy14sbY01Pmnr7q8nDpf
+      bHlcDZfTdiGEuBh5ElgIIXRKngQWQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgid
+      kgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgid
+      kgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgidkgAQQgiduqwAUFUV
+      p9OpfXY6naiqqn1ns9lwOByXNcOLldWUbDYbVVVVVzRNQ5sblkHDMLvdjt1ubzT8f7Hb7U2+
+      DFRVpby8/LLHdTgcWlvPb6/T6cRms11We85fXna7HYfDcUXLrcHl1vu3LsPpdFJfX9+ozuXl
+      5WzZsgWHw3HBOn65fx/nl30l64XFYrmiefyenE4nlZWVTV0NcRGXFQBWq5V33nlH+/zBBx9Q
+      VVVFbW0t06ZNY+rUqfztb3/j8OHD/7OslJQUvvnmG+3zzJkzf0G1fzunTp1i6dKlVzTN4cOH
+      GTx4MFarFTi3gn/88cdMnDiR559/ntWrV19WOaqq8uijj/LFF19ccb1/S/X19cyYMeOyx585
+      cybjx49n9OjR/P3vfycnJ4dTp04xfvx4pk6dyrPPPkt1dfXPllFaWsq0adN49NFHefrpp/n3
+      v/9NXV3dBeNt27btZ4Ph1Vdfvex6/1ZlHD58mGeffZaXXnqJSZMmacO3bduGu7s7zz33HMuX
+      L9eGL1y4kClTplxW2ampqTz33HO89NJLjB8//rLr9O6771JWVnb5jfiNORwOdu7cedHvysvL
+      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
+      Go14eXldcwH3W3M6nVRWVuJwOPD19b3mLvo3sFqtVFRU4OnpqZ36gXO/t8ViwWq14u/vf8F1
+      HVVVqaysRFVVvL29r4mHHn8aAJdSUpjP0ndfZ8yzL+MX8P/u8FNVFUtZCSgKPr7+F71ecNH5
+      Op1UWcpxdTXj5uF5wfcSAOdIAAghrprLDQBLWQkOhwP/oGZXv1JIADRo8ruAhBDCxz+wqaug
+      S3/8Y0ghhBBXhZwCEkJcNaqq8kfdwBh0fk0NJACEEEK35BSQEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASAEELolASA
+      EELolASAEP9fe3UgAAAAACDI33qQSyKYEgDAlAAApgQAMCUAgCkBAEwJAGBKAABTAgCYEgDA
+      lAAApgQAMCUAgCkBAEwJAGBKAABTAgCYEgDAlAAApgQAMCUAgCkBAEwJAGBKAABTAgCYEgDA
+      lAAApgQAMCUAgCkBAEwJAGBKAABTAgCYEgDAlAAApgQAMCUAgCkBAEwJAGBKAABTAgCYEgDA
+      lAAApgQAMCUAgCkBAEwJAGBKAABTAgCYEgDAlAAApgQAMBURgCM3ZNoSPQAAAABJRU5ErkJg
+      gg==
+    </thumbnail>
+    <thumbnail height='62' name='Total Goals' width='128'>
+      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
+    </thumbnail>
+    <thumbnail height='62' name='Total Matches' width='128'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
